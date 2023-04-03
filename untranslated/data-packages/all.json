@@ -17,15 +17,32 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "GeoCA",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "_TRG",
+                "KAZ",
+                "KGZ",
+                "TJK",
+                "TKM",
+                "UZB",
                 ""
               ]
             }
+          },
+          {
+            "name": "Gender",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

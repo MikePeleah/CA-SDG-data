@@ -18,16 +18,35 @@
             "title": "Año"
           },
           {
-            "name": "Group",
+            "name": "GeoCA",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "_TRG",
+                "KAZ",
+                "KGZ",
+                "TJK",
+                "TKM",
+                "UZB",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "GeoCA"
+          },
+          {
+            "name": "Gender",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
