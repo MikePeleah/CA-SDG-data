@@ -26,15 +26,6 @@ graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-1-1-title
 graph_titles: []
 graph_type: bar
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2030_target
-    value: 0
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2025_target
-    value: 5
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
