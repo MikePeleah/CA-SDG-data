@@ -44,7 +44,8 @@ graph_target_lines:
   - series: ''
     unit: ''
     label_content: indicator.annotation_2025_target
-    value: 5national_geographical_coverage: ''
+    value: 5
+national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
