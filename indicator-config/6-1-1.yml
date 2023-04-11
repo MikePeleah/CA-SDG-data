@@ -1,5 +1,7 @@
+indicator_name : global_indicators.6-1-1_SH_H2O_SAFE-title
+indicator_number: '6.1.1'
+computation_units: percent
 composite_breakdown_label : ''
-computation_units : ''
 copyright : ''
 data_footnote : ''
 data_non_statistical : false
@@ -27,14 +29,13 @@ expected_disaggregations : []
 graph_annotations : []
 graph_limits : []
 graph_stacked_disaggregation : ''
-graph_title : global_indicators.6-1-1_SH_H2O_SAFE-title
+graph_title : global_indicators.6-1-1-title
 graph_titles : []
 graph_type : line
-indicator_name : global_indicators.6-1-1_SH_H2O_SAFE-title
-indicator_number : 6-1-1_SH_H2O_SAFE
+indicator_number : 6-1-1
 national_geographical_coverage : ''
 page_content : ''
-permalink : '/6-1-1_SH_H2O_SAFE/'
+permalink : '/6-1-1/'
 precision : []
 reporting_status : reported
 sort : ''
@@ -43,4 +44,12 @@ tags : []
 notstarted : reported
 tag : 
   - custom.regional
-graph_target_lines : []
+graph_target_lines:
+  - series: ''
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 100
+  - series: ''
+    unit: ''
+    label_content: indicator.annotation_2025_target
+    value: 85
