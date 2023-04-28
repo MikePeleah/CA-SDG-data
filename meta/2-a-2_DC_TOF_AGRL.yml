@@ -1,0 +1,84 @@
+SDG_GOAL: >-
+  <p>Goal 2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture</p>
+SDG_TARGET: >-
+  <p>Target 2.a: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries</p>
+SDG_INDICATOR: >-
+  <p>Indicator 2.a.2: Total official flows (official development assistance plus other official flows) to the agriculture sector</p>
+SDG_SERIES_DESCR: >-
+  
+META_LAST_UPDATE: >-
+  <p>2017-07-09</p>
+SDG_RELATED_INDICATORS: >-
+  <p>Other ODA indicators</p>
+SDG_CUSTODIAN_AGENCIES: >-
+  <p>Organisation for Economic Co-operation and Development (OECD)</p>
+CONTACT: >-
+  
+CONTACT_ORGANISATION: >-
+  <p>Organisation for Economic Co-operation and Development (OECD)</p>
+CONTACT_NAME: >-
+  
+ORGANISATION_UNIT: >-
+  
+CONTACT_FUNCT: >-
+  
+CONTACT_PHONE: >-
+  
+CONTACT_MAIL: >-
+  
+CONTACT_EMAIL: >-
+  
+IND_DEF_CON_CLASS: >-
+  
+STAT_CONC_DEF: >-
+  <p><strong>Definition:</strong></p><p>Gross disbursements of total ODA and other official flows from all donors to the agriculture sector.</p><p><strong>Concepts:</strong></p><p>ODA: The DAC defines ODA as &#x201C;those flows to countries and territories on the DAC List of ODA Recipients and to multilateral institutions which are </p><ol>  <li>provided by official agencies, including state and local governments, or by their executive agencies; and </li>  <li>each transaction is administered with the promotion of the economic development and welfare of developing countries as its main objective; and</li></ol><p>is concessional in character and conveys a grant element of at least 25 per cent (calculated at a rate of discount of 10 per cent). (See <a href="http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm">http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm</a>)</p><p>Other official flows (OOF): Other official flows (excluding officially supported export credits) are defined as transactions by the official sector which do not meet the conditions for eligibility as ODA, either because they are not primarily aimed at development, or because they are not sufficiently concessional.</p><p>(See <a href="http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf">http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf</a>, Para 24).</p><p>The agriculture sector is as defined by the DAC and comprises all CRS sector codes in the 311 series (see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm)</p>
+UNIT_MEASURE: >-
+  
+CLASS_SYSTEM: >-
+  
+SRC_TYPE_COLL_METHOD: >-
+  
+SOURCE_TYPE: >-
+  <p>The OECD/DAC has been collecting data on official and private resource flows from 1960 at an aggregate level and 1973 at an activity level through the Creditor Reporting System (CRS data are considered complete from 1995 for commitments at an activity level and 2002 for disbursements). </p><p>The data are reported by donors according to the same standards and methodologies (see here: http://www.oecd.org/dac/stats/methodology.htm). </p><p>Data are reported on an annual calendar year basis by statistical reporters in national administrations (aid agencies, Ministries of Foreign Affairs or Finance, etc.</p>
+COLL_METHOD: >-
+  <p>A statistical reporter is responsible for the collection of DAC statistics in each providing country/agency. This reporter is usually located in the national aid agency, Ministry of Foreign Affairs or Finance etc. </p>
+FREQ_COLL: >-
+  <p>Data are published on an annual basis in December for flows in the previous year.</p><p>Detailed 2015 flows will be published in December 2016.</p>
+REL_CAL_POLICY: >-
+  <p>December 2016. </p>
+DATA_SOURCE: >-
+  <p>Data are reported on an annual calendar year basis by statistical reporters in national administrations (aid agencies, Ministries of Foreign Affairs or Finance, etc.</p>
+COMPILING_ORG: >-
+  <p>OECD</p>
+INST_MANDATE: >-
+  
+OTHER_METHOD: >-
+  
+RATIONALE: >-
+  <p>Total ODA and OOF flows to developing countries quantify the public effort (excluding export credits) that donors provide to developing countries for agriculture.</p>
+REC_USE_LIM: >-
+  <p>Data in the Creditor Reporting System are available from 1973. However, the data coverage is considered complete since 1995 for commitments at an activity level and 2002 for disbursements.</p>
+DATA_COMP: >-
+  <p>The sum of ODA and OOF flows from all donors to developing countries in the agriculture sector.</p>
+DATA_VALIDATION: >-
+  
+ADJUSTMENT: >-
+  
+IMPUTATION: >-
+  <ul>  <li><strong>At country level</strong></li></ul><p>Due to high quality of reporting, no estimates are produced for missing data.</p><ul>  <li><strong>At regional and global levels</strong></li></ul><p>Not applicable</p>
+REG_AGG: >-
+  <p>Global and regional figures are based on the sum of ODA and OOF flows to the agriculture sector.</p>
+DOC_METHOD: >-
+  
+QUALITY_MGMNT: >-
+  
+QUALITY_ASSURE: >-
+  
+QUALITY_ASSMNT: >-
+  
+COVERAGE: >-
+  <p><strong>Data availability:</strong></p><p>On a recipient basis for all developing countries eligible for ODA.</p><p><strong>Time series:</strong></p><p>Data available since 1973 on an annual (calendar) basis</p><p><strong>Disaggregation:</strong></p><p>This indicator can be disaggregated by type of flow (ODA or OOF), by donor, recipient country, type of finance, type of aid (project agriculture sub-sector) etc.</p>
+COMPARABILITY: >-
+  <p><strong>Sources of discrepancies:</strong></p><p>DAC statistics are standardized on a calendar year basis for all donors and may differ from fiscal year data available in budget documents for some countries.</p>
+OTHER_DOC: >-
+  <p><strong>URL:</strong></p><p>www.oecd.org/dac/stats</p><p><strong>References:</strong></p><p>See all links here: <a href="http://www.oecd.org/dac/stats/methodology.htm">http://www.oecd.org/dac/stats/methodology.htm</a></p>
