@@ -1,0 +1,1009 @@
+Year,GeoAreaName,Type of product,Value
+2005,Albania,ARM,2.38047
+2005,Albania,AGR,3.26277
+2005,Albania,ALP,1.09684
+2005,Albania,IND,0.59054
+2005,Albania,TEX,1.34645
+2005,Albania,CLO,0.86978
+2010,Albania,OIL,10
+2010,Albania,TEX,1.31597
+2010,Albania,IND,0.77966
+2010,Albania,ALP,1.30563
+2010,Albania,CLO,2.54855
+2005,Bosnia and Herzegovina,ALP,2.33143
+2005,Bosnia and Herzegovina,ARM,4.94676
+2005,Bosnia and Herzegovina,AGR,6.07974
+2005,Bosnia and Herzegovina,IND,1.45036
+2005,Bosnia and Herzegovina,CLO,6.73851
+2005,Bosnia and Herzegovina,OIL,0
+2005,Bosnia and Herzegovina,TEX,2.46146
+2010,Bosnia and Herzegovina,TEX,2.57791
+2010,Bosnia and Herzegovina,OIL,0
+2010,Bosnia and Herzegovina,CLO,7.94497
+2010,Bosnia and Herzegovina,IND,1.29435
+2010,Albania,AGR,3.10391
+2010,Albania,ARM,0.96774
+2015,Albania,TEX,0.49201
+2015,Albania,AGR,2.98534
+2015,Albania,CLO,0
+2015,Albania,ALP,1.03383
+2015,Albania,IND,0.672
+2016,Albania,TEX,0.6257
+2016,Albania,IND,0.67755
+2016,Albania,ALP,0.92986
+2016,Albania,CLO,0
+2010,Bosnia and Herzegovina,AGR,3.4821
+2010,Bosnia and Herzegovina,ALP,1.78379
+2015,Bosnia and Herzegovina,ALP,1.32302
+2015,Bosnia and Herzegovina,AGR,2.18268
+2015,Bosnia and Herzegovina,TEX,1.73325
+2015,Bosnia and Herzegovina,CLO,6.91812
+2015,Bosnia and Herzegovina,IND,0.98454
+2015,Bosnia and Herzegovina,OIL,0
+2016,Bosnia and Herzegovina,TEX,1.70743
+2016,Bosnia and Herzegovina,AGR,2.1422
+2016,Bosnia and Herzegovina,ALP,1.30788
+2016,Albania,AGR,2.46733
+2017,Albania,AGR,2.27356
+2017,Albania,CLO,0
+2017,Albania,ALP,0.7707
+2017,Albania,IND,0.54746
+2017,Albania,TEX,0.4039
+2018,Albania,IND,0.4753
+2018,Albania,AGR,2.43468
+2018,Albania,TEX,0.4028
+2018,Albania,CLO,0
+2018,Albania,ALP,0.73194
+2016,Bosnia and Herzegovina,IND,0.97545
+2016,Bosnia and Herzegovina,CLO,6.91597
+2016,Bosnia and Herzegovina,OIL,0
+2017,Bosnia and Herzegovina,ALP,1.32117
+2017,Bosnia and Herzegovina,AGR,2.32139
+2017,Bosnia and Herzegovina,TEX,1.7783
+2017,Bosnia and Herzegovina,OIL,0
+2017,Bosnia and Herzegovina,IND,0.93568
+2017,Bosnia and Herzegovina,CLO,7.02857
+2018,Bosnia and Herzegovina,CLO,7.02857
+2018,Bosnia and Herzegovina,OIL,0
+2005,Georgia,IND,3.46173
+2005,Georgia,OIL,0
+2005,Georgia,CLO,10.07834
+2005,Georgia,TEX,8.22506
+2005,Georgia,ARM,3.8069
+2005,Georgia,AGR,8.03127
+2005,Georgia,ALP,4.23957
+2010,Georgia,ALP,0.49116
+2010,Georgia,TEX,0
+2010,Georgia,CLO,0
+2010,Georgia,OIL,0
+2019,Albania,ALP,0.87979
+2019,Albania,CLO,0
+2019,Albania,IND,0.75068
+2019,Albania,AGR,2.0438
+2019,Albania,TEX,0.57909
+2020,Albania,IND,0.68077
+2020,Albania,AGR,2.56756
+2020,Albania,TEX,0.50851
+2020,Albania,CLO,0
+2020,Albania,ALP,0.93859
+2021,Albania,CLO,0
+2010,Republic of Moldova,AGR,5.50219
+2010,Republic of Moldova,ALP,2.36615
+2015,Republic of Moldova,AGR,6.5546
+2015,Republic of Moldova,ALP,3.44166
+2015,Republic of Moldova,CLO,9.66765
+2015,Republic of Moldova,OIL,0
+2015,Republic of Moldova,IND,2.60625
+2015,Republic of Moldova,TEX,4.78267
+2016,Republic of Moldova,ALP,3.45724
+2016,Republic of Moldova,AGR,6.9202
+2016,Republic of Moldova,TEX,4.7376
+2018,Bosnia and Herzegovina,IND,0.93571
+2018,Bosnia and Herzegovina,TEX,1.7783
+2018,Bosnia and Herzegovina,ALP,1.37844
+2018,Bosnia and Herzegovina,AGR,2.41047
+2019,Bosnia and Herzegovina,ALP,1.40469
+2019,Bosnia and Herzegovina,ARM,0.60967
+2019,Bosnia and Herzegovina,AGR,2.20683
+2019,Bosnia and Herzegovina,TEX,2.03609
+2019,Bosnia and Herzegovina,IND,1.03442
+2019,Bosnia and Herzegovina,OIL,0
+2019,Bosnia and Herzegovina,CLO,6.4306
+2020,Bosnia and Herzegovina,CLO,5.97177
+2020,Bosnia and Herzegovina,OIL,0
+2020,Bosnia and Herzegovina,IND,1.07814
+2020,Bosnia and Herzegovina,TEX,2.29146
+2020,Bosnia and Herzegovina,AGR,2.17958
+2020,Bosnia and Herzegovina,ALP,1.46344
+2020,Bosnia and Herzegovina,ARM,1.79415
+2021,Bosnia and Herzegovina,AGR,2.26909
+2021,Bosnia and Herzegovina,TEX,2.97167
+2021,Bosnia and Herzegovina,IND,1.35457
+2021,Bosnia and Herzegovina,OIL,0
+2010,Georgia,ARM,0
+2010,Georgia,IND,0.03229
+2010,Georgia,AGR,2.53153
+2015,Georgia,OIL,0
+2015,Georgia,IND,0.13717
+2015,Georgia,ARM,0
+2015,Georgia,CLO,0
+2015,Georgia,TEX,0.06495
+2015,Georgia,AGR,1.37473
+2015,Georgia,ALP,0.32125
+2016,Georgia,CLO,0
+2016,Georgia,ARM,0
+2016,Georgia,IND,0.13717
+2016,Georgia,OIL,0
+2016,Georgia,ALP,0.32125
+2016,Georgia,AGR,1.37473
+2016,Georgia,TEX,0.06495
+2017,Georgia,IND,0.11455
+2017,Georgia,ARM,0
+2017,Georgia,OIL,0
+2017,Georgia,CLO,0
+2017,Georgia,TEX,0.08676
+2016,Republic of Moldova,IND,2.56389
+2016,Republic of Moldova,OIL,0
+2016,Republic of Moldova,CLO,9.48969
+2017,Republic of Moldova,AGR,7.26261
+2017,Republic of Moldova,CLO,10.01502
+2017,Republic of Moldova,ALP,3.65952
+2017,Republic of Moldova,OIL,0
+2017,Republic of Moldova,IND,2.69642
+2017,Republic of Moldova,TEX,4.8455
+2018,Republic of Moldova,TEX,4.8455
+2018,Republic of Moldova,IND,2.69642
+2021,Bosnia and Herzegovina,CLO,7.08155
+2021,Bosnia and Herzegovina,ARM,2.05266
+2021,Bosnia and Herzegovina,ALP,1.71746
+2005,Belarus,TEX,6.48268
+2005,Belarus,IND,3.74363
+2005,Belarus,OIL,0
+2005,Belarus,AGR,12.44754
+2005,Belarus,ALP,3.40362
+2005,Belarus,CLO,15.80312
+2010,Belarus,TEX,6.21955
+2010,Belarus,CLO,8.05954
+2017,Georgia,AGR,1.01686
+2017,Georgia,ALP,0.23375
+2018,Georgia,ARM,0
+2018,Georgia,IND,0.11455
+2018,Georgia,ALP,0.23375
+2018,Georgia,AGR,1.01686
+2018,Georgia,TEX,0.08676
+2018,Georgia,CLO,0
+2018,Georgia,OIL,0
+2019,Georgia,IND,0.15033
+2019,Georgia,CLO,0
+2019,Georgia,ARM,0
+2019,Georgia,OIL,0
+2019,Georgia,TEX,0.09605
+2019,Georgia,AGR,1.07323
+2019,Georgia,ALP,0.28174
+2020,Georgia,ALP,0.28546
+2020,Georgia,AGR,1.00234
+2020,Georgia,TEX,0.06106
+2020,Georgia,OIL,0
+2020,Georgia,IND,0.14348
+2020,Georgia,ARM,0
+2018,Republic of Moldova,OIL,0
+2018,Republic of Moldova,CLO,10.01502
+2018,Republic of Moldova,ALP,3.65952
+2018,Republic of Moldova,AGR,7.26261
+2019,Republic of Moldova,ALP,3.54188
+2019,Republic of Moldova,CLO,10.72456
+2019,Republic of Moldova,IND,2.64623
+2019,Republic of Moldova,TEX,4.73388
+2019,Republic of Moldova,AGR,7.03479
+2020,Republic of Moldova,TEX,1.72362
+2020,Republic of Moldova,IND,0.79806
+2020,Republic of Moldova,CLO,3.69831
+2020,Republic of Moldova,ALP,1.1639
+2020,Republic of Moldova,AGR,2.46822
+2021,Republic of Moldova,AGR,2.63496
+2021,Republic of Moldova,ALP,1.11851
+2021,Republic of Moldova,CLO,3.20269
+2021,Republic of Moldova,OIL,0
+2021,Republic of Moldova,IND,0.75324
+2021,Republic of Moldova,TEX,2.08818
+2010,Montenegro,AGR,2.78495
+2010,Montenegro,ALP,1.42742
+2021,Albania,TEX,1.33766
+2021,Albania,AGR,2.79772
+2021,Albania,ALP,1.26127
+2021,Albania,IND,0.98774
+2005,Azerbaijan,TEX,14.21423
+2005,Azerbaijan,CLO,14.84239
+2005,Azerbaijan,IND,6.10926
+2005,Azerbaijan,ALP,5.79031
+2005,Azerbaijan,AGR,3.26451
+2010,Azerbaijan,AGR,5.21268
+2010,Azerbaijan,ALP,4.73007
+2010,Montenegro,IND,0.83331
+2010,Montenegro,ARM,0.04543
+2010,Montenegro,CLO,4.61007
+2010,Montenegro,OIL,0
+2010,Montenegro,TEX,2.89421
+2015,Montenegro,IND,0.52228
+2015,Montenegro,ALP,1.16772
+2015,Montenegro,CLO,5.09965
+2015,Montenegro,ARM,2.62244
+2015,Montenegro,AGR,2.44922
+2015,Montenegro,TEX,2.55813
+2010,Azerbaijan,IND,4.56563
+2010,Azerbaijan,CLO,14.44604
+2010,Azerbaijan,TEX,4.56687
+2010,Azerbaijan,OIL,0
+2015,Azerbaijan,CLO,14.42418
+2015,Azerbaijan,ALP,5.72487
+2015,Azerbaijan,AGR,3.43229
+2015,Azerbaijan,TEX,11.95794
+2015,Azerbaijan,IND,6.10044
+2016,Azerbaijan,AGR,2.75959
+2016,Azerbaijan,ALP,5.86227
+2016,Montenegro,IND,0.51862
+2016,Montenegro,ALP,1.1205
+2016,Montenegro,CLO,5.09645
+2016,Montenegro,OIL,0
+2016,Montenegro,TEX,2.54854
+2016,Montenegro,AGR,2.26949
+2016,Montenegro,ARM,2.25096
+2017,Montenegro,ALP,0.95025
+2017,Montenegro,IND,0.43997
+2017,Montenegro,CLO,5.21863
+2017,Montenegro,ARM,1.66283
+2010,Belarus,ALP,3.19493
+2010,Belarus,AGR,10.01541
+2010,Belarus,OIL,0.84771
+2010,Belarus,IND,3.00272
+2015,Belarus,TEX,4.27606
+2015,Belarus,IND,3.17276
+2015,Belarus,OIL,0
+2015,Belarus,AGR,4.63248
+2015,Belarus,ALP,3.25556
+2015,Belarus,CLO,5.55382
+2016,Belarus,CLO,4.14616
+2016,Azerbaijan,CLO,14.79879
+2016,Azerbaijan,IND,6.34698
+2016,Azerbaijan,OIL,0
+2016,Azerbaijan,TEX,13.21586
+2017,Azerbaijan,TEX,12.65846
+2017,Azerbaijan,IND,6.02703
+2017,Azerbaijan,OIL,0
+2017,Azerbaijan,CLO,14.88814
+2017,Azerbaijan,AGR,4.81582
+2017,Azerbaijan,ALP,6.10283
+2018,Azerbaijan,CLO,14.88814
+2018,Azerbaijan,ALP,6.10283
+2018,Azerbaijan,AGR,4.81582
+2018,Azerbaijan,OIL,0
+2018,Azerbaijan,IND,6.02703
+2018,Azerbaijan,TEX,12.65846
+2019,Azerbaijan,TEX,11.43731
+2019,Azerbaijan,IND,7.82221
+2019,Azerbaijan,OIL,0
+2019,Azerbaijan,CLO,14.72834
+2019,Azerbaijan,ALP,7.51074
+2019,Azerbaijan,AGR,5.03428
+2020,Georgia,CLO,0
+2021,Georgia,CLO,0
+2021,Georgia,ARM,0
+2021,Georgia,IND,0.02916
+2021,Georgia,TEX,0.01818
+2021,Georgia,ALP,0.27673
+2021,Georgia,AGR,1.65091
+2005,Iceland,ALP,1.17258
+2005,Iceland,ARM,2.3405
+2005,Iceland,AGR,8.73932
+2005,Iceland,IND,0.44648
+2017,Montenegro,AGR,1.93569
+2017,Montenegro,TEX,2.6739
+2018,Montenegro,ALP,0.90847
+2018,Montenegro,TEX,2.65725
+2018,Montenegro,AGR,1.97715
+2018,Montenegro,ARM,1.66283
+2018,Montenegro,CLO,3.93187
+2018,Montenegro,IND,0.42659
+2019,Montenegro,IND,0.40201
+2019,Montenegro,CLO,4.2793
+2019,Montenegro,ARM,0.6428
+2020,Azerbaijan,OIL,0
+2020,Azerbaijan,IND,6.01015
+2020,Azerbaijan,TEX,10.80697
+2020,Azerbaijan,AGR,4.95642
+2020,Azerbaijan,CLO,14.72392
+2020,Azerbaijan,ALP,6.06424
+2021,Azerbaijan,TEX,10.2067
+2021,Azerbaijan,OIL,0
+2021,Azerbaijan,IND,6.40075
+2021,Azerbaijan,ALP,6.33184
+2021,Azerbaijan,CLO,14.70306
+2021,Azerbaijan,AGR,4.80675
+2005,Armenia,ALP,2.35793
+2005,Armenia,AGR,6.6383
+2005,Armenia,TEX,3.21294
+2005,Armenia,IND,1.14947
+2005,Armenia,CLO,9.86003
+2010,Armenia,CLO,9.76344
+2010,Armenia,AGR,6.28381
+2010,Armenia,ALP,3.12318
+2010,Armenia,TEX,3.65786
+2010,Armenia,IND,1.98994
+2015,Armenia,AGR,5.36904
+2015,Armenia,ALP,4.15034
+2015,Armenia,CLO,9.89065
+2015,Armenia,IND,3.39846
+2015,Armenia,TEX,6.07413
+2016,Armenia,TEX,3.92339
+2016,Armenia,IND,2.23552
+2016,Armenia,CLO,6.70058
+2016,Armenia,ALP,2.65609
+2016,Armenia,AGR,3.57893
+2017,Armenia,IND,1.89112
+2017,Armenia,TEX,4.99654
+2017,Armenia,AGR,3.62078
+2017,Armenia,ALP,2.47709
+2017,Armenia,CLO,6.79927
+2018,Armenia,TEX,6.98572
+2018,Armenia,CLO,8.05507
+2018,Armenia,ALP,4.1383
+2018,Armenia,AGR,5.33275
+2018,Armenia,IND,3.54278
+2019,Armenia,IND,3.2479
+2019,Armenia,AGR,4.39094
+2019,Montenegro,ALP,0.89424
+2019,Montenegro,AGR,2.05087
+2019,Montenegro,TEX,3.17366
+2019,Montenegro,OIL,0
+2020,Montenegro,TEX,3.71257
+2020,Montenegro,AGR,2.08576
+2020,Montenegro,ALP,1.0084
+2020,Montenegro,ARM,5.1741
+2020,Montenegro,CLO,4.13987
+2020,Montenegro,IND,0.45869
+2021,Montenegro,IND,0.48575
+2019,Armenia,CLO,8.64041
+2019,Armenia,TEX,6.54887
+2019,Armenia,ALP,3.709
+2020,Armenia,AGR,3.58908
+2020,Armenia,ALP,3.3207
+2020,Armenia,IND,3.02274
+2020,Armenia,CLO,7.15782
+2020,Armenia,TEX,5.98041
+2021,Armenia,AGR,4.04394
+2021,Armenia,TEX,5.84813
+2021,Armenia,CLO,6.0626
+2021,Armenia,IND,2.77674
+2021,Armenia,ALP,3.17115
+2005,Switzerland,ARM,0.04526
+2005,Switzerland,CLO,0.43447
+2005,Switzerland,AGR,27.66196
+2005,Switzerland,IND,0.04871
+2005,Switzerland,OIL,0
+2005,Switzerland,TEX,0.32428
+2005,Switzerland,ALP,1.6677
+2010,Switzerland,IND,0.01873
+2010,Switzerland,CLO,0.45687
+2021,Montenegro,ALP,1.069
+2021,Montenegro,ARM,13.32518
+2021,Montenegro,AGR,2.12605
+2021,Montenegro,TEX,3.17951
+2021,Montenegro,CLO,4.14939
+2005,Norway,TEX,0.7901
+2005,Norway,ALP,1.32567
+2005,Norway,ARM,0
+2005,Norway,CLO,2.1801
+2005,Norway,AGR,18.74116
+2005,Norway,OIL,0
+2005,Norway,IND,0.10149
+2010,Norway,ALP,2.87552
+2010,Norway,TEX,0.63502
+2010,Norway,IND,0.13757
+2010,Norway,OIL,0
+2010,Norway,AGR,36.50449
+2010,Norway,CLO,2.40296
+2010,Norway,ARM,0
+2015,Norway,TEX,0.52237
+2015,Norway,ALP,2.70177
+2015,Norway,ARM,0
+2010,Switzerland,ARM,0.02476
+2010,Switzerland,AGR,19.31658
+2010,Switzerland,TEX,0.2281
+2010,Switzerland,OIL,0
+2010,Switzerland,ALP,1.20983
+2015,Switzerland,ARM,0.05589
+2015,Switzerland,CLO,0.34433
+2015,Switzerland,IND,0.01793
+2015,Switzerland,ALP,1.04094
+2015,Switzerland,OIL,0
+2015,Switzerland,TEX,0.18908
+2015,Switzerland,AGR,22.01004
+2016,Switzerland,CLO,0.26379
+2016,Switzerland,ARM,0.05519
+2016,Switzerland,AGR,21.05563
+2016,Switzerland,ALP,0.99418
+2016,Switzerland,OIL,0
+2016,Switzerland,TEX,0.17814
+2016,Switzerland,IND,0.01691
+2017,Switzerland,ARM,0.05692
+2017,Switzerland,CLO,0.27858
+2017,Switzerland,IND,0.01795
+2017,Switzerland,TEX,0.1927
+2017,Switzerland,OIL,0
+2017,Switzerland,ALP,0.97004
+2017,Switzerland,AGR,20.83856
+2018,Switzerland,ARM,0.06037
+2018,Switzerland,AGR,19.33124
+2018,Switzerland,ALP,0.9018
+2018,Switzerland,TEX,0.19599
+2018,Switzerland,OIL,0
+2018,Switzerland,IND,0.01793
+2018,Switzerland,CLO,0.28277
+2015,Norway,CLO,1.96517
+2015,Norway,AGR,29.22068
+2015,Norway,OIL,0
+2015,Norway,IND,0.0409
+2016,Norway,OIL,0
+2016,Norway,AGR,25.05265
+2016,Norway,CLO,1.96517
+2016,Norway,ARM,0
+2016,Norway,IND,0.02667
+2016,Norway,ALP,2.31868
+2016,Norway,TEX,0.52237
+2017,Norway,TEX,0.48932
+2017,Norway,IND,0.02241
+2017,Norway,ALP,2.07928
+2017,Norway,AGR,22.85308
+2017,Norway,CLO,1.89366
+2017,Norway,OIL,0
+2017,Norway,ARM,0
+2018,Norway,ARM,0
+2018,Norway,OIL,0
+2018,Norway,CLO,1.89366
+2018,Norway,AGR,30.68978
+2016,Belarus,ALP,2.15582
+2016,Belarus,AGR,4.54714
+2016,Belarus,OIL,0
+2016,Belarus,IND,2.22824
+2016,Belarus,TEX,3.71478
+2017,Belarus,AGR,3.848
+2017,Belarus,ALP,2.04687
+2017,Belarus,CLO,5.5096
+2017,Belarus,TEX,4.80906
+2017,Belarus,OIL,0
+2017,Belarus,IND,2.0336
+2018,Belarus,CLO,5.69683
+2018,Belarus,AGR,3.70329
+2018,Belarus,ALP,1.92996
+2018,Belarus,IND,1.88991
+2018,Belarus,TEX,4.7594
+2018,Belarus,OIL,0
+2019,Belarus,OIL,0
+2019,Belarus,TEX,4.79975
+2019,Belarus,IND,2.00213
+2019,Belarus,CLO,4.97054
+2019,Belarus,ALP,1.87961
+2019,Belarus,AGR,3.09071
+2020,Belarus,ALP,2.04391
+2020,Belarus,IND,2.12968
+2020,Belarus,CLO,4.39372
+2020,Belarus,TEX,4.25423
+2020,Belarus,OIL,0
+2020,Belarus,AGR,2.94323
+2021,Belarus,TEX,4.16546
+2021,Belarus,CLO,4.69755
+2021,Belarus,IND,1.99347
+2021,Belarus,ALP,2.19559
+2018,Norway,IND,0.02526
+2018,Norway,TEX,0.48932
+2018,Norway,ALP,2.75334
+2019,Norway,IND,0.02486
+2019,Norway,AGR,18.82702
+2019,Norway,CLO,1.72236
+2019,Norway,OIL,0
+2019,Norway,ARM,0
+2019,Norway,ALP,1.46921
+2019,Norway,TEX,0.47328
+2020,Norway,ARM,0
+2020,Norway,CLO,1.73944
+2020,Norway,AGR,16.19204
+2020,Norway,OIL,0
+2020,Norway,IND,0.03629
+2020,Norway,TEX,0.38665
+2020,Norway,ALP,1.50127
+2021,Norway,AGR,20.91204
+2021,Norway,CLO,1.8474
+2021,Norway,ARM,0
+2021,Norway,ALP,1.93113
+2021,Norway,OIL,0
+2021,Norway,TEX,0.42976
+2021,Norway,IND,0.01018
+2005,Serbia,OIL,1
+2005,Serbia,TEX,7.76282
+2005,Serbia,IND,5.3684
+2005,Serbia,ARM,19.22068
+2005,Serbia,AGR,11.75726
+2005,Serbia,CLO,19.26886
+2005,Serbia,ALP,5.6247
+2010,Serbia,ALP,2.96024
+2010,Serbia,CLO,11.34431
+2005,Iceland,TEX,2.0984
+2005,Iceland,CLO,6.2406
+2010,Iceland,CLO,8.02694
+2010,Iceland,OIL,0
+2010,Iceland,TEX,2.1222
+2010,Iceland,ARM,1.84994
+2010,Iceland,IND,0.41778
+2010,Iceland,AGR,7.18588
+2010,Iceland,ALP,1.26679
+2015,Iceland,ALP,1.1312
+2015,Iceland,AGR,10.56477
+2015,Iceland,IND,0.13851
+2015,Iceland,TEX,0.81772
+2015,Iceland,CLO,1.93179
+2015,Iceland,ARM,1.54039
+2016,Iceland,IND,0.11431
+2016,Iceland,ALP,1.09162
+2016,Iceland,AGR,10.80444
+2016,Iceland,ARM,1.54039
+2016,Iceland,CLO,0
+2016,Iceland,TEX,0.79179
+2017,Iceland,ALP,1.08303
+2017,Iceland,AGR,12.50073
+2017,Iceland,IND,0.00412
+2017,Iceland,ARM,0
+2017,Iceland,CLO,0
+2017,Iceland,TEX,0
+2018,Iceland,CLO,0
+2018,Iceland,ARM,0
+2018,Iceland,TEX,0
+2018,Iceland,IND,0.00412
+2018,Iceland,ALP,1.08303
+2018,Iceland,AGR,12.50073
+2010,Serbia,AGR,7.49871
+2010,Serbia,ARM,10.2785
+2010,Serbia,IND,2.64409
+2010,Serbia,TEX,2.4533
+2010,Serbia,OIL,0.13771
+2015,Serbia,IND,0.96457
+2015,Serbia,OIL,0
+2015,Serbia,ARM,2.94881
+2015,Serbia,AGR,3.46346
+2015,Serbia,CLO,10.85673
+2015,Serbia,ALP,1.3428
+2019,Iceland,ALP,1.01867
+2019,Iceland,IND,0.00435
+2019,Iceland,TEX,0
+2019,Iceland,OIL,0
+2019,Iceland,ARM,0
+2019,Iceland,CLO,0
+2019,Iceland,AGR,10.17041
+2020,Iceland,CLO,0
+2020,Iceland,IND,0.00417
+2020,Iceland,ARM,0
+2020,Iceland,TEX,0
+2019,Switzerland,IND,0.0189
+2019,Switzerland,CLO,0.2711
+2019,Switzerland,ARM,0.04006
+2019,Switzerland,OIL,0
+2019,Switzerland,TEX,0.20433
+2019,Switzerland,ALP,0.79056
+2019,Switzerland,AGR,17.03961
+2020,Switzerland,AGR,16.65929
+2020,Switzerland,OIL,0
+2020,Switzerland,TEX,0.11641
+2020,Switzerland,ARM,0.04064
+2020,Switzerland,CLO,0.26521
+2020,Switzerland,IND,0.01612
+2020,Switzerland,ALP,0.79487
+2021,Switzerland,IND,0.0173
+2021,Switzerland,CLO,0.31127
+2021,Switzerland,ALP,0.71701
+2021,Switzerland,ARM,0.02728
+2021,Switzerland,TEX,0.18287
+2021,Switzerland,OIL,0
+2021,Switzerland,AGR,14.72873
+2005,Tajikistan,IND,2.80901
+2005,Tajikistan,AGR,4.20801
+2005,Tajikistan,ALP,3.61214
+2005,Tajikistan,TEX,11.09077
+2005,Tajikistan,OIL,5
+2005,Tajikistan,ARM,0
+2005,Tajikistan,CLO,9.37406
+2010,Tajikistan,IND,4.62762
+2010,Tajikistan,ALP,5.93379
+2010,Tajikistan,CLO,9.98578
+2010,Tajikistan,ARM,3.25862
+2010,Tajikistan,TEX,11.42136
+2010,Tajikistan,AGR,3.40516
+2015,Tajikistan,AGR,1.97682
+2015,Tajikistan,IND,5.03791
+2015,Tajikistan,TEX,12.36138
+2015,Tajikistan,ARM,4.24528
+2015,Tajikistan,CLO,10.25318
+2015,Tajikistan,ALP,5.54928
+2020,Tajikistan,ALP,2.33853
+2020,Tajikistan,AGR,1.47924
+2020,Tajikistan,OIL,0
+2020,Tajikistan,IND,2.40237
+2020,Tajikistan,TEX,7.89702
+2020,Tajikistan,CLO,17.42819
+2020,Tajikistan,ARM,0.0075
+2021,Tajikistan,OIL,0
+2021,Tajikistan,IND,2.81972
+2021,Tajikistan,AGR,1.36152
+2021,Tajikistan,TEX,6.59171
+2021,Tajikistan,ALP,2.53343
+2021,Tajikistan,ARM,0.15598
+2021,Tajikistan,CLO,15.32426
+2005,Türkiye,CLO,4.33615
+2005,Türkiye,AGR,24.02855
+2005,Türkiye,IND,0.91017
+2005,Türkiye,ALP,1.67239
+2005,Türkiye,ARM,0.4981
+2005,Türkiye,OIL,0
+2005,Türkiye,TEX,2.71349
+2010,Türkiye,CLO,4.51962
+2010,Türkiye,OIL,0
+2010,Türkiye,TEX,2.93769
+2010,Türkiye,ARM,0.50791
+2010,Türkiye,ALP,2.75941
+2010,Türkiye,IND,0.89207
+2010,Türkiye,AGR,31.93288
+2015,Türkiye,AGR,33.02922
+2015,Türkiye,CLO,7.59862
+2015,Türkiye,IND,1.35206
+2015,Türkiye,ALP,3.63583
+2015,Türkiye,ARM,0.92745
+2015,Türkiye,TEX,3.19454
+2016,Türkiye,TEX,3.08637
+2016,Türkiye,ALP,3.5269
+2016,Türkiye,AGR,32.85155
+2020,Iceland,ALP,1.01119
+2020,Iceland,AGR,8.3915
+2021,Iceland,ARM,0
+2021,Iceland,CLO,0
+2021,Iceland,AGR,9.71167
+2021,Iceland,ALP,0.98412
+2021,Iceland,TEX,0
+2021,Iceland,IND,0.00287
+2005,Kazakhstan,OIL,0
+2005,Kazakhstan,TEX,5.82248
+2005,Kazakhstan,CLO,4.66129
+2015,Serbia,TEX,1.77946
+2016,Serbia,ALP,1.36168
+2016,Serbia,AGR,3.45897
+2016,Serbia,ARM,2.92654
+2016,Serbia,IND,0.98762
+2016,Serbia,TEX,1.78816
+2016,Serbia,OIL,0
+2016,Serbia,CLO,10.88812
+2017,Serbia,IND,0.94262
+2017,Serbia,ARM,2.89352
+2017,Serbia,AGR,3.86014
+2017,Serbia,ALP,1.39578
+2017,Serbia,CLO,11.65181
+2017,Serbia,OIL,0.51668
+2017,Serbia,TEX,1.7363
+2018,Serbia,ARM,2.89352
+2018,Serbia,AGR,3.9143
+2018,Serbia,ALP,1.39835
+2018,Serbia,IND,0.94148
+2018,Serbia,TEX,1.7363
+2018,Serbia,CLO,11.65181
+2018,Serbia,OIL,0.51668
+2019,Serbia,ALP,1.57021
+2019,Serbia,ARM,2.28016
+2019,Serbia,OIL,0.45535
+2019,Serbia,CLO,11.80827
+2019,Serbia,TEX,2.28305
+2019,Serbia,IND,1.09464
+2019,Serbia,AGR,4.30202
+2020,Serbia,ARM,1.50664
+2020,Serbia,AGR,4.07085
+2020,Serbia,IND,1.2282
+2020,Serbia,TEX,3.88332
+2005,Kazakhstan,IND,2.81592
+2005,Kazakhstan,ALP,3.18769
+2005,Kazakhstan,AGR,9.01499
+2010,Kazakhstan,CLO,11.06683
+2010,Kazakhstan,IND,5.43522
+2010,Kazakhstan,OIL,0
+2010,Kazakhstan,TEX,9.09023
+2010,Kazakhstan,AGR,7.89123
+2010,Kazakhstan,ALP,5.43637
+2015,Kazakhstan,CLO,9.00955
+2015,Kazakhstan,ALP,5.53593
+2015,Kazakhstan,AGR,8.08303
+2015,Kazakhstan,TEX,8.88805
+2015,Kazakhstan,IND,5.08222
+2015,Kazakhstan,OIL,1.25
+2016,Kazakhstan,CLO,7.04974
+2016,Kazakhstan,OIL,0.00029
+2016,Kazakhstan,IND,2.53143
+2016,Kazakhstan,TEX,5.21931
+2016,Kazakhstan,ALP,2.85855
+2016,Kazakhstan,AGR,4.33764
+2017,Kazakhstan,AGR,3.73137
+2017,Kazakhstan,ALP,2.73149
+2017,Kazakhstan,TEX,4.52719
+2017,Kazakhstan,IND,2.49731
+2017,Kazakhstan,OIL,0
+2017,Kazakhstan,CLO,6.20533
+2018,Kazakhstan,IND,2.44464
+2018,Kazakhstan,TEX,4.52265
+2018,Kazakhstan,ALP,2.69465
+2018,Kazakhstan,AGR,3.82866
+2018,Kazakhstan,CLO,5.96073
+2018,Kazakhstan,OIL,0
+2019,Kazakhstan,AGR,3.80332
+2019,Kazakhstan,TEX,5.28211
+2019,Kazakhstan,IND,2.16988
+2019,Kazakhstan,OIL,0
+2019,Kazakhstan,ALP,2.58615
+2019,Kazakhstan,ARM,15.01232
+2019,Kazakhstan,CLO,5.76105
+2020,Kazakhstan,TEX,5.01086
+2020,Kazakhstan,AGR,3.16619
+2020,Kazakhstan,CLO,5.67507
+2020,Kazakhstan,ALP,2.41902
+2020,Kazakhstan,OIL,0
+2020,Kazakhstan,IND,2.19676
+2021,Kazakhstan,AGR,2.70225
+2021,Kazakhstan,TEX,4.96304
+2021,Kazakhstan,IND,1.63188
+2021,Kazakhstan,ALP,1.94434
+2021,Kazakhstan,CLO,7.17347
+2021,Kazakhstan,OIL,0
+2005,Kyrgyzstan,TEX,6.21972
+2005,Kyrgyzstan,IND,0.62805
+2005,Kyrgyzstan,OIL,0
+2005,Kyrgyzstan,AGR,3.03373
+2005,Kyrgyzstan,ALP,1.24125
+2005,Kyrgyzstan,CLO,11.37874
+2010,Kyrgyzstan,ALP,2.41292
+2010,Kyrgyzstan,OIL,0
+2010,Kyrgyzstan,IND,1.76036
+2010,Kyrgyzstan,TEX,7.74819
+2010,Kyrgyzstan,CLO,11.17584
+2010,Kyrgyzstan,AGR,2.55837
+2015,Kyrgyzstan,TEX,9.75127
+2015,Kyrgyzstan,IND,3.6845
+2015,Kyrgyzstan,AGR,10.43896
+2015,Kyrgyzstan,CLO,39.64061
+2015,Kyrgyzstan,ALP,6.29846
+2016,Kyrgyzstan,TEX,8.05403
+2016,Kyrgyzstan,ALP,3.73603
+2016,Kyrgyzstan,CLO,8.67142
+2016,Kyrgyzstan,ARM,0.07424
+2016,Kyrgyzstan,AGR,7.60619
+2016,Kyrgyzstan,IND,2.48804
+2016,Kyrgyzstan,OIL,0
+2017,Kyrgyzstan,TEX,6.72043
+2017,Kyrgyzstan,OIL,0
+2017,Kyrgyzstan,IND,2.32745
+2017,Kyrgyzstan,AGR,1.1266
+2017,Kyrgyzstan,CLO,8.9181
+2017,Kyrgyzstan,ALP,2.99086
+2018,Kyrgyzstan,ALP,3.39435
+2018,Kyrgyzstan,CLO,17.61353
+2018,Kyrgyzstan,AGR,1.31474
+2018,Kyrgyzstan,OIL,0
+2018,Kyrgyzstan,IND,2.1417
+2018,Kyrgyzstan,TEX,6.8139
+2019,Kyrgyzstan,IND,1.89954
+2019,Kyrgyzstan,AGR,2.91816
+2019,Kyrgyzstan,CLO,15.20046
+2019,Kyrgyzstan,ALP,2.97072
+2019,Kyrgyzstan,OIL,0
+2019,Kyrgyzstan,TEX,6.70843
+2020,Kyrgyzstan,ALP,2.30477
+2020,Kyrgyzstan,CLO,12.89011
+2020,Kyrgyzstan,AGR,1.66865
+2020,Kyrgyzstan,IND,1.88388
+2020,Kyrgyzstan,TEX,5.47621
+2020,Kyrgyzstan,OIL,0
+2021,Kyrgyzstan,ALP,2.75814
+2021,Kyrgyzstan,OIL,0
+2021,Kyrgyzstan,CLO,13.40228
+2021,Kyrgyzstan,TEX,4.53197
+2021,Kyrgyzstan,IND,1.82257
+2021,Kyrgyzstan,AGR,1.83152
+2005,Republic of Moldova,AGR,6.87134
+2005,Republic of Moldova,CLO,11.80811
+2005,Republic of Moldova,IND,0.97525
+2005,Republic of Moldova,ALP,2.13149
+2016,Türkiye,IND,1.29756
+2016,Türkiye,ARM,0.92745
+2016,Türkiye,CLO,4.5499
+2017,Türkiye,AGR,30.33962
+2017,Türkiye,ALP,3.04892
+2017,Türkiye,TEX,2.78903
+2017,Türkiye,ARM,0.47522
+2017,Türkiye,CLO,4.24031
+2017,Türkiye,IND,1.01209
+2018,Türkiye,TEX,2.74481
+2018,Türkiye,ALP,2.33242
+2018,Türkiye,AGR,16.68528
+2018,Türkiye,IND,1.09981
+2018,Türkiye,ARM,0.41751
+2018,Türkiye,CLO,4.2191
+2019,Türkiye,CLO,4.0515
+2019,Türkiye,ARM,1.04445
+2019,Türkiye,IND,1.01403
+2019,Türkiye,ALP,2.55496
+2019,Türkiye,AGR,19.20589
+2019,Türkiye,TEX,2.58634
+2020,Türkiye,ALP,2.79328
+2020,Türkiye,IND,1.04479
+2020,Türkiye,CLO,3.70927
+2020,Türkiye,AGR,21.90017
+2020,Türkiye,ARM,1.53783
+2020,Türkiye,TEX,2.37593
+2021,Türkiye,ARM,0.81757
+2021,Türkiye,IND,1.57995
+2021,Türkiye,AGR,20.18562
+2021,Türkiye,CLO,3.72609
+2021,Türkiye,ALP,3.16596
+2021,Türkiye,TEX,2.5891
+2005,Ukraine,AGR,15.90973
+2005,Ukraine,TEX,3.55246
+2005,Ukraine,OIL,0
+2005,Ukraine,CLO,11.01037
+2005,Ukraine,ALP,3.61266
+2005,Ukraine,IND,3.0151
+2010,Ukraine,IND,1.82029
+2010,Ukraine,ALP,2.24414
+2010,Ukraine,CLO,10.87662
+2010,Ukraine,OIL,0
+2010,Ukraine,TEX,4.15616
+2010,Ukraine,AGR,6.40136
+2015,Ukraine,AGR,4.61904
+2015,Ukraine,TEX,4.10449
+2015,Ukraine,OIL,0
+2015,Ukraine,IND,1.77253
+2015,Ukraine,CLO,10.98407
+2015,Ukraine,ALP,2.20969
+2016,Ukraine,TEX,3.66619
+2016,Ukraine,AGR,4.5899
+2016,Ukraine,CLO,10.93486
+2016,Ukraine,ALP,2.04889
+2016,Ukraine,IND,1.65565
+2016,Ukraine,OIL,0
+2017,Ukraine,AGR,3.58127
+2017,Ukraine,TEX,2.27609
+2017,Ukraine,OIL,0
+2017,Ukraine,IND,1.52399
+2017,Ukraine,ALP,1.75409
+2017,Ukraine,CLO,9.41165
+2018,Ukraine,CLO,9.41165
+2018,Ukraine,ALP,1.60445
+2018,Ukraine,IND,1.38232
+2018,Ukraine,OIL,0
+2018,Ukraine,AGR,3.26674
+2018,Ukraine,TEX,2.2523
+2019,Ukraine,OIL,0
+2019,Ukraine,IND,1.76729
+2019,Ukraine,ALP,1.98043
+2019,Ukraine,CLO,11.08596
+2019,Ukraine,TEX,4.41785
+2019,Ukraine,AGR,2.43609
+2020,Ukraine,CLO,10.36784
+2020,Ukraine,AGR,2.80253
+2020,Ukraine,ALP,1.88351
+2020,Ukraine,IND,1.60645
+2020,Ukraine,OIL,0
+2020,Ukraine,TEX,3.06603
+2021,Ukraine,TEX,3.18401
+2021,Ukraine,OIL,0
+2021,Ukraine,IND,1.5561
+2021,Ukraine,ALP,1.83059
+2021,Ukraine,AGR,3.1034
+2021,Ukraine,CLO,10.61018
+2005,North Macedonia,OIL,0
+2005,North Macedonia,ALP,3.06372
+2005,North Macedonia,IND,1.5387
+2005,North Macedonia,ARM,1.13636
+2005,North Macedonia,CLO,2.89885
+2005,North Macedonia,TEX,1.23862
+2005,North Macedonia,AGR,16.44094
+2010,North Macedonia,CLO,7.058
+2010,North Macedonia,IND,1.13027
+2010,North Macedonia,AGR,5.96248
+2010,North Macedonia,ALP,2.32443
+2010,North Macedonia,OIL,5.86476
+2010,North Macedonia,TEX,2.01245
+2015,North Macedonia,CLO,7.37917
+2015,North Macedonia,TEX,1.41689
+2015,North Macedonia,ALP,1.40677
+2015,North Macedonia,IND,0.66813
+2015,North Macedonia,AGR,5.8821
+2016,North Macedonia,CLO,11.62865
+2016,North Macedonia,AGR,4.43646
+2016,North Macedonia,IND,3.0458
+2016,North Macedonia,ALP,3.56322
+2016,North Macedonia,TEX,6.91454
+2017,North Macedonia,TEX,1.28921
+2017,North Macedonia,IND,0.58253
+2017,North Macedonia,ALP,1.23835
+2017,North Macedonia,AGR,5.52006
+2017,North Macedonia,CLO,7.44636
+2018,North Macedonia,TEX,1.56102
+2018,North Macedonia,AGR,5.91191
+2018,North Macedonia,CLO,7.44636
+2018,North Macedonia,IND,0.58284
+2018,North Macedonia,ALP,1.29261
+2019,North Macedonia,OIL,0
+2020,Serbia,CLO,12.24528
+2020,Serbia,OIL,0.51829
+2020,Serbia,ALP,1.78504
+2021,Serbia,ALP,1.76174
+2021,Serbia,OIL,0.57713
+2021,Serbia,CLO,11.78921
+2021,Serbia,IND,1.28852
+2021,Serbia,AGR,4.26388
+2021,Serbia,ARM,4.06404
+2021,Serbia,TEX,2.73172
+2021,Belarus,AGR,2.51763
+2019,North Macedonia,TEX,1.54226
+2019,North Macedonia,IND,0.59471
+2019,North Macedonia,AGR,6.05412
+2019,North Macedonia,ALP,1.23567
+2019,North Macedonia,CLO,6.95762
+2020,North Macedonia,CLO,6.74979
+2020,North Macedonia,AGR,6.10843
+2020,North Macedonia,ALP,1.32852
+2020,North Macedonia,IND,0.63397
+2020,North Macedonia,TEX,1.71661
+2021,North Macedonia,CLO,7.43231
+2005,Republic of Moldova,TEX,3.6231
+2005,Republic of Moldova,OIL,0
+2010,Republic of Moldova,TEX,4.12765
+2010,Republic of Moldova,IND,1.49039
+2010,Republic of Moldova,CLO,11.24002
+2021,North Macedonia,ALP,1.24305
+2021,North Macedonia,IND,0.58811
+2021,North Macedonia,TEX,1.82455
+2021,North Macedonia,AGR,6.24297
+2005,Uzbekistan,AGR,13.09111
+2005,Uzbekistan,ALP,8.47092
+2005,Uzbekistan,ARM,16.32353
+2005,Uzbekistan,OIL,0
+2005,Uzbekistan,CLO,32.00754
+2005,Uzbekistan,IND,7.56743
+2005,Uzbekistan,TEX,23.48459
+2010,Uzbekistan,ARM,5.36606
+2010,Uzbekistan,ALP,7.79514
+2010,Uzbekistan,IND,7.68408
+2010,Uzbekistan,CLO,30.11309
+2010,Uzbekistan,TEX,22.57454
+2010,Uzbekistan,OIL,0
+2010,Uzbekistan,AGR,5.2977
+2015,Uzbekistan,ARM,5.04797
+2015,Uzbekistan,ALP,8.02103
+2015,Uzbekistan,AGR,5.46019
+2015,Uzbekistan,TEX,22.66677
+2015,Uzbekistan,OIL,0
+2015,Uzbekistan,IND,7.69925
+2015,Uzbekistan,CLO,30.33107
+2019,Uzbekistan,OIL,0
+2019,Uzbekistan,CLO,23.49478
+2019,Uzbekistan,TEX,18.29734
+2019,Uzbekistan,IND,6.71105
+2019,Uzbekistan,AGR,5.86831
+2019,Uzbekistan,ALP,6.83875
+2020,Uzbekistan,ALP,2.75802
+2020,Uzbekistan,ARM,0
+2020,Uzbekistan,AGR,2.20414
+2020,Uzbekistan,IND,2.74882
+2020,Uzbekistan,OIL,0
+2020,Uzbekistan,TEX,6.5918
+2020,Uzbekistan,CLO,19.41375
+2021,Uzbekistan,CLO,19.00413
+2021,Uzbekistan,OIL,0
+2021,Uzbekistan,TEX,5.81961
+2021,Uzbekistan,ARM,0
+2021,Uzbekistan,AGR,2.1707
+2021,Uzbekistan,IND,2.53374
+2021,Uzbekistan,ALP,2.55277
+2021,Uzbekistan,ALP,2.55277
