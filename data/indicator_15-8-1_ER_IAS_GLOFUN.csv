@@ -40,10 +40,8 @@ Year,GeoAreaName,Value
 2020,Ireland,0
 2020,Italy,0
 2022,Italy,0
-2020,Kazakhstan,NaN
 2020,Kyrgyzstan,0
 2020,Latvia,0
-2020,Liechtenstein,NaN
 2022,Liechtenstein,0
 2016,Lithuania,0
 2020,Lithuania,0
@@ -56,7 +54,6 @@ Year,GeoAreaName,Value
 2020,Montenegro,0
 2022,Montenegro,1
 2016,Netherlands,0
-2020,Netherlands,NaN
 2016,Norway,0
 2020,Norway,0
 2022,Norway,0
@@ -82,9 +79,8 @@ Year,GeoAreaName,Value
 2020,Sweden,0
 2022,Sweden,0
 2016,Switzerland,0
-2020,Switzerland,NaN
 2022,Switzerland,0
-2020,Türkiye,1
+2020,TÃ¼rkiye,1
 2020,Ukraine,0
 2022,Ukraine,0
 2020,North Macedonia,0

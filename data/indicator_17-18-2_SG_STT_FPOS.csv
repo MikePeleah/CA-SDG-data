@@ -2,7 +2,6 @@ Year,GeoAreaName,Value
 2019,Albania,1
 2020,Albania,1
 2021,Albania,0
-2019,Azerbaijan,NaN
 2020,Azerbaijan,1
 2021,Azerbaijan,1
 2019,Austria,1
@@ -89,9 +88,6 @@ Year,GeoAreaName,Value
 2019,Republic of Moldova,1
 2020,Republic of Moldova,1
 2021,Republic of Moldova,1
-2019,Montenegro,NaN
-2020,Montenegro,NaN
-2021,Montenegro,NaN
 2019,Netherlands,1
 2020,Netherlands,1
 2021,Netherlands,1
@@ -128,12 +124,9 @@ Year,GeoAreaName,Value
 2019,Tajikistan,1
 2020,Tajikistan,1
 2021,Tajikistan,1
-2019,Türkiye,1
-2020,Türkiye,1
-2021,Türkiye,1
-2019,Turkmenistan,NaN
-2020,Turkmenistan,NaN
-2021,Turkmenistan,NaN
+2019,TÃ¼rkiye,1
+2020,TÃ¼rkiye,1
+2021,TÃ¼rkiye,1
 2019,Ukraine,0
 2020,Ukraine,0
 2021,Ukraine,0

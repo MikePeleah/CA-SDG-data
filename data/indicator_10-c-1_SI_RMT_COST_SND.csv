@@ -1,5 +1,4 @@
 Year,GeoAreaName,Value
-2011,Austria,NaN
 2015,Austria,6.25
 2017,Austria,6.91
 2018,Austria,6.44
@@ -55,8 +54,6 @@ Year,GeoAreaName,Value
 2019,Norway,6.21
 2020,Norway,4.08
 2021,Norway,5.07
-2011,Portugal,NaN
-2015,Portugal,NaN
 2017,Portugal,7.90
 2018,Portugal,5.74
 2019,Portugal,7.68
@@ -69,8 +66,6 @@ Year,GeoAreaName,Value
 2019,Spain,5.35
 2020,Spain,5.03
 2021,Spain,5.16
-2011,Sweden,NaN
-2015,Sweden,NaN
 2017,Sweden,9.59
 2018,Sweden,8.09
 2019,Sweden,7.95
@@ -83,11 +78,9 @@ Year,GeoAreaName,Value
 2019,Switzerland,8.45
 2020,Switzerland,8.25
 2021,Switzerland,6.28
-2011,Türkiye,NaN
-2015,Türkiye,NaN
-2017,Türkiye,10.41
-2018,Türkiye,13.09
-2019,Türkiye,13.60
-2020,Türkiye,11.11
-2021,Türkiye,22.44
-2021,Türkiye,22.44
+2017,TÃ¼rkiye,10.41
+2018,TÃ¼rkiye,13.09
+2019,TÃ¼rkiye,13.60
+2020,TÃ¼rkiye,11.11
+2021,TÃ¼rkiye,22.44
+2021,TÃ¼rkiye,22.44

@@ -203,10 +203,10 @@ Year,GeoAreaName,Age,Parliamentary committees,Sex,Value
 2023,Tajikistan,46+,FINANCE,MALE,1
 2023,Tajikistan,_U,DEFENCE,MALE,1
 2023,Tajikistan,_X,GEN_EQU,_X,0
-2021,Türkiye,46+,HUM_RIGH,MALE,1
-2021,Türkiye,46+,GEN_EQU,FEMALE,1
-2021,Türkiye,<=45Y,FOR_AFF,MALE,1
-2021,Türkiye,46+,DEFENCE,MALE,1
+2021,TÃ¼rkiye,46+,HUM_RIGH,MALE,1
+2021,TÃ¼rkiye,46+,GEN_EQU,FEMALE,1
+2021,TÃ¼rkiye,<=45Y,FOR_AFF,MALE,1
+2021,TÃ¼rkiye,46+,DEFENCE,MALE,1
 2023,Malta,_X,DEFENCE,_X,0
 2023,Malta,_U,FOR_AFF,MALE,1
 2023,Malta,_U,FINANCE,MALE,1
@@ -215,14 +215,14 @@ Year,GeoAreaName,Age,Parliamentary committees,Sex,Value
 2021,Republic of Moldova,<=45Y,HR_GEQU,FEMALE,1
 2021,Republic of Moldova,46+,FINANCE,MALE,1
 2022,Republic of Moldova,<=45Y,FOR_AFF,FEMALE,1
-2021,Türkiye,46+,FINANCE,MALE,1
-2022,Türkiye,46+,FINANCE,MALE,1
-2022,Türkiye,46+,DEFENCE,MALE,1
-2022,Türkiye,46+,HUM_RIGH,MALE,1
-2022,Türkiye,46+,GEN_EQU,FEMALE,1
-2022,Türkiye,<=45Y,FOR_AFF,MALE,1
-2023,Türkiye,46+,HUM_RIGH,MALE,1
-2023,Türkiye,46+,GEN_EQU,FEMALE,1
+2021,TÃ¼rkiye,46+,FINANCE,MALE,1
+2022,TÃ¼rkiye,46+,FINANCE,MALE,1
+2022,TÃ¼rkiye,46+,DEFENCE,MALE,1
+2022,TÃ¼rkiye,46+,HUM_RIGH,MALE,1
+2022,TÃ¼rkiye,46+,GEN_EQU,FEMALE,1
+2022,TÃ¼rkiye,<=45Y,FOR_AFF,MALE,1
+2023,TÃ¼rkiye,46+,HUM_RIGH,MALE,1
+2023,TÃ¼rkiye,46+,GEN_EQU,FEMALE,1
 2022,Republic of Moldova,<=45Y,HR_GEQU,MALE,1
 2022,Republic of Moldova,<=45Y,FINANCE,MALE,1
 2022,Republic of Moldova,<=45Y,DEFENCE,MALE,1
@@ -231,9 +231,9 @@ Year,GeoAreaName,Age,Parliamentary committees,Sex,Value
 2023,Republic of Moldova,<=45Y,FINANCE,MALE,1
 2023,Republic of Moldova,<=45Y,DEFENCE,MALE,1
 2021,Montenegro,<=45Y,DEFENCE,MALE,1
-2023,Türkiye,46+,FOR_AFF,MALE,1
-2023,Türkiye,46+,FINANCE,MALE,1
-2023,Türkiye,46+,DEFENCE,MALE,1
+2023,TÃ¼rkiye,46+,FOR_AFF,MALE,1
+2023,TÃ¼rkiye,46+,FINANCE,MALE,1
+2023,TÃ¼rkiye,46+,DEFENCE,MALE,1
 2021,Turkmenistan,<=45Y,FINANCE,MALE,1
 2021,Turkmenistan,<=45Y,DEFENCE,MALE,1
 2021,Turkmenistan,46+,GEN_EQU,MALE,1

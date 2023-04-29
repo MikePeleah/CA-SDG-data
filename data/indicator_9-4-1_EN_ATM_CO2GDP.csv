@@ -59,16 +59,16 @@ Year,GeoAreaName,Value
 2015,Czechia,0.261
 2016,Czechia,0.259
 2017,Czechia,0.248
-2000,Türkiye,0.206
-2001,Türkiye,0.199
-2002,Türkiye,0.197
-2003,Türkiye,0.196
-2004,Türkiye,0.182
-2005,Türkiye,0.174
-2006,Türkiye,0.181
-2007,Türkiye,0.191
-2008,Türkiye,0.187
-2009,Türkiye,0.196
+2000,TÃ¼rkiye,0.206
+2001,TÃ¼rkiye,0.199
+2002,TÃ¼rkiye,0.197
+2003,TÃ¼rkiye,0.196
+2004,TÃ¼rkiye,0.182
+2005,TÃ¼rkiye,0.174
+2006,TÃ¼rkiye,0.181
+2007,TÃ¼rkiye,0.191
+2008,TÃ¼rkiye,0.187
+2009,TÃ¼rkiye,0.196
 2000,Albania,0.17
 2001,Albania,0.164
 2002,Albania,0.183
@@ -109,16 +109,16 @@ Year,GeoAreaName,Value
 2014,Denmark,0.118
 2015,Denmark,0.108
 2016,Denmark,0.109
-2010,Türkiye,0.185
-2011,Türkiye,0.178
-2012,Türkiye,0.177
-2013,Türkiye,0.156
-2014,Türkiye,0.16
-2015,Türkiye,0.156
-2016,Türkiye,0.161
-2017,Türkiye,0.167
-2018,Türkiye,0.161
-2019,Türkiye,0.156
+2010,TÃ¼rkiye,0.185
+2011,TÃ¼rkiye,0.178
+2012,TÃ¼rkiye,0.177
+2013,TÃ¼rkiye,0.156
+2014,TÃ¼rkiye,0.16
+2015,TÃ¼rkiye,0.156
+2016,TÃ¼rkiye,0.161
+2017,TÃ¼rkiye,0.167
+2018,TÃ¼rkiye,0.161
+2019,TÃ¼rkiye,0.156
 2017,Denmark,0.1
 2018,Denmark,0.098
 2019,Denmark,0.085
@@ -139,7 +139,7 @@ Year,GeoAreaName,Value
 2006,Azerbaijan,0.366
 2007,Azerbaijan,0.266
 2008,Azerbaijan,0.259
-2020,Türkiye,0.153
+2020,TÃ¼rkiye,0.153
 2000,Turkmenistan,1.757
 2001,Turkmenistan,1.713
 2002,Turkmenistan,1.796
@@ -721,11 +721,6 @@ Year,GeoAreaName,Value
 2018,Republic of Moldova,0.238
 2019,Republic of Moldova,0.239
 2020,Republic of Moldova,0.25
-2000,Montenegro,NaN
-2001,Montenegro,NaN
-2002,Montenegro,NaN
-2003,Montenegro,NaN
-2004,Montenegro,NaN
 2005,Montenegro,0.232
 2006,Montenegro,0.233
 2007,Montenegro,0.21

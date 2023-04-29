@@ -7,7 +7,6 @@ Year,GeoAreaName,Value
 2018,Republic of Moldova,19.63
 2019,Republic of Moldova,19.63
 2020,Republic of Moldova,19.63
-2000,Montenegro,NaN
 2010,Montenegro,10.15
 2015,Montenegro,10.15
 2016,Montenegro,10.15
@@ -39,14 +38,8 @@ Year,GeoAreaName,Value
 2018,Poland,32.82
 2019,Poland,32.82
 2020,Poland,32.82
-2000,Portugal,NaN
 2010,Portugal,17.89
 2015,Portugal,18.59
-2016,Portugal,NaN
-2017,Portugal,NaN
-2018,Portugal,NaN
-2019,Portugal,NaN
-2020,Portugal,NaN
 2000,Romania,2.22
 2010,Romania,25.3
 2015,Romania,37.76
@@ -83,21 +76,11 @@ Year,GeoAreaName,Value
 2010,Spain,39.68
 2015,Spain,39.89
 2016,Spain,39.92
-2017,Spain,NaN
-2018,Spain,NaN
-2019,Spain,NaN
-2020,Spain,NaN
 2000,Sweden,6.39
 2010,Sweden,7.23
 2015,Sweden,7.58
 2000,Albania,18.91
 2010,Albania,20.54
-2015,Albania,NaN
-2016,Albania,NaN
-2017,Albania,NaN
-2018,Albania,NaN
-2019,Albania,NaN
-2020,Albania,NaN
 2000,Azerbaijan,34.42
 2010,Azerbaijan,34.42
 2015,Azerbaijan,34.42
@@ -106,7 +89,6 @@ Year,GeoAreaName,Value
 2018,Azerbaijan,34.42
 2019,Azerbaijan,34.42
 2020,Azerbaijan,34.42
-2000,Austria,NaN
 2010,Austria,18.78
 2015,Austria,21.96
 2016,Austria,22.18
@@ -114,30 +96,9 @@ Year,GeoAreaName,Value
 2018,Austria,22.63
 2019,Austria,22.63
 2020,Austria,22.63
-2000,Armenia,NaN
-2010,Armenia,NaN
-2015,Armenia,NaN
-2016,Armenia,NaN
-2017,Armenia,NaN
-2018,Armenia,NaN
-2019,Armenia,NaN
-2020,Armenia,NaN
 2000,Belgium,3.95
 2010,Belgium,3.82
 2015,Belgium,26.16
-2016,Belgium,NaN
-2017,Belgium,NaN
-2018,Belgium,NaN
-2019,Belgium,NaN
-2020,Belgium,NaN
-2000,Bosnia and Herzegovina,NaN
-2010,Bosnia and Herzegovina,NaN
-2015,Bosnia and Herzegovina,NaN
-2016,Bosnia and Herzegovina,NaN
-2017,Bosnia and Herzegovina,NaN
-2018,Bosnia and Herzegovina,NaN
-2019,Bosnia and Herzegovina,NaN
-2020,Bosnia and Herzegovina,NaN
 2000,Bulgaria,6.39
 2010,Bulgaria,14.92
 2015,Bulgaria,18.37
@@ -202,14 +163,11 @@ Year,GeoAreaName,Value
 2018,Finland,12.63
 2019,Finland,12.63
 2020,Finland,12.63
-2000,France,NaN
 2016,Sweden,7.66
 2017,Sweden,7.74
 2018,Sweden,7.74
 2019,Sweden,7.74
 2020,Sweden,7.74
-2000,Switzerland,NaN
-2010,Switzerland,NaN
 2015,Switzerland,17.73
 2016,Switzerland,17.73
 2017,Switzerland,17.73
@@ -224,10 +182,7 @@ Year,GeoAreaName,Value
 2000,Georgia,7.91
 2010,Georgia,7.85
 2015,Georgia,9.7
-2016,Georgia,NaN
-2017,Georgia,NaN
 2018,Georgia,9.46
-2019,Georgia,NaN
 2020,Georgia,11.19
 2000,Germany,18.73
 2010,Germany,28.95
@@ -237,14 +192,6 @@ Year,GeoAreaName,Value
 2018,Germany,28.95
 2019,Germany,28.95
 2020,Germany,28.95
-2000,Greece,NaN
-2010,Greece,NaN
-2015,Greece,NaN
-2016,Greece,NaN
-2017,Greece,NaN
-2018,Greece,NaN
-2019,Greece,NaN
-2020,Greece,NaN
 2000,Hungary,16.39
 2010,Hungary,21.92
 2015,Hungary,22.24
@@ -258,10 +205,6 @@ Year,GeoAreaName,Value
 2015,Iceland,1.27
 2016,Iceland,1.27
 2017,Iceland,1.27
-2018,Iceland,NaN
-2019,Iceland,NaN
-2020,Iceland,NaN
-2000,Ireland,NaN
 2010,Ireland,18.5
 2015,Ireland,18.77
 2016,Ireland,18.86
@@ -317,59 +260,19 @@ Year,GeoAreaName,Value
 2018,Lithuania,31.09
 2019,Lithuania,31.18
 2020,Lithuania,31.28
-2000,Luxembourg,NaN
-2010,Luxembourg,NaN
-2015,Luxembourg,NaN
-2016,Luxembourg,NaN
-2017,Luxembourg,NaN
-2018,Luxembourg,NaN
-2019,Luxembourg,NaN
-2020,Luxembourg,NaN
-2000,Malta,NaN
-2010,Malta,NaN
-2015,Malta,NaN
 2019,Switzerland,17.73
 2020,Switzerland,17.73
-2000,Tajikistan,NaN
-2010,Tajikistan,NaN
-2015,Tajikistan,NaN
-2016,Tajikistan,NaN
-2017,Tajikistan,NaN
-2018,Tajikistan,NaN
-2019,Tajikistan,NaN
-2020,Tajikistan,NaN
-2000,Türkiye,31.23
-2010,Türkiye,31.72
-2015,Türkiye,33.44
-2016,Türkiye,33.44
-2017,Türkiye,33.63
-2018,Türkiye,33.86
-2019,Türkiye,34.09
-2020,Türkiye,34.33
-2000,Turkmenistan,NaN
-2010,Turkmenistan,NaN
-2015,Turkmenistan,NaN
-2016,Turkmenistan,NaN
-2017,Turkmenistan,NaN
-2018,Turkmenistan,NaN
-2019,Turkmenistan,NaN
-2020,Turkmenistan,NaN
-2000,Ukraine,NaN
+2000,TÃ¼rkiye,31.23
+2010,TÃ¼rkiye,31.72
+2015,TÃ¼rkiye,33.44
+2016,TÃ¼rkiye,33.44
+2017,TÃ¼rkiye,33.63
+2018,TÃ¼rkiye,33.86
+2019,TÃ¼rkiye,34.09
+2020,TÃ¼rkiye,34.33
 2010,Ukraine,14.05
 2015,Ukraine,14.46
-2016,Ukraine,NaN
-2017,Ukraine,NaN
-2018,Ukraine,NaN
-2019,Ukraine,NaN
 2020,Ukraine,14.6
-2000,North Macedonia,NaN
-2010,North Macedonia,NaN
-2015,North Macedonia,NaN
-2016,North Macedonia,NaN
-2017,North Macedonia,NaN
-2018,North Macedonia,NaN
-2019,North Macedonia,NaN
-2020,North Macedonia,NaN
 2000,Uzbekistan,62.04
 2010,Uzbekistan,78.89
 2015,Uzbekistan,88.75

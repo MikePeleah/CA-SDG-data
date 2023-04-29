@@ -3,11 +3,10 @@ Year,GeoAreaName,Value
 2022,Slovenia,75
 2019,Sweden,100
 2019,Switzerland,100
-2022,Türkiye,100
+2022,TÃ¼rkiye,100
 2022,Turkmenistan,100
 2022,Ukraine,100
 2022,Albania,100
-2022,Austria,NaN
 2019,Armenia,100
 2019,Belgium,100
 2022,Bosnia and Herzegovina,0
@@ -34,7 +33,6 @@ Year,GeoAreaName,Value
 2022,Norway,100
 2022,Poland,75
 2022,Portugal,100
-2022,North Macedonia,NaN
 2022,Uzbekistan,100
 2022,Romania,100
 2022,Serbia,100

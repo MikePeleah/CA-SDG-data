@@ -44,3 +44,4 @@ notstarted : reported
 tag : 
   - custom.regional
 graph_target_lines : []
+national_geographical_coverage: custom.central_asia

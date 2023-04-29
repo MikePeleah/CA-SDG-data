@@ -182,8 +182,6 @@ Year,GeoAreaName,Mode of transportation,Value
 2018,Malta,SEA,3314100
 2019,Malta,SEA,2712800
 2020,Malta,SEA,2440000
-2010,Republic of Moldova,SEA,NaN
-2011,Republic of Moldova,SEA,NaN
 2012,Republic of Moldova,SEA,2359
 2013,Republic of Moldova,SEA,1281
 2014,Republic of Moldova,SEA,1281
@@ -313,17 +311,17 @@ Year,GeoAreaName,Mode of transportation,Value
 2018,Switzerland,SEA,119133
 2019,Switzerland,SEA,121366
 2020,Switzerland,SEA,114075
-2010,Türkiye,SEA,5837078
-2011,Türkiye,SEA,6591873
-2012,Türkiye,SEA,7286685
-2013,Türkiye,SEA,7972511
-2014,Türkiye,SEA,8388355
-2015,Türkiye,SEA,8182876
-2016,Türkiye,SEA,8835597
-2017,Türkiye,SEA,10140996
-2018,Türkiye,SEA,10997949
-2019,Türkiye,SEA,11529433
-2020,Türkiye,SEA,11638524
+2010,TÃ¼rkiye,SEA,5837078
+2011,TÃ¼rkiye,SEA,6591873
+2012,TÃ¼rkiye,SEA,7286685
+2013,TÃ¼rkiye,SEA,7972511
+2014,TÃ¼rkiye,SEA,8388355
+2015,TÃ¼rkiye,SEA,8182876
+2016,TÃ¼rkiye,SEA,8835597
+2017,TÃ¼rkiye,SEA,10140996
+2018,TÃ¼rkiye,SEA,10997949
+2019,TÃ¼rkiye,SEA,11529433
+2020,TÃ¼rkiye,SEA,11638524
 2010,Ukraine,SEA,654000
 2011,Ukraine,SEA,756000
 2012,Ukraine,SEA,756000

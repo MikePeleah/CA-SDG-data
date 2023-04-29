@@ -23,9 +23,6 @@ Year,GeoAreaName,Value
 2021,Austria,91
 2022,Austria,91
 2023,Austria,91
-2000,Armenia,NaN
-2001,Armenia,NaN
-2002,Armenia,NaN
 2003,Armenia,0
 2004,Armenia,0
 2005,Armenia,0
@@ -36,17 +33,6 @@ Year,GeoAreaName,Value
 2010,Armenia,0
 2011,Armenia,0
 2012,Armenia,0
-2013,Armenia,NaN
-2014,Armenia,NaN
-2015,Armenia,NaN
-2016,Armenia,NaN
-2017,Armenia,NaN
-2018,Armenia,NaN
-2019,Armenia,NaN
-2020,Armenia,NaN
-2021,Armenia,NaN
-2022,Armenia,NaN
-2023,Armenia,NaN
 2000,Belgium,85
 2001,Belgium,85
 2002,Belgium,85
@@ -103,14 +89,6 @@ Year,GeoAreaName,Value
 2010,Kyrgyzstan,13
 2011,Kyrgyzstan,13
 2012,Kyrgyzstan,0
-2013,Kyrgyzstan,NaN
-2014,Kyrgyzstan,NaN
-2015,Kyrgyzstan,NaN
-2016,Kyrgyzstan,NaN
-2017,Kyrgyzstan,NaN
-2018,Kyrgyzstan,NaN
-2019,Kyrgyzstan,NaN
-2020,Kyrgyzstan,NaN
 2011,Ukraine,54
 2012,Ukraine,56
 2013,Ukraine,57
@@ -133,9 +111,6 @@ Year,GeoAreaName,Value
 2006,North Macedonia,33
 2007,North Macedonia,33
 2008,North Macedonia,33
-2021,Kyrgyzstan,NaN
-2022,Kyrgyzstan,NaN
-2023,Kyrgyzstan,NaN
 2000,Latvia,50
 2001,Latvia,50
 2002,Latvia,50
@@ -147,32 +122,10 @@ Year,GeoAreaName,Value
 2020,Albania,56
 2021,Albania,56
 2022,Albania,25
-2023,Albania,NaN
-2000,Azerbaijan,NaN
-2001,Azerbaijan,NaN
-2002,Azerbaijan,NaN
-2003,Azerbaijan,NaN
-2004,Azerbaijan,NaN
-2005,Azerbaijan,NaN
-2006,Azerbaijan,NaN
 2009,North Macedonia,33
 2010,North Macedonia,33
 2011,North Macedonia,33
 2012,North Macedonia,50
-2013,North Macedonia,NaN
-2014,North Macedonia,NaN
-2015,North Macedonia,NaN
-2016,North Macedonia,NaN
-2017,North Macedonia,NaN
-2018,North Macedonia,NaN
-2019,North Macedonia,NaN
-2020,North Macedonia,NaN
-2021,North Macedonia,NaN
-2022,North Macedonia,NaN
-2023,North Macedonia,NaN
-2000,Uzbekistan,NaN
-2001,Uzbekistan,NaN
-2002,Uzbekistan,NaN
 2003,Uzbekistan,0
 2004,Uzbekistan,0
 2005,Uzbekistan,0
@@ -188,14 +141,6 @@ Year,GeoAreaName,Value
 2016,Latvia,86
 2017,Latvia,86
 2018,Latvia,86
-2007,Azerbaijan,NaN
-2008,Azerbaijan,NaN
-2009,Azerbaijan,NaN
-2010,Azerbaijan,NaN
-2011,Azerbaijan,NaN
-2012,Azerbaijan,NaN
-2013,Azerbaijan,NaN
-2014,Azerbaijan,NaN
 2015,Azerbaijan,0
 2016,Azerbaijan,0
 2017,Azerbaijan,0
@@ -204,33 +149,12 @@ Year,GeoAreaName,Value
 2021,Latvia,87
 2022,Latvia,87
 2023,Latvia,87
-2000,Liechtenstein,NaN
-2001,Liechtenstein,NaN
-2002,Liechtenstein,NaN
-2003,Liechtenstein,NaN
-2004,Liechtenstein,NaN
-2005,Liechtenstein,NaN
 2007,Uzbekistan,0
 2008,Uzbekistan,0
 2009,Uzbekistan,0
 2010,Uzbekistan,0
 2011,Uzbekistan,0
 2012,Uzbekistan,0
-2013,Uzbekistan,NaN
-2014,Uzbekistan,NaN
-2015,Uzbekistan,NaN
-2016,Uzbekistan,NaN
-2006,Liechtenstein,NaN
-2007,Liechtenstein,NaN
-2008,Liechtenstein,NaN
-2009,Liechtenstein,NaN
-2010,Liechtenstein,NaN
-2011,Liechtenstein,NaN
-2012,Liechtenstein,NaN
-2013,Liechtenstein,NaN
-2014,Liechtenstein,NaN
-2015,Liechtenstein,NaN
-2016,Liechtenstein,NaN
 2012,Belgium,93
 2013,Belgium,96
 2014,Belgium,96
@@ -241,13 +165,6 @@ Year,GeoAreaName,Value
 2019,Belgium,96
 2020,Belgium,96
 2021,Belgium,96
-2017,Liechtenstein,NaN
-2018,Liechtenstein,NaN
-2019,Liechtenstein,NaN
-2020,Liechtenstein,NaN
-2021,Liechtenstein,NaN
-2022,Liechtenstein,NaN
-2023,Liechtenstein,NaN
 2000,Lithuania,55
 2001,Lithuania,67
 2002,Lithuania,67
@@ -255,8 +172,6 @@ Year,GeoAreaName,Value
 2022,Belgium,96
 2023,Belgium,100
 2000,Bosnia and Herzegovina,0
-2001,Bosnia and Herzegovina,NaN
-2002,Bosnia and Herzegovina,NaN
 2003,Bosnia and Herzegovina,25
 2004,Bosnia and Herzegovina,25
 2005,Bosnia and Herzegovina,25
@@ -271,9 +186,6 @@ Year,GeoAreaName,Value
 2010,Lithuania,55
 2011,Lithuania,50
 2012,Lithuania,50
-2013,Lithuania,NaN
-2014,Lithuania,NaN
-2015,Lithuania,NaN
 2016,Lithuania,100
 2017,Lithuania,92
 2018,Lithuania,94
@@ -287,34 +199,10 @@ Year,GeoAreaName,Value
 2010,Bosnia and Herzegovina,25
 2011,Bosnia and Herzegovina,25
 2012,Bosnia and Herzegovina,25
-2013,Bosnia and Herzegovina,NaN
-2014,Bosnia and Herzegovina,NaN
-2015,Bosnia and Herzegovina,NaN
-2016,Bosnia and Herzegovina,NaN
-2017,Bosnia and Herzegovina,NaN
-2000,Luxembourg,NaN
-2001,Luxembourg,NaN
-2002,Luxembourg,NaN
-2003,Luxembourg,NaN
-2004,Luxembourg,NaN
-2005,Luxembourg,NaN
-2006,Luxembourg,NaN
-2007,Luxembourg,NaN
-2008,Luxembourg,NaN
-2009,Luxembourg,NaN
-2010,Luxembourg,NaN
-2018,Bosnia and Herzegovina,NaN
-2019,Bosnia and Herzegovina,NaN
-2020,Bosnia and Herzegovina,NaN
-2021,Bosnia and Herzegovina,NaN
-2022,Bosnia and Herzegovina,NaN
-2023,Bosnia and Herzegovina,NaN
 2000,Bulgaria,100
 2001,Bulgaria,100
 2002,Bulgaria,88
 2003,Bulgaria,88
-2011,Luxembourg,NaN
-2012,Luxembourg,NaN
 2013,Luxembourg,99
 2014,Luxembourg,99
 2015,Luxembourg,99
@@ -335,7 +223,6 @@ Year,GeoAreaName,Value
 2013,Bulgaria,91
 2021,Luxembourg,99
 2022,Luxembourg,99
-2023,Luxembourg,NaN
 2000,Malta,100
 2001,Malta,100
 2002,Malta,100
@@ -345,21 +232,6 @@ Year,GeoAreaName,Value
 2006,Malta,100
 2007,Malta,100
 2008,Malta,100
-2009,Malta,NaN
-2010,Malta,NaN
-2011,Malta,NaN
-2012,Malta,NaN
-2013,Malta,NaN
-2014,Malta,NaN
-2015,Malta,NaN
-2016,Malta,NaN
-2017,Malta,NaN
-2018,Malta,NaN
-2019,Malta,NaN
-2020,Malta,NaN
-2021,Malta,NaN
-2022,Malta,NaN
-2023,Malta,NaN
 2000,Republic of Moldova,43
 2001,Republic of Moldova,43
 2002,Republic of Moldova,70
@@ -372,21 +244,6 @@ Year,GeoAreaName,Value
 2009,Republic of Moldova,83
 2010,Republic of Moldova,80
 2011,Republic of Moldova,80
-2012,Republic of Moldova,NaN
-2013,Republic of Moldova,NaN
-2014,Republic of Moldova,NaN
-2015,Republic of Moldova,NaN
-2016,Republic of Moldova,NaN
-2017,Republic of Moldova,NaN
-2018,Republic of Moldova,NaN
-2019,Republic of Moldova,NaN
-2020,Republic of Moldova,NaN
-2021,Republic of Moldova,NaN
-2022,Republic of Moldova,NaN
-2023,Republic of Moldova,NaN
-2000,Montenegro,NaN
-2001,Montenegro,NaN
-2002,Montenegro,NaN
 2014,Bulgaria,81
 2015,Bulgaria,86
 2016,Bulgaria,92
@@ -397,11 +254,6 @@ Year,GeoAreaName,Value
 2021,Bulgaria,81
 2022,Bulgaria,80
 2023,Bulgaria,80
-2003,Montenegro,NaN
-2004,Montenegro,NaN
-2005,Montenegro,NaN
-2006,Montenegro,NaN
-2007,Montenegro,NaN
 2008,Montenegro,50
 2009,Montenegro,67
 2010,Montenegro,100
@@ -437,9 +289,6 @@ Year,GeoAreaName,Value
 2016,Netherlands,95
 2017,Netherlands,95
 2018,Netherlands,95
-2000,Belarus,NaN
-2001,Belarus,NaN
-2002,Belarus,NaN
 2003,Belarus,25
 2004,Belarus,40
 2005,Belarus,40
@@ -451,14 +300,6 @@ Year,GeoAreaName,Value
 2011,Belarus,40
 2012,Belarus,40
 2013,Belarus,100
-2014,Belarus,NaN
-2015,Belarus,NaN
-2016,Belarus,NaN
-2017,Belarus,NaN
-2018,Belarus,NaN
-2019,Belarus,NaN
-2020,Belarus,NaN
-2021,Belarus,NaN
 2019,Netherlands,94
 2020,Netherlands,94
 2021,Netherlands,95
@@ -513,8 +354,6 @@ Year,GeoAreaName,Value
 2022,Poland,86
 2023,Poland,85
 2000,Portugal,54
-2022,Belarus,NaN
-2023,Belarus,NaN
 2000,Croatia,78
 2001,Croatia,78
 2002,Croatia,78
@@ -582,17 +421,6 @@ Year,GeoAreaName,Value
 2010,Romania,89
 2011,Romania,89
 2012,Romania,89
-2013,Romania,NaN
-2014,Romania,NaN
-2015,Romania,NaN
-2016,Romania,NaN
-2017,Romania,NaN
-2018,Romania,NaN
-2019,Romania,NaN
-2020,Romania,NaN
-2021,Romania,NaN
-2022,Romania,NaN
-2023,Romania,NaN
 2000,Serbia,100
 2001,Serbia,100
 2002,Serbia,100
@@ -791,9 +619,6 @@ Year,GeoAreaName,Value
 2010,Denmark,100
 2011,Denmark,100
 2012,Denmark,62
-2000,Tajikistan,NaN
-2001,Tajikistan,NaN
-2002,Tajikistan,NaN
 2003,Tajikistan,0
 2004,Tajikistan,0
 2005,Tajikistan,0
@@ -804,14 +629,6 @@ Year,GeoAreaName,Value
 2010,Tajikistan,0
 2011,Tajikistan,0
 2012,Tajikistan,0
-2013,Tajikistan,NaN
-2014,Tajikistan,NaN
-2015,Tajikistan,NaN
-2016,Tajikistan,NaN
-2017,Tajikistan,NaN
-2018,Tajikistan,NaN
-2019,Tajikistan,NaN
-2020,Tajikistan,NaN
 2013,Denmark,94
 2014,Denmark,68
 2015,Denmark,87
@@ -823,37 +640,29 @@ Year,GeoAreaName,Value
 2021,Denmark,88
 2022,Denmark,90
 2023,Denmark,90
-2021,Tajikistan,NaN
-2022,Tajikistan,NaN
-2023,Tajikistan,NaN
-2000,Türkiye,33
-2001,Türkiye,33
-2002,Türkiye,33
-2003,Türkiye,50
-2004,Türkiye,44
-2005,Türkiye,44
-2006,Türkiye,44
-2007,Türkiye,44
-2008,Türkiye,0
-2009,Türkiye,0
-2010,Türkiye,0
-2011,Türkiye,25
-2012,Türkiye,32
-2013,Türkiye,43
-2014,Türkiye,43
-2015,Türkiye,43
-2016,Türkiye,43
-2017,Türkiye,43
-2018,Türkiye,43
-2019,Türkiye,43
-2020,Türkiye,43
-2021,Türkiye,42
-2022,Türkiye,53
-2023,Türkiye,NaN
-2000,Turkmenistan,NaN
-2001,Turkmenistan,NaN
-2002,Turkmenistan,NaN
-2003,Turkmenistan,NaN
+2000,TÃ¼rkiye,33
+2001,TÃ¼rkiye,33
+2002,TÃ¼rkiye,33
+2003,TÃ¼rkiye,50
+2004,TÃ¼rkiye,44
+2005,TÃ¼rkiye,44
+2006,TÃ¼rkiye,44
+2007,TÃ¼rkiye,44
+2008,TÃ¼rkiye,0
+2009,TÃ¼rkiye,0
+2010,TÃ¼rkiye,0
+2011,TÃ¼rkiye,25
+2012,TÃ¼rkiye,32
+2013,TÃ¼rkiye,43
+2014,TÃ¼rkiye,43
+2015,TÃ¼rkiye,43
+2016,TÃ¼rkiye,43
+2017,TÃ¼rkiye,43
+2018,TÃ¼rkiye,43
+2019,TÃ¼rkiye,43
+2020,TÃ¼rkiye,43
+2021,TÃ¼rkiye,42
+2022,TÃ¼rkiye,53
 2004,Turkmenistan,0
 2005,Turkmenistan,0
 2006,Turkmenistan,0
@@ -864,16 +673,6 @@ Year,GeoAreaName,Value
 2011,Turkmenistan,0
 2012,Turkmenistan,0
 2013,Turkmenistan,0
-2014,Turkmenistan,NaN
-2015,Turkmenistan,NaN
-2016,Turkmenistan,NaN
-2017,Turkmenistan,NaN
-2018,Turkmenistan,NaN
-2019,Turkmenistan,NaN
-2020,Turkmenistan,NaN
-2021,Turkmenistan,NaN
-2022,Turkmenistan,NaN
-2023,Turkmenistan,NaN
 2000,Estonia,70
 2001,Estonia,70
 2002,Estonia,70
@@ -946,7 +745,6 @@ Year,GeoAreaName,Value
 2021,France,78
 2022,France,78
 2023,France,78
-2000,Georgia,NaN
 2001,Georgia,0
 2002,Georgia,0
 2003,Georgia,0
@@ -957,19 +755,6 @@ Year,GeoAreaName,Value
 2008,Georgia,0
 2009,Georgia,0
 2010,Georgia,0
-2011,Georgia,NaN
-2012,Georgia,NaN
-2013,Georgia,NaN
-2014,Georgia,NaN
-2015,Georgia,NaN
-2016,Georgia,NaN
-2017,Georgia,NaN
-2018,Georgia,NaN
-2019,Georgia,NaN
-2020,Georgia,NaN
-2021,Georgia,NaN
-2022,Georgia,NaN
-2023,Georgia,NaN
 2000,Germany,82
 2001,Germany,82
 2002,Germany,82
@@ -1127,28 +912,9 @@ Year,GeoAreaName,Value
 2010,Kazakhstan,0
 2011,Kazakhstan,0
 2012,Kazakhstan,0
-2013,Kazakhstan,NaN
-2014,Kazakhstan,NaN
-2015,Kazakhstan,NaN
-2016,Kazakhstan,NaN
-2017,Kazakhstan,NaN
-2018,Kazakhstan,NaN
-2019,Kazakhstan,NaN
-2020,Kazakhstan,NaN
-2021,Kazakhstan,NaN
-2022,Kazakhstan,NaN
-2023,Kazakhstan,NaN
 2018,Azerbaijan,0
 2019,Azerbaijan,0
 2020,Azerbaijan,0
 2021,Azerbaijan,0
 2022,Azerbaijan,0
 2023,Azerbaijan,0
-2017,Uzbekistan,NaN
-2018,Uzbekistan,NaN
-2019,Uzbekistan,NaN
-2020,Uzbekistan,NaN
-2021,Uzbekistan,NaN
-2022,Uzbekistan,NaN
-2023,Uzbekistan,NaN
-2023,Uzbekistan,NaN

@@ -56,7 +56,6 @@ Year,GeoAreaName,Value
 2020,Montenegro,0
 2022,Montenegro,1
 2016,Netherlands,1
-2020,Netherlands,NaN
 2016,Norway,1
 2020,Norway,1
 2022,Norway,1
@@ -84,7 +83,7 @@ Year,GeoAreaName,Value
 2016,Switzerland,1
 2020,Switzerland,1
 2022,Switzerland,1
-2020,Türkiye,1
+2020,TÃ¼rkiye,1
 2020,Ukraine,0
 2022,Ukraine,0
 2020,North Macedonia,0

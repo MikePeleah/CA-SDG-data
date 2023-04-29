@@ -35,19 +35,6 @@ Year,GeoAreaName,Value
 2017,Portugal,40.91
 2018,Portugal,40.91
 2019,Portugal,40.91
-2000,Albania,NaN
-2010,Albania,NaN
-2015,Albania,NaN
-2016,Albania,NaN
-2017,Albania,NaN
-2018,Albania,NaN
-2019,Albania,NaN
-2020,Albania,NaN
-2000,Azerbaijan,NaN
-2010,Azerbaijan,NaN
-2015,Azerbaijan,NaN
-2016,Azerbaijan,NaN
-2017,Azerbaijan,NaN
 2020,Portugal,40.91
 2000,Romania,107
 2010,Romania,107
@@ -60,9 +47,6 @@ Year,GeoAreaName,Value
 2000,Serbia,103.05
 2010,Serbia,154.8
 2015,Serbia,156.89
-2018,Azerbaijan,NaN
-2019,Azerbaijan,NaN
-2020,Azerbaijan,NaN
 2000,Austria,157.4
 2010,Austria,164.5
 2015,Austria,168.4
@@ -163,9 +147,6 @@ Year,GeoAreaName,Value
 2018,Switzerland,192.31
 2019,Switzerland,192.69
 2020,Switzerland,193.06
-2000,Tajikistan,NaN
-2010,Tajikistan,NaN
-2015,Tajikistan,NaN
 2020,Croatia,174.01
 2000,Cyprus,27.73
 2010,Cyprus,34.44
@@ -190,18 +171,13 @@ Year,GeoAreaName,Value
 2017,Denmark,112.58
 2018,Denmark,112.76
 2019,Denmark,112.93
-2016,Tajikistan,NaN
-2017,Tajikistan,NaN
-2018,Tajikistan,NaN
-2019,Tajikistan,NaN
-2020,Tajikistan,NaN
-2000,Türkiye,36.58
-2010,Türkiye,41.57
-2015,Türkiye,45.7
-2016,Türkiye,48.11
-2017,Türkiye,48.11
-2018,Türkiye,48.11
-2019,Türkiye,48.11
+2000,TÃ¼rkiye,36.58
+2010,TÃ¼rkiye,41.57
+2015,TÃ¼rkiye,45.7
+2016,TÃ¼rkiye,48.11
+2017,TÃ¼rkiye,48.11
+2018,TÃ¼rkiye,48.11
+2019,TÃ¼rkiye,48.11
 2020,Denmark,113.1
 2000,Estonia,109.47
 2010,Estonia,111.64
@@ -214,7 +190,7 @@ Year,GeoAreaName,Value
 2000,Finland,49.14
 2010,Finland,53.64
 2015,Finland,59.77
-2020,Türkiye,48.11
+2020,TÃ¼rkiye,48.11
 2000,Turkmenistan,4.09
 2010,Turkmenistan,4.24
 2015,Turkmenistan,4.24
@@ -355,14 +331,6 @@ Year,GeoAreaName,Value
 2018,Luxembourg,176.52
 2019,Luxembourg,178.35
 2020,Luxembourg,180.7
-2000,Malta,NaN
-2010,Malta,NaN
-2015,Malta,NaN
-2016,Malta,NaN
-2017,Malta,NaN
-2018,Malta,NaN
-2019,Malta,NaN
-2020,Malta,NaN
 2000,Republic of Moldova,88.61
 2010,Republic of Moldova,93.37
 2015,Republic of Moldova,93.37

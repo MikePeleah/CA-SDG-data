@@ -344,48 +344,27 @@ Year,GeoAreaName,Value
 2019,Tajikistan,20.87
 2020,Tajikistan,22.69
 2021,Tajikistan,24.15
-2001,Türkiye,8.79
-2002,Türkiye,10.19
-2003,Türkiye,9.8
-2004,Türkiye,9.33
-2005,Türkiye,9.17
-2006,Türkiye,8.09
-2007,Türkiye,7.46
-2008,Türkiye,7.42
-2009,Türkiye,8.07
-2010,Türkiye,8.97
-2011,Türkiye,8.17
-2012,Türkiye,7.69
-2013,Türkiye,6.68
-2014,Türkiye,6.56
-2015,Türkiye,6.87
-2016,Türkiye,6.14
-2017,Türkiye,6.04
-2018,Türkiye,5.78
-2019,Türkiye,6.41
-2020,Türkiye,6.67
-2021,Türkiye,5.54
-2001,Turkmenistan,NaN
-2002,Turkmenistan,NaN
-2003,Turkmenistan,NaN
-2004,Turkmenistan,NaN
-2005,Turkmenistan,NaN
-2006,Turkmenistan,NaN
-2007,Turkmenistan,NaN
-2008,Turkmenistan,NaN
-2009,Turkmenistan,NaN
-2010,Turkmenistan,NaN
-2011,Turkmenistan,NaN
-2012,Turkmenistan,NaN
-2013,Turkmenistan,NaN
-2014,Turkmenistan,NaN
-2015,Turkmenistan,NaN
-2016,Turkmenistan,NaN
-2017,Turkmenistan,NaN
-2018,Turkmenistan,NaN
-2019,Turkmenistan,NaN
-2020,Turkmenistan,NaN
-2021,Turkmenistan,NaN
+2001,TÃ¼rkiye,8.79
+2002,TÃ¼rkiye,10.19
+2003,TÃ¼rkiye,9.8
+2004,TÃ¼rkiye,9.33
+2005,TÃ¼rkiye,9.17
+2006,TÃ¼rkiye,8.09
+2007,TÃ¼rkiye,7.46
+2008,TÃ¼rkiye,7.42
+2009,TÃ¼rkiye,8.07
+2010,TÃ¼rkiye,8.97
+2011,TÃ¼rkiye,8.17
+2012,TÃ¼rkiye,7.69
+2013,TÃ¼rkiye,6.68
+2014,TÃ¼rkiye,6.56
+2015,TÃ¼rkiye,6.87
+2016,TÃ¼rkiye,6.14
+2017,TÃ¼rkiye,6.04
+2018,TÃ¼rkiye,5.78
+2019,TÃ¼rkiye,6.41
+2020,TÃ¼rkiye,6.67
+2021,TÃ¼rkiye,5.54
 2001,Ukraine,13.98
 2002,Ukraine,12.6
 2003,Ukraine,10.5
@@ -407,27 +386,8 @@ Year,GeoAreaName,Value
 2019,Ukraine,8.97
 2020,Ukraine,9.31
 2021,Ukraine,10.63
-2001,North Macedonia,NaN
-2002,North Macedonia,NaN
-2003,North Macedonia,NaN
-2004,North Macedonia,NaN
-2005,North Macedonia,NaN
-2006,North Macedonia,NaN
-2007,North Macedonia,NaN
-2008,North Macedonia,NaN
-2009,North Macedonia,NaN
-2010,North Macedonia,NaN
-2011,North Macedonia,NaN
-2012,North Macedonia,NaN
-2013,North Macedonia,NaN
-2014,North Macedonia,NaN
-2015,North Macedonia,NaN
-2016,North Macedonia,NaN
-2017,North Macedonia,NaN
-2018,North Macedonia,NaN
 2019,North Macedonia,8.13
 2020,North Macedonia,8.74
-2021,North Macedonia,NaN
 2001,Uzbekistan,47.81
 2002,Uzbekistan,48.05
 2003,Uzbekistan,45.4
@@ -640,27 +600,6 @@ Year,GeoAreaName,Value
 2019,Belgium,0.67
 2020,Belgium,0.75
 2021,Belgium,0.66
-2001,Bosnia and Herzegovina,NaN
-2002,Bosnia and Herzegovina,NaN
-2003,Bosnia and Herzegovina,NaN
-2004,Bosnia and Herzegovina,NaN
-2005,Bosnia and Herzegovina,NaN
-2006,Bosnia and Herzegovina,NaN
-2007,Bosnia and Herzegovina,NaN
-2008,Bosnia and Herzegovina,NaN
-2009,Bosnia and Herzegovina,NaN
-2010,Bosnia and Herzegovina,NaN
-2011,Bosnia and Herzegovina,NaN
-2012,Bosnia and Herzegovina,NaN
-2013,Bosnia and Herzegovina,NaN
-2014,Bosnia and Herzegovina,NaN
-2015,Bosnia and Herzegovina,NaN
-2016,Bosnia and Herzegovina,NaN
-2017,Bosnia and Herzegovina,NaN
-2018,Bosnia and Herzegovina,NaN
-2019,Bosnia and Herzegovina,NaN
-2020,Bosnia and Herzegovina,NaN
-2021,Bosnia and Herzegovina,NaN
 2001,Bulgaria,10.6
 2002,Bulgaria,9.71
 2003,Bulgaria,9.1
@@ -732,16 +671,6 @@ Year,GeoAreaName,Value
 2019,Kazakhstan,4.47
 2020,Kazakhstan,5.39
 2021,Kazakhstan,5.11
-2001,Kosovo,NaN
-2002,Kosovo,NaN
-2003,Kosovo,NaN
-2004,Kosovo,NaN
-2005,Kosovo,NaN
-2006,Kosovo,NaN
-2007,Kosovo,NaN
-2008,Kosovo,NaN
-2009,Kosovo,NaN
-2010,Kosovo,NaN
 2011,Kosovo,8.13
 2012,Kosovo,7.45
 2013,Kosovo,8.43
@@ -795,27 +724,6 @@ Year,GeoAreaName,Value
 2019,Latvia,4.17
 2020,Latvia,4.34
 2021,Latvia,4.11
-2001,Liechtenstein,NaN
-2002,Liechtenstein,NaN
-2003,Liechtenstein,NaN
-2004,Liechtenstein,NaN
-2005,Liechtenstein,NaN
-2006,Liechtenstein,NaN
-2007,Liechtenstein,NaN
-2008,Liechtenstein,NaN
-2009,Liechtenstein,NaN
-2010,Liechtenstein,NaN
-2011,Liechtenstein,NaN
-2012,Liechtenstein,NaN
-2013,Liechtenstein,NaN
-2014,Liechtenstein,NaN
-2015,Liechtenstein,NaN
-2016,Liechtenstein,NaN
-2017,Liechtenstein,NaN
-2018,Liechtenstein,NaN
-2019,Liechtenstein,NaN
-2020,Liechtenstein,NaN
-2021,Liechtenstein,NaN
 2001,Lithuania,4.87
 2002,Lithuania,4.78
 2003,Lithuania,4.42

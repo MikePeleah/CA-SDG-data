@@ -13,32 +13,31 @@ SDG_RELATED_INDICATORS: >-
 SDG_CUSTODIAN_AGENCIES: >-
   <p>World Health Organization (WHO)</p>
 CONTACT: >-
-  None
+  
 CONTACT_ORGANISATION: >-
   <p>World Health Organization (WHO)</p>
 CONTACT_NAME: >-
-  None
+  
 ORGANISATION_UNIT: >-
-  None
+  
 CONTACT_FUNCT: >-
-  None
+  
 CONTACT_PHONE: >-
-  None
+  
 CONTACT_MAIL: >-
-  None
+  
 CONTACT_EMAIL: >-
-  None
+  
 IND_DEF_CON_CLASS: >-
-  None
+  
 STAT_CONC_DEF: >-
-  <p><strong>Definition:</strong></p>
-<p>The mean annual concentration of fine suspended particles of less than 2.5 microns in diameters (PM<sub>2.5</sub>) is a common measure of air pollution. The mean is a population-weighted average for urban population in a country, and is expressed in micrograms per cubic meter [&#xB5;g/m<sup>3</sup>].</p>
+  <p><strong>Definition:</strong></p><p>The mean annual concentration of fine suspended particles of less than 2.5 microns in diameters (PM<sub>2.5</sub>) is a common measure of air pollution. The mean is a population-weighted average for urban population in a country, and is expressed in micrograms per cubic meter [&#xB5;g/m<sup>3</sup>].</p>
 UNIT_MEASURE: >-
   <p>Micrograms per cubic meter [&#xB5;g/m<sup>3</sup>]</p>
 CLASS_SYSTEM: >-
   <p>The PM<sub>2.5</sub> concentrations are geographically classified according to the 2021 United Nations Statistics Division (UNSD) Degree of Urbanization classification: cities, towns and rural areas. Data is also provided for urban (aggregation of cities and towns) and all (aggregation of cities, towns and rural) areas.</p>
 SRC_TYPE_COLL_METHOD: >-
-  None
+  
 SOURCE_TYPE: >-
   <p>Sources of data include ground measurements from monitoring networks, collected for 6,000 cities and localities (WHO, 2022) around the world, satellite remote sensing, population estimates, topography, information on local monitoring networks and measures of specific contributors of air pollution (WHO, 2022).</p>
 COLL_METHOD: >-
@@ -54,7 +53,7 @@ COMPILING_ORG: >-
 INST_MANDATE: >-
   <p>The World Health Organization (WHO) is the Custodian Agency or co-Custodian Agency for reporting on several SDG indicators, including indicator 11.6.2, annual mean levels of fine particulate matter (e.g. PM<sub>2.5</sub> and PM<sub>10</sub>) in cities (population weighted)).</p>
 OTHER_METHOD: >-
-  None
+  
 RATIONALE: >-
   <p>Air pollution consists of many pollutants, among other particulate matter. These particles are able to penetrate deeply into the respiratory tract and therefore constitute a risk for health by increasing mortality from respiratory infections and diseases, lung cancer, and selected cardiovascular diseases.</p>
 REC_USE_LIM: >-
@@ -66,129 +65,20 @@ DATA_VALIDATION: >-
 ADJUSTMENT: >-
   <p>Not applicable</p>
 IMPUTATION: >-
-  <ul>
-  <li><strong>At country level</strong></li>
-</ul>
-<p>Missing values are left blank.</p>
-<ul>
-  <li><strong>At regional and global levels</strong></li>
-</ul>
-<p>Missing values are excluded from the regional and global averages.</p>
+  <ul>  <li><strong>At country level</strong></li></ul><p>Missing values are left blank.</p><ul>  <li><strong>At regional and global levels</strong></li></ul><p>Missing values are excluded from the regional and global averages.</p>
 REG_AGG: >-
-  <p>The regional and global aggregates are population-weighted figures of the national estimates.</p>
-<p><math xmlns="http://www.w3.org/1998/Math/MathML">
-    <msub>
-      <mrow>
-        <mi>C</mi>
-      </mrow>
-      <mrow>
-        <mi>a</mi>
-        <mi>g</mi>
-        <mi>g</mi>
-      </mrow>
-    </msub>
-    <mo>=</mo>
-    <mfrac>
-      <mrow>
-        <mrow>
-          <msub>
-            <mo stretchy="false">&#x2211;</mo>
-            <mrow>
-              <mi>i</mi>
-            </mrow>
-          </msub>
-          <mrow>
-            <msub>
-              <mrow>
-                <mi>C</mi>
-              </mrow>
-              <mrow>
-                <mi>n</mi>
-                <mi>a</mi>
-                <mi>t</mi>
-                <mo>,</mo>
-                <mi>i</mi>
-              </mrow>
-            </msub>
-            <mo>&#x2219;</mo>
-            <msub>
-              <mrow>
-                <mi>P</mi>
-              </mrow>
-              <mrow>
-                <mi>n</mi>
-                <mi>a</mi>
-                <mi>t</mi>
-                <mo>,</mo>
-                <mi>&amp;nbsp;</mi>
-                <mi>&amp;nbsp;</mi>
-                <mi>i</mi>
-              </mrow>
-            </msub>
-          </mrow>
-        </mrow>
-      </mrow>
-      <mrow>
-        <mrow>
-          <munder>
-            <mo stretchy="false">&#x2211;</mo>
-            <mrow>
-              <mi>i</mi>
-            </mrow>
-          </munder>
-          <mrow>
-            <msub>
-              <mrow>
-                <mi>P</mi>
-              </mrow>
-              <mrow>
-                <mi>n</mi>
-                <mi>a</mi>
-                <mi>t</mi>
-                <mo>,</mo>
-                <mi>&amp;nbsp;</mi>
-                <mi>&amp;nbsp;</mi>
-                <mi>i</mi>
-              </mrow>
-            </msub>
-          </mrow>
-        </mrow>
-      </mrow>
-    </mfrac>
-  </math></p>
-<p>Where:</p>
-<ul>
-  <li>C<sub>agg</sub> is the regional/global estimate,</li>
-  <li>C<sub>nat</sub> is the national estimate,</li>
-  <li>P<sub>nat</sub> is the country population.</li>
-  <li>The sum is done over the countries <em>i</em> in the region (regional aggregate) or all countries (global aggregate).</li>
-</ul>
+  <p>The regional and global aggregates are population-weighted figures of the national estimates.</p><p><math xmlns="http://www.w3.org/1998/Math/MathML">    <msub>      <mrow>        <mi>C</mi>      </mrow>      <mrow>        <mi>a</mi>        <mi>g</mi>        <mi>g</mi>      </mrow>    </msub>    <mo>=</mo>    <mfrac>      <mrow>        <mrow>          <msub>            <mo stretchy="false">&#x2211;</mo>            <mrow>              <mi>i</mi>            </mrow>          </msub>          <mrow>            <msub>              <mrow>                <mi>C</mi>              </mrow>              <mrow>                <mi>n</mi>                <mi>a</mi>                <mi>t</mi>                <mo>,</mo>                <mi>i</mi>              </mrow>            </msub>            <mo>&#x2219;</mo>            <msub>              <mrow>                <mi>P</mi>              </mrow>              <mrow>                <mi>n</mi>                <mi>a</mi>                <mi>t</mi>                <mo>,</mo>                <mi>&amp;nbsp;</mi>                <mi>&amp;nbsp;</mi>                <mi>i</mi>              </mrow>            </msub>          </mrow>        </mrow>      </mrow>      <mrow>        <mrow>          <munder>            <mo stretchy="false">&#x2211;</mo>            <mrow>              <mi>i</mi>            </mrow>          </munder>          <mrow>            <msub>              <mrow>                <mi>P</mi>              </mrow>              <mrow>                <mi>n</mi>                <mi>a</mi>                <mi>t</mi>                <mo>,</mo>                <mi>&amp;nbsp;</mi>                <mi>&amp;nbsp;</mi>                <mi>i</mi>              </mrow>            </msub>          </mrow>        </mrow>      </mrow>    </mfrac>  </math></p><p>Where:</p><ul>  <li>C<sub>agg</sub> is the regional/global estimate,</li>  <li>C<sub>nat</sub> is the national estimate,</li>  <li>P<sub>nat</sub> is the country population.</li>  <li>The sum is done over the countries <em>i</em> in the region (regional aggregate) or all countries (global aggregate).</li></ul>
 DOC_METHOD: >-
   <p>Countries which have air quality monitoring networks in place in urban areas can use the annual mean concentrations from the ground measurements and the corresponding number of inhabitants to derive the population-weighted exposure to particulate matter in cities.</p>
 QUALITY_MGMNT: >-
   <p>For information on data quality management, assurance, and assessment processes at WHO, please refer to: <a href="https://www.who.int/data/ddi">https://www.who.int/data/ddi</a></p>
 QUALITY_ASSURE: >-
-  <p>Data inputs to the model are official or published data on air quality or other relevant topics. Modelled estimates are carefully crossed-checked and compared with official ground measurements.</p>
-<p>Consultation/validation process with countries for adjustments and estimates. Data inputs, methods and final estimates are shared with countries prior to publication via WHO official communication channels with WHO Member States.</p>
-<p>https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health</p>
+  <p>Data inputs to the model are official or published data on air quality or other relevant topics. Modelled estimates are carefully crossed-checked and compared with official ground measurements.</p><p>Consultation/validation process with countries for adjustments and estimates. Data inputs, methods and final estimates are shared with countries prior to publication via WHO official communication channels with WHO Member States.</p><p>https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health</p>
 QUALITY_ASSMNT: >-
   <p>For information on data quality management, assurance, and assessment processes at WHO, please refer to: <a href="https://www.who.int/data/ddi">https://www.who.int/data/ddi</a></p>
 COVERAGE: >-
-  <p><strong>Data availability:</strong></p>
-<p>The indicator is available for 232 countries. Missing countries include mostly Small State Islands in the Western Pacific and in the Latin American and the Caribbean regions.</p>
-<p><strong>Time series:</strong></p>
-<p>The indicator provides estimates from 2010 to most recent reporting period. Previous data estimates are updated with when there have been changes in modelling method and input data.</p>
-<p><strong>Disaggregation:</strong></p>
-<p>The indicator is available by 0.1&#xB0; x 0.1&#xB0; grid size for the world. National, regional and global data are disaggregated into cities, towns, urban and rural areas. </p>
+  <p><strong>Data availability:</strong></p><p>The indicator is available for 232 countries. Missing countries include mostly Small State Islands in the Western Pacific and in the Latin American and the Caribbean regions.</p><p><strong>Time series:</strong></p><p>The indicator provides estimates from 2010 to most recent reporting period. Previous data estimates are updated with when there have been changes in modelling method and input data.</p><p><strong>Disaggregation:</strong></p><p>The indicator is available by 0.1&#xB0; x 0.1&#xB0; grid size for the world. National, regional and global data are disaggregated into cities, towns, urban and rural areas. </p>
 COMPARABILITY: >-
-  <p><strong>Sources of discrepancies:</strong></p>
-<p><strong>The source of differences between global and national figures:</strong> Modelled estimates versus annual mean concentrations obtained from ground measurements.</p>
+  <p><strong>Sources of discrepancies:</strong></p><p><strong>The source of differences between global and national figures:</strong> Modelled estimates versus annual mean concentrations obtained from ground measurements.</p>
 OTHER_DOC: >-
-  <p><strong>URL:</strong></p>
-<p>[1]: https://www.who.int/data/gho/data/themes/air-pollution</p>
-<p><strong>References:</strong></p>
-<ul>
-  <li>Shaddick G et al (2016). <em>Data Integration Model for Air Quality: A Hierarchical Approach to the Global Estimation of Exposures to Ambient Air Pollution. Royal Statistical Society</em>, arXiv: 1609.0014.</li>
-  <li>WHO (2016). <em>Ambient air pollution: a global assessment of exposure and burden of disease</em>, WHO Geneva.</li>
-  <li>WHO (2022). <em>WHO Urban ambient air quality database</em>, WHO Geneva.</li>
-</ul>
+  <p><strong>URL:</strong></p><p>[1]: https://www.who.int/data/gho/data/themes/air-pollution</p><p><strong>References:</strong></p><ul>  <li>Shaddick G et al (2016). <em>Data Integration Model for Air Quality: A Hierarchical Approach to the Global Estimation of Exposures to Ambient Air Pollution. Royal Statistical Society</em>, arXiv: 1609.0014.</li>  <li>WHO (2016). <em>Ambient air pollution: a global assessment of exposure and burden of disease</em>, WHO Geneva.</li>  <li>WHO (2022). <em>WHO Urban ambient air quality database</em>, WHO Geneva.</li></ul>

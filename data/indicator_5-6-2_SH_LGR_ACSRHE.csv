@@ -1,8 +1,6 @@
 Year,GeoAreaName,Value
 2022,Albania,79
-2022,Austria,NaN
 2019,Armenia,87
-2019,Belgium,NaN
 2022,Bosnia and Herzegovina,70
 2022,Bulgaria,62
 2022,Belarus,83
@@ -20,8 +18,6 @@ Year,GeoAreaName,Value
 2019,Kyrgyzstan,73
 2019,Latvia,70
 2022,Lithuania,87
-2019,Malta,NaN
-2019,Republic of Moldova,NaN
 2019,Montenegro,52
 2022,Netherlands,100
 2022,Norway,100
@@ -30,12 +26,10 @@ Year,GeoAreaName,Value
 2022,Romania,98
 2022,Serbia,99
 2022,Slovakia,86
-2022,Slovenia,NaN
 2019,Sweden,100
 2019,Switzerland,94
-2022,Türkiye,78
+2022,TÃ¼rkiye,78
 2022,Turkmenistan,94
 2022,Ukraine,95
-2022,North Macedonia,NaN
 2022,Uzbekistan,92
 2022,Uzbekistan,92

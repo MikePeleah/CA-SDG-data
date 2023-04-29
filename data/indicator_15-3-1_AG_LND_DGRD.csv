@@ -7,12 +7,8 @@ Year,GeoAreaName,Value
 2019,Bosnia and Herzegovina,6.79
 2015,Bulgaria,1.12
 2019,Bulgaria,7.54
-2015,Belarus,NaN
-2019,Belarus,NaN
 2015,Czechia,3.21
 2019,Czechia,9.93
-2015,Denmark,NaN
-2019,Denmark,NaN
 2015,Estonia,11.71
 2019,Estonia,7.48
 2015,Finland,0.95
@@ -33,16 +29,10 @@ Year,GeoAreaName,Value
 2019,Latvia,8.72
 2015,Lithuania,6.6
 2019,Lithuania,14.3
-2015,Luxembourg,NaN
-2019,Luxembourg,NaN
-2015,Malta,NaN
-2019,Malta,NaN
 2015,Republic of Moldova,16.32
 2019,Republic of Moldova,5.38
 2015,Montenegro,6.72
 2019,Montenegro,6.66
-2015,Norway,NaN
-2019,Norway,NaN
 2015,Poland,0.2
 2019,Poland,0.2
 2015,Portugal,14.49
@@ -55,10 +45,8 @@ Year,GeoAreaName,Value
 2019,Slovenia,26.66
 2015,Spain,5.17
 2019,Spain,11.06
-2015,Switzerland,NaN
-2019,Switzerland,NaN
-2015,Türkiye,14.34
-2019,Türkiye,13.38
+2015,TÃ¼rkiye,14.34
+2019,TÃ¼rkiye,13.38
 2015,Turkmenistan,17.06
 2019,Turkmenistan,17.72
 2015,Ukraine,25.57
