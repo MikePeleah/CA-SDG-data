@@ -1,0 +1,110 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Ireland",
+                "Croatia",
+                "Austria",
+                "Netherlands",
+                "Cyprus",
+                "Italy",
+                "Norway",
+                "Czechia",
+                "Kazakhstan",
+                "Poland",
+                "Kosovo",
+                "Portugal",
+                "Kyrgyzstan",
+                "Latvia",
+                "Romania",
+                "Denmark",
+                "Liechtenstein",
+                "Lithuania",
+                "Serbia",
+                "Slovakia",
+                "Estonia",
+                "Luxembourg",
+                "Slovenia",
+                "Finland",
+                "Malta",
+                "France",
+                "Spain",
+                "Republic of Moldova",
+                "Montenegro",
+                "Georgia",
+                "Armenia",
+                "Sweden",
+                "Germany",
+                "Belgium",
+                "Greece",
+                "Switzerland",
+                "Bosnia and Herzegovina",
+                "Hungary",
+                "Tajikistan",
+                "Iceland",
+                "Türkiye",
+                "Bulgaria",
+                "Turkmenistan",
+                "Belarus",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Name of international institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IMF",
+                "WTO",
+                "UNGA",
+                "ECOSOC",
+                "IBRD",
+                "IFC",
+                "ADB",
+                "IADB",
+                "AFDB",
+                "UNSC",
+                "FSB",
+                ""
+              ]
+            },
+            "title": "Name of international institution"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-6-1_SG_INT_MBRDEV",
+  "title": "global_indicators.10-6-1_SG_INT_MBRDEV-title"
+}

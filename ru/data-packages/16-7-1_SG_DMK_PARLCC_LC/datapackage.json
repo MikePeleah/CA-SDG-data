@@ -1,0 +1,133 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Austria",
+                "Armenia",
+                "Kyrgyzstan",
+                "Belgium",
+                "Latvia",
+                "Bosnia and Herzegovina",
+                "Albania",
+                "Liechtenstein",
+                "Sweden",
+                "Lithuania",
+                "Switzerland",
+                "Azerbaijan",
+                "Luxembourg",
+                "Malta",
+                "Tajikistan",
+                "Türkiye",
+                "Republic of Moldova",
+                "Montenegro",
+                "Turkmenistan",
+                "Ukraine",
+                "Bulgaria",
+                "Netherlands",
+                "North Macedonia",
+                "Uzbekistan",
+                "Norway",
+                "Belarus",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Croatia",
+                "Serbia",
+                "Cyprus",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "46+",
+                "<=45Y",
+                "_X",
+                "_U",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Parliamentary committees",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FOR_AFF",
+                "HUM_RIGH",
+                "GEN_EQU",
+                "FINANCE",
+                "DEFENCE",
+                "FAFF_DEF",
+                "HR_GEQU",
+                ""
+              ]
+            },
+            "title": "Parliamentary committees"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "MALE",
+                "_X",
+                "_U",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1_SG_DMK_PARLCC_LC",
+  "title": "global_indicators.16-7-1_SG_DMK_PARLCC_LC-title"
+}

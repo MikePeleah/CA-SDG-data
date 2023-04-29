@@ -1,0 +1,97 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Germany",
+                "Albania",
+                "Belarus",
+                "Malta",
+                "Greece",
+                "Republic of Moldova",
+                "Croatia",
+                "Hungary",
+                "Cyprus",
+                "Montenegro",
+                "Iceland",
+                "Czechia",
+                "Ireland",
+                "Netherlands",
+                "Denmark",
+                "Italy",
+                "Norway",
+                "Estonia",
+                "Kazakhstan",
+                "Poland",
+                "Finland",
+                "Portugal",
+                "Romania",
+                "Kyrgyzstan",
+                "France",
+                "Serbia",
+                "Latvia",
+                "Liechtenstein",
+                "Slovakia",
+                "Georgia",
+                "Lithuania",
+                "Slovenia",
+                "Luxembourg",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Azerbaijan",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Austria",
+                "Uzbekistan",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RURAL",
+                "ALLAREA",
+                "URBAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-1-1_EG_ACS_ELEC",
+  "title": "global_indicators.7-1-1_EG_ACS_ELEC-title"
+}

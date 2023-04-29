@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Austria",
+                "Belgium",
+                "Bulgaria",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Germany",
+                "Greece",
+                "Ireland",
+                "Italy",
+                "Latvia",
+                "Lithuania",
+                "Malta",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Serbia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level/Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MHIGIMP",
+                "MLOWIMP",
+                "LOWIMP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-7-1_SG_SCP_PROCN",
+  "title": "global_indicators.12-7-1_SG_SCP_PROCN-title"
+}

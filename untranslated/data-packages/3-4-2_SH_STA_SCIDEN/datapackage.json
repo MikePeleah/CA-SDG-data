@@ -1,0 +1,105 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Austria",
+                "Republic of Moldova",
+                "Armenia",
+                "Montenegro",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Netherlands",
+                "Bulgaria",
+                "Belarus",
+                "Norway",
+                "Croatia",
+                "Cyprus",
+                "Poland",
+                "Czechia",
+                "Portugal",
+                "Denmark",
+                "Romania",
+                "Estonia",
+                "Serbia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Slovakia",
+                "Slovenia",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Spain",
+                "Sweden",
+                "Kazakhstan",
+                "Switzerland",
+                "Kyrgyzstan",
+                "Tajikistan",
+                "Latvia",
+                "Türkiye",
+                "Lithuania",
+                "Turkmenistan",
+                "Luxembourg",
+                "Malta",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-2_SH_STA_SCIDEN",
+  "title": "global_indicators.3-4-2_SH_STA_SCIDEN-title"
+}

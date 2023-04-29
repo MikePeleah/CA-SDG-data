@@ -1,0 +1,84 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kyrgyzstan",
+                "Lithuania",
+                "Luxembourg",
+                "Montenegro",
+                "Albania",
+                "Azerbaijan",
+                "Austria",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Croatia",
+                "Cyprus",
+                "Romania",
+                "Czechia",
+                "Denmark",
+                "Serbia",
+                "Estonia",
+                "Finland",
+                "Slovenia",
+                "France",
+                "Georgia",
+                "Hungary",
+                "Ireland",
+                "Italy",
+                "Spain",
+                "Kazakhstan",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Hazard type",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-1_VC_DSR_MMHN",
+  "title": "global_indicators.11-5-1_VC_DSR_MMHN-title"
+}

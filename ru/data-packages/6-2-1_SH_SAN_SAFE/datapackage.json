@@ -1,0 +1,98 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Albania",
+                "Estonia",
+                "Austria",
+                "Netherlands",
+                "Finland",
+                "France",
+                "Georgia",
+                "Norway",
+                "Germany",
+                "Poland",
+                "Greece",
+                "Portugal",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Romania",
+                "Armenia",
+                "Italy",
+                "Serbia",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Slovakia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Slovenia",
+                "Latvia",
+                "Liechtenstein",
+                "Spain",
+                "Lithuania",
+                "Sweden",
+                "Luxembourg",
+                "Malta",
+                "Switzerland",
+                "Bulgaria",
+                "Tajikistan",
+                "Republic of Moldova",
+                "Türkiye",
+                "Montenegro",
+                "Ukraine",
+                "North Macedonia",
+                "Belarus",
+                "Croatia",
+                "Cyprus",
+                "Denmark",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "URBAN",
+                "RURAL",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-1_SH_SAN_SAFE",
+  "title": "global_indicators.6-2-1_SH_SAN_SAFE-title"
+}

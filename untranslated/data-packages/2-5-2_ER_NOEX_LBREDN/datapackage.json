@@ -1,0 +1,84 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estonia",
+                "Albania",
+                "Finland",
+                "France",
+                "Azerbaijan",
+                "Sweden",
+                "Georgia",
+                "Switzerland",
+                "Germany",
+                "Austria",
+                "Tajikistan",
+                "Greece",
+                "Armenia",
+                "Belgium",
+                "Türkiye",
+                "Hungary",
+                "Turkmenistan",
+                "Ukraine",
+                "Iceland",
+                "Bosnia and Herzegovina",
+                "North Macedonia",
+                "Bulgaria",
+                "Ireland",
+                "Uzbekistan",
+                "Belarus",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Croatia",
+                "Cyprus",
+                "Luxembourg",
+                "Czechia",
+                "Denmark",
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-5-2_ER_NOEX_LBREDN",
+  "title": "global_indicators.2-5-2_ER_NOEX_LBREDN-title"
+}

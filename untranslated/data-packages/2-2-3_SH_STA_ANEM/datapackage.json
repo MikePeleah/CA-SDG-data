@@ -1,0 +1,102 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Austria",
+                "Malta",
+                "Armenia",
+                "Republic of Moldova",
+                "Montenegro",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Netherlands",
+                "Bulgaria",
+                "Belarus",
+                "Norway",
+                "Croatia",
+                "Cyprus",
+                "Portugal",
+                "Romania",
+                "Czechia",
+                "Serbia",
+                "Denmark",
+                "Slovakia",
+                "Slovenia",
+                "Estonia",
+                "Finland",
+                "Spain",
+                "France",
+                "Sweden",
+                "Switzerland",
+                "Georgia",
+                "Tajikistan",
+                "Germany",
+                "Greece",
+                "Turkmenistan",
+                "Hungary",
+                "Ukraine",
+                "Iceland",
+                "North Macedonia",
+                "Ireland",
+                "Uzbekistan",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-49",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-3_SH_STA_ANEM",
+  "title": "global_indicators.2-2-3_SH_STA_ANEM-title"
+}

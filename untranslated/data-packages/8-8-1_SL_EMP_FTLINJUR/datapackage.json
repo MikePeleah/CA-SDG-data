@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republic of Moldova",
+                "Croatia",
+                "Azerbaijan",
+                "Netherlands",
+                "Norway",
+                "Cyprus",
+                "Poland",
+                "Czechia",
+                "Portugal",
+                "Romania",
+                "Denmark",
+                "Slovakia",
+                "Austria",
+                "Estonia",
+                "Slovenia",
+                "Finland",
+                "Spain",
+                "France",
+                "Georgia",
+                "Germany",
+                "Sweden",
+                "Greece",
+                "Hungary",
+                "Switzerland",
+                "Türkiye",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Ukraine",
+                "Armenia",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Belgium",
+                "Uzbekistan",
+                "Luxembourg",
+                "Malta",
+                "Bulgaria",
+                "Belarus",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migratory status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "NONMIG",
+                "MIGPER",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-8-1_SL_EMP_FTLINJUR",
+  "title": "global_indicators.8-8-1_SL_EMP_FTLINJUR-title"
+}

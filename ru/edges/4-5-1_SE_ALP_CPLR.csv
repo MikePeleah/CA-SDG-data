@@ -1,0 +1,4 @@
+From,To
+GeoAreaName,Education level
+Education level,Quantile
+Quantile,Sex

@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Ireland",
+                "Spain",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_U",
+                "<=45Y",
+                "46+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Parliamentary committees",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "HUM_RIGH",
+                "DEFENCE",
+                "GEN_EQU",
+                "FAFF_DEF",
+                "FINANCE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1_SG_DMK_PARLCC_JC",
+  "title": "global_indicators.16-7-1_SG_DMK_PARLCC_JC-title"
+}

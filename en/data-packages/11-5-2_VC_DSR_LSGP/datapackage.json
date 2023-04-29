@@ -1,0 +1,73 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Poland",
+                "Romania",
+                "Azerbaijan",
+                "Austria",
+                "Armenia",
+                "Bulgaria",
+                "Serbia",
+                "Belarus",
+                "Slovenia",
+                "Croatia",
+                "Cyprus",
+                "Sweden",
+                "Switzerland",
+                "Czechia",
+                "Denmark",
+                "Tajikistan",
+                "Estonia",
+                "Türkiye",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Turkmenistan",
+                "Hungary",
+                "Ireland",
+                "Kazakhstan",
+                "Ukraine",
+                "Kyrgyzstan",
+                "Uzbekistan",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-2_VC_DSR_LSGP",
+  "title": "global_indicators.11-5-2_VC_DSR_LSGP-title"
+}

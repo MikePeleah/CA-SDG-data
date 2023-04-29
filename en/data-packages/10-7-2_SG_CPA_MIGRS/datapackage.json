@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Croatia",
+                "Romania",
+                "Czechia",
+                "Albania",
+                "Denmark",
+                "Azerbaijan",
+                "Estonia",
+                "Serbia",
+                "Finland",
+                "Austria",
+                "France",
+                "Armenia",
+                "Georgia",
+                "Slovakia",
+                "Germany",
+                "Greece",
+                "Slovenia",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Belgium",
+                "Kazakhstan",
+                "Spain",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Sweden",
+                "Republic of Moldova",
+                "Montenegro",
+                "Switzerland",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Policy Domains",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DOMAIN3",
+                "DOMAIN6",
+                "DOMAIN5",
+                "DOMAIN2",
+                "DOMAIN1",
+                "ALLDOMAINS",
+                "DOMAIN4",
+                ""
+              ]
+            },
+            "title": "Policy Domains"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-7-2_SG_CPA_MIGRS",
+  "title": "global_indicators.10-7-2_SG_CPA_MIGRS-title"
+}

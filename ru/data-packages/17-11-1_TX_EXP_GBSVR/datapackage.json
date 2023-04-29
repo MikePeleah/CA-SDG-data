@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Austria",
+                "Poland",
+                "Portugal",
+                "Armenia",
+                "Romania",
+                "Serbia",
+                "Albania",
+                "Slovakia",
+                "Slovenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Croatia",
+                "Cyprus",
+                "Spain",
+                "Czechia",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Denmark",
+                "Türkiye",
+                "Ukraine",
+                "Estonia",
+                "North Macedonia",
+                "Finland",
+                "Uzbekistan",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-11-1_TX_EXP_GBSVR",
+  "title": "global_indicators.17-11-1_TX_EXP_GBSVR-title"
+}

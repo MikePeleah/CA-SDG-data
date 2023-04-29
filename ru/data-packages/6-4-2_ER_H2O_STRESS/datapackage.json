@@ -1,0 +1,100 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Belarus",
+                "Albania",
+                "Estonia",
+                "Finland",
+                "Ireland",
+                "Austria",
+                "France",
+                "Italy",
+                "Armenia",
+                "Georgia",
+                "Kazakhstan",
+                "Germany",
+                "Belgium",
+                "Kyrgyzstan",
+                "Greece",
+                "Bosnia and Herzegovina",
+                "Latvia",
+                "Hungary",
+                "Iceland",
+                "Bulgaria",
+                "Lithuania",
+                "Malta",
+                "Romania",
+                "Luxembourg",
+                "Republic of Moldova",
+                "Serbia",
+                "Netherlands",
+                "Slovakia",
+                "Switzerland",
+                "Slovenia",
+                "Norway",
+                "Tajikistan",
+                "Poland",
+                "Spain",
+                "Türkiye",
+                "Portugal",
+                "Sweden",
+                "Turkmenistan",
+                "Ukraine",
+                "Croatia",
+                "North Macedonia",
+                "Cyprus",
+                "Uzbekistan",
+                "Czechia",
+                "Denmark",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "ISIC4_GTT",
+                "ISIC4_A01_A0210_A0322",
+                "INDUSTRIES",
+                ""
+              ]
+            },
+            "title": "Activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-4-2_ER_H2O_STRESS",
+  "title": "global_indicators.6-4-2_ER_H2O_STRESS-title"
+}

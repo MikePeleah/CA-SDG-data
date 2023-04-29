@@ -1,0 +1,91 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Portugal",
+                "Romania",
+                "Albania",
+                "Azerbaijan",
+                "Austria",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Croatia",
+                "Spain",
+                "Sweden",
+                "Cyprus",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Czechia",
+                "Turkmenistan",
+                "Ukraine",
+                "Finland",
+                "North Macedonia",
+                "Uzbekistan",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Liechtenstein",
+                "Luxembourg",
+                "Republic of Moldova",
+                "Montenegro",
+                "Poland",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "MONTANE",
+                "REMAIN_MOUNT",
+                "ALPINE",
+                "NIVAL",
+                ""
+              ]
+            },
+            "title": "Bioclimatic belt"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-2_ER_MTN_DGRDP",
+  "title": "global_indicators.15-4-2_ER_MTN_DGRDP-title"
+}

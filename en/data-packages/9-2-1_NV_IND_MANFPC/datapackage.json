@@ -1,0 +1,99 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Belarus",
+                "Norway",
+                "Albania",
+                "Croatia",
+                "Poland",
+                "Cyprus",
+                "Portugal",
+                "Romania",
+                "Azerbaijan",
+                "Serbia",
+                "Austria",
+                "Czechia",
+                "Armenia",
+                "Slovakia",
+                "Slovenia",
+                "Belgium",
+                "Denmark",
+                "Bosnia and Herzegovina",
+                "Spain",
+                "Sweden",
+                "Estonia",
+                "Finland",
+                "Switzerland",
+                "France",
+                "Tajikistan",
+                "Georgia",
+                "Germany",
+                "Türkiye",
+                "Turkmenistan",
+                "Greece",
+                "Ukraine",
+                "North Macedonia",
+                "Hungary",
+                "Iceland",
+                "Uzbekistan",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_C",
+                ""
+              ]
+            },
+            "title": "Activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-2-1_NV_IND_MANFPC",
+  "title": "global_indicators.9-2-1_NV_IND_MANFPC-title"
+}

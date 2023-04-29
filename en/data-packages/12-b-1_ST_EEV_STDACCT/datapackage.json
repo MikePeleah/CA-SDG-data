@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Republic of Moldova",
+                "Albania",
+                "Bosnia and Herzegovina",
+                "Montenegro",
+                "Bulgaria",
+                "Netherlands",
+                "Belarus",
+                "Norway",
+                "Croatia",
+                "Poland",
+                "Cyprus",
+                "Czechia",
+                "Portugal",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Romania",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Serbia",
+                "Hungary",
+                "Iceland",
+                "Slovakia",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Slovenia",
+                "Spain",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Sweden",
+                "Malta",
+                "Switzerland",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-b-1_ST_EEV_STDACCT",
+  "title": "global_indicators.12-b-1_ST_EEV_STDACCT-title"
+}

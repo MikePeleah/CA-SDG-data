@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ireland",
+                "Italy",
+                "Luxembourg",
+                "Austria",
+                "Netherlands",
+                "Norway",
+                "Belgium",
+                "Poland",
+                "Portugal",
+                "Czechia",
+                "Denmark",
+                "Slovakia",
+                "Finland",
+                "France",
+                "Germany",
+                "Slovenia",
+                "Spain",
+                "Greece",
+                "Hungary",
+                "Sweden",
+                "Iceland",
+                "Switzerland",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-2-1_DC_ODA_LDCS",
+  "title": "global_indicators.17-2-1_DC_ODA_LDCS-title"
+}

@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Netherlands",
+                "Albania",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Azerbaijan",
+                "Romania",
+                "Austria",
+                "Armenia",
+                "Serbia",
+                "Belgium",
+                "Slovakia",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Slovenia",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Spain",
+                "Denmark",
+                "Sweden",
+                "Switzerland",
+                "Estonia",
+                "Tajikistan",
+                "Finland",
+                "Türkiye",
+                "Turkmenistan",
+                "France",
+                "Ukraine",
+                "North Macedonia",
+                "Georgia",
+                "Uzbekistan",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-4-1_SL_EMP_GTOTL",
+  "title": "global_indicators.10-4-1_SL_EMP_GTOTL-title"
+}

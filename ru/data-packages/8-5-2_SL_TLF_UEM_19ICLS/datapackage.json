@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hungary",
+                "Croatia",
+                "Malta",
+                "Austria",
+                "Iceland",
+                "Republic of Moldova",
+                "Ireland",
+                "Netherlands",
+                "Armenia",
+                "Belgium",
+                "Italy",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Norway",
+                "Kosovo",
+                "Latvia",
+                "Poland",
+                "Romania",
+                "Serbia",
+                "Liechtenstein",
+                "Lithuania",
+                "Portugal",
+                "Slovakia",
+                "Luxembourg",
+                "Cyprus",
+                "Slovenia",
+                "Spain",
+                "Czechia",
+                "Sweden",
+                "Switzerland",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "25+",
+                "15+",
+                "15-24",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "BOTHSEX",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-2_SL_TLF_UEM_19ICLS",
+  "title": "global_indicators.8-5-2_SL_TLF_UEM_19ICLS-title"
+}

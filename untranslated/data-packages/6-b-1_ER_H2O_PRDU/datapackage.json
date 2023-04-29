@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Austria",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Lithuania",
+                "Republic of Moldova",
+                "Montenegro",
+                "Croatia",
+                "Estonia",
+                "Georgia",
+                "Netherlands",
+                "Norway",
+                "Romania",
+                "Serbia",
+                "Greece",
+                "Hungary",
+                "Italy",
+                "Kazakhstan",
+                "Tajikistan",
+                "Kyrgyzstan",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RURAL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-b-1_ER_H2O_PRDU",
+  "title": "global_indicators.6-b-1_ER_H2O_PRDU-title"
+}

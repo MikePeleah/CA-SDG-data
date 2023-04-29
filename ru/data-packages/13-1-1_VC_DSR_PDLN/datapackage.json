@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Austria",
+                "Armenia",
+                "Bulgaria",
+                "Belarus",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "Georgia",
+                "Hungary",
+                "Ireland",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Lithuania",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Romania",
+                "Serbia",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Turkmenistan",
+                "Ukraine",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-1-1_VC_DSR_PDLN",
+  "title": "global_indicators.13-1-1_VC_DSR_PDLN-title"
+}

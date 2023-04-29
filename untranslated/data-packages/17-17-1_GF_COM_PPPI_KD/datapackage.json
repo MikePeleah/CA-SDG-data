@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Kazakhstan",
+                "Armenia",
+                "Kosovo",
+                "Kyrgyzstan",
+                "Republic of Moldova",
+                "Montenegro",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Romania",
+                "Belarus",
+                "Serbia",
+                "Tajikistan",
+                "Türkiye",
+                "Georgia",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-17-1_GF_COM_PPPI_KD",
+  "title": "global_indicators.17-17-1_GF_COM_PPPI_KD-title"
+}

@@ -1,0 +1,95 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Kazakhstan",
+                "Azerbaijan",
+                "Croatia",
+                "Serbia",
+                "Kyrgyzstan",
+                "Austria",
+                "Cyprus",
+                "Latvia",
+                "Czechia",
+                "Armenia",
+                "Liechtenstein",
+                "Belgium",
+                "Denmark",
+                "Lithuania",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Luxembourg",
+                "Estonia",
+                "Malta",
+                "Belarus",
+                "Republic of Moldova",
+                "Finland",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "France",
+                "Portugal",
+                "Romania",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Slovakia",
+                "Hungary",
+                "Slovenia",
+                "Iceland",
+                "Spain",
+                "Ireland",
+                "Sweden",
+                "Italy",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-2-2_SE_PRE_PARTN",
+  "title": "global_indicators.4-2-2_SE_PRE_PARTN-title"
+}

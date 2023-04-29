@@ -1,0 +1,124 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ireland",
+                "Denmark",
+                "Belarus",
+                "Poland",
+                "Kosovo",
+                "Estonia",
+                "France",
+                "Georgia",
+                "Kyrgyzstan",
+                "Serbia",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                "Turkmenistan",
+                "North Macedonia",
+                "Sweden",
+                "Switzerland",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "PWD",
+                "PD",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Grounds of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALL",
+                "AGE",
+                "ETHCOLLANNAL",
+                "DIS",
+                "FAM",
+                "MAR",
+                "OTHER",
+                "SEX",
+                "ETH",
+                "DISHEA",
+                "RELIGION",
+                "SEXO",
+                "MIG",
+                "ETHI",
+                "COLR",
+                "SOCIOECON",
+                "ETHCOLLAN",
+                ""
+              ]
+            },
+            "title": "Grounds of discrimination"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "URBAN",
+                "RURAL",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "BOTHSEX",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-b-1_VC_VOV_GDSD",
+  "title": "global_indicators.16-b-1_VC_VOV_GDSD-title"
+}

@@ -1,0 +1,88 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Albania",
+                "Hungary",
+                "Bulgaria",
+                "Norway",
+                "Iceland",
+                "Belarus",
+                "Azerbaijan",
+                "Ireland",
+                "Austria",
+                "Armenia",
+                "Italy",
+                "Croatia",
+                "Cyprus",
+                "Belgium",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Poland",
+                "Czechia",
+                "Latvia",
+                "Uzbekistan",
+                "Denmark",
+                "Liechtenstein",
+                "Lithuania",
+                "Portugal",
+                "Luxembourg",
+                "Estonia",
+                "Malta",
+                "Finland",
+                "Romania",
+                "Republic of Moldova",
+                "France",
+                "Montenegro",
+                "Netherlands",
+                "Serbia",
+                "Georgia",
+                "Slovakia",
+                "Germany",
+                "Greece",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-7-4_SM_POP_REFG_OR",
+  "title": "global_indicators.10-7-4_SM_POP_REFG_OR-title"
+}

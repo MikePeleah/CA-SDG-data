@@ -1,0 +1,116 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Spain",
+                "Austria",
+                "Belgium",
+                "Czechia",
+                "France",
+                "Germany",
+                "Italy",
+                "Netherlands",
+                "Norway",
+                "Portugal",
+                "Sweden",
+                "Switzerland",
+                "Türkiye",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Counterpart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BG",
+                "CN",
+                "BR",
+                "NG",
+                "HN",
+                "CO",
+                "PH",
+                "RO",
+                "PE",
+                "MA",
+                "DO",
+                "EC",
+                "BO",
+                "TR",
+                "BA",
+                "RS",
+                "HR",
+                "XK",
+                "HU",
+                "DZ",
+                "CD",
+                "VN",
+                "UA",
+                "IN",
+                "HT",
+                "MG",
+                "TN",
+                "TG",
+                "CI",
+                "ML",
+                "LB",
+                "KM",
+                "SN",
+                "CM",
+                "TH",
+                "KG",
+                "TJ",
+                "GH",
+                "AL",
+                "MD",
+                "AF",
+                "MK",
+                "LK",
+                "EG",
+                "ET",
+                "BD",
+                "SR",
+                "SO",
+                "ID",
+                "PK",
+                "PL",
+                "MZ",
+                "CV",
+                ""
+              ]
+            },
+            "title": "Counterpart"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-c-1_SI_RMT_COST_BC",
+  "title": "global_indicators.10-c-1_SI_RMT_COST_BC-title"
+}

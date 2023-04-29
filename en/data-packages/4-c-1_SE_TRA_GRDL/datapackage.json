@@ -1,0 +1,89 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Croatia",
+                "Azerbaijan",
+                "Georgia",
+                "Belarus",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Armenia",
+                "Malta",
+                "Latvia",
+                "Republic of Moldova",
+                "Spain",
+                "Lithuania",
+                "Poland",
+                "Portugal",
+                "Tajikistan",
+                "Serbia",
+                "Turkmenistan",
+                "Ukraine",
+                "Uzbekistan",
+                "Slovakia",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PRIMAR",
+                "PREPRI",
+                "LOWSEC",
+                "SECOND",
+                "UPPSEC",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "MALE",
+                "BOTHSEX",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-1_SE_TRA_GRDL",
+  "title": "global_indicators.4-c-1_SE_TRA_GRDL-title"
+}

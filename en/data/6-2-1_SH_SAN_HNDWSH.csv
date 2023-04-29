@@ -1,0 +1,458 @@
+Year,GeoAreaName,Location,Value
+2008,Republic of Moldova,RURAL,82
+2008,Republic of Moldova,URBAN,93
+2008,Republic of Moldova,ALLAREA,87
+2009,Republic of Moldova,ALLAREA,87
+2009,Republic of Moldova,URBAN,93
+2009,Republic of Moldova,RURAL,82
+2010,Republic of Moldova,RURAL,82
+2010,Republic of Moldova,ALLAREA,87
+2010,Republic of Moldova,URBAN,93
+2011,Republic of Moldova,URBAN,93
+2009,Azerbaijan,ALLAREA,89
+2009,Azerbaijan,RURAL,87
+2009,Azerbaijan,URBAN,91
+2010,Azerbaijan,ALLAREA,89
+2010,Azerbaijan,RURAL,87
+2010,Azerbaijan,URBAN,91
+2011,Azerbaijan,ALLAREA,89
+2011,Azerbaijan,RURAL,87
+2011,Azerbaijan,URBAN,91
+2012,Azerbaijan,ALLAREA,89
+2011,Republic of Moldova,RURAL,82
+2011,Republic of Moldova,ALLAREA,87
+2012,Republic of Moldova,URBAN,93
+2012,Republic of Moldova,RURAL,82
+2012,Republic of Moldova,ALLAREA,87
+2013,Republic of Moldova,ALLAREA,87
+2013,Republic of Moldova,URBAN,93
+2013,Republic of Moldova,RURAL,82
+2014,Republic of Moldova,URBAN,93
+2014,Republic of Moldova,RURAL,82
+2012,Azerbaijan,RURAL,87
+2012,Azerbaijan,URBAN,91
+2013,Azerbaijan,ALLAREA,89
+2013,Azerbaijan,RURAL,87
+2013,Azerbaijan,URBAN,91
+2014,Azerbaijan,ALLAREA,89
+2014,Azerbaijan,URBAN,91
+2014,Azerbaijan,RURAL,87
+2015,Azerbaijan,ALLAREA,89
+2015,Azerbaijan,RURAL,87
+2014,Republic of Moldova,ALLAREA,87
+2015,Republic of Moldova,RURAL,82
+2015,Republic of Moldova,URBAN,93
+2015,Republic of Moldova,ALLAREA,87
+2016,Republic of Moldova,URBAN,93
+2016,Republic of Moldova,ALLAREA,87
+2016,Republic of Moldova,RURAL,82
+2014,Montenegro,URBAN,99
+2014,Montenegro,RURAL,99
+2014,Montenegro,ALLAREA,99
+2015,Montenegro,URBAN,99
+2015,Montenegro,RURAL,99
+2015,Montenegro,ALLAREA,99
+2016,Montenegro,ALLAREA,99
+2016,Montenegro,RURAL,99
+2016,Montenegro,URBAN,99
+2017,Montenegro,URBAN,99
+2017,Montenegro,RURAL,99
+2017,Montenegro,ALLAREA,99
+2018,Montenegro,URBAN,99
+2015,Azerbaijan,URBAN,91
+2016,Azerbaijan,ALLAREA,89
+2016,Azerbaijan,URBAN,91
+2016,Azerbaijan,RURAL,87
+2017,Azerbaijan,ALLAREA,89
+2017,Azerbaijan,RURAL,87
+2017,Azerbaijan,URBAN,91
+2000,Armenia,ALLAREA,83
+2000,Armenia,RURAL,66
+2000,Armenia,URBAN,93
+2001,Armenia,ALLAREA,84
+2001,Armenia,RURAL,67
+2001,Armenia,URBAN,93
+2002,Armenia,ALLAREA,84
+2002,Armenia,RURAL,68
+2002,Armenia,URBAN,93
+2003,Armenia,RURAL,70
+2003,Armenia,URBAN,94
+2003,Armenia,ALLAREA,85
+2004,Armenia,ALLAREA,86
+2004,Armenia,RURAL,71
+2004,Armenia,URBAN,94
+2005,Armenia,ALLAREA,86
+2005,Armenia,RURAL,73
+2005,Armenia,URBAN,94
+2006,Armenia,ALLAREA,87
+2006,Armenia,RURAL,74
+2006,Armenia,URBAN,94
+2007,Armenia,URBAN,94
+2007,Armenia,RURAL,76
+2007,Armenia,ALLAREA,88
+2008,Armenia,ALLAREA,88
+2008,Armenia,RURAL,77
+2008,Armenia,URBAN,95
+2009,Armenia,ALLAREA,89
+2009,Armenia,RURAL,78
+2009,Armenia,URBAN,95
+2010,Armenia,ALLAREA,89
+2010,Armenia,RURAL,80
+2010,Armenia,URBAN,95
+2011,Armenia,ALLAREA,90
+2011,Armenia,RURAL,81
+2011,Armenia,URBAN,95
+2012,Armenia,ALLAREA,91
+2012,Armenia,RURAL,83
+2012,Armenia,URBAN,96
+2013,Armenia,ALLAREA,91
+2013,Armenia,RURAL,84
+2013,Armenia,URBAN,96
+2014,Armenia,ALLAREA,92
+2014,Armenia,RURAL,85
+2014,Armenia,URBAN,96
+2015,Armenia,ALLAREA,93
+2015,Armenia,RURAL,87
+2015,Armenia,URBAN,96
+2016,Armenia,ALLAREA,93
+2016,Armenia,RURAL,88
+2016,Armenia,URBAN,96
+2017,Armenia,ALLAREA,94
+2017,Armenia,RURAL,90
+2018,Montenegro,RURAL,99
+2018,Montenegro,ALLAREA,99
+2019,Montenegro,URBAN,99
+2019,Montenegro,RURAL,99
+2019,Montenegro,ALLAREA,99
+2020,Montenegro,RURAL,99
+2020,Montenegro,URBAN,99
+2020,Montenegro,ALLAREA,99
+2006,Serbia,ALLAREA,98
+2006,Serbia,RURAL,98
+2017,Armenia,URBAN,97
+2018,Armenia,ALLAREA,95
+2018,Armenia,RURAL,91
+2018,Armenia,URBAN,97
+2019,Armenia,ALLAREA,95
+2019,Armenia,RURAL,91
+2019,Armenia,URBAN,97
+2020,Armenia,RURAL,91
+2020,Armenia,URBAN,97
+2020,Armenia,ALLAREA,95
+2006,Serbia,URBAN,98
+2007,Serbia,ALLAREA,98
+2007,Serbia,URBAN,98
+2007,Serbia,RURAL,98
+2008,Serbia,ALLAREA,98
+2008,Serbia,RURAL,98
+2008,Serbia,URBAN,98
+2009,Serbia,URBAN,98
+2009,Serbia,RURAL,98
+2009,Serbia,ALLAREA,98
+2010,Serbia,ALLAREA,98
+2010,Serbia,URBAN,98
+2010,Serbia,RURAL,98
+2011,Serbia,URBAN,98
+2011,Serbia,RURAL,98
+2011,Serbia,ALLAREA,98
+2012,Serbia,ALLAREA,98
+2012,Serbia,RURAL,98
+2012,Serbia,URBAN,98
+2013,Serbia,URBAN,98
+2008,Bosnia and Herzegovina,ALLAREA,97
+2008,Bosnia and Herzegovina,RURAL,96
+2008,Bosnia and Herzegovina,URBAN,99
+2009,Bosnia and Herzegovina,ALLAREA,97
+2009,Bosnia and Herzegovina,RURAL,96
+2009,Bosnia and Herzegovina,URBAN,99
+2010,Bosnia and Herzegovina,ALLAREA,97
+2010,Bosnia and Herzegovina,RURAL,96
+2010,Bosnia and Herzegovina,URBAN,99
+2011,Bosnia and Herzegovina,ALLAREA,97
+2013,Serbia,RURAL,98
+2013,Serbia,ALLAREA,98
+2014,Serbia,URBAN,98
+2014,Serbia,RURAL,98
+2014,Serbia,ALLAREA,98
+2006,Tajikistan,ALLAREA,72
+2006,Tajikistan,URBAN,89
+2006,Tajikistan,RURAL,67
+2007,Tajikistan,URBAN,89
+2007,Tajikistan,RURAL,67
+2007,Tajikistan,ALLAREA,72
+2008,Tajikistan,ALLAREA,72
+2008,Tajikistan,URBAN,89
+2008,Tajikistan,RURAL,67
+2009,Tajikistan,RURAL,67
+2009,Tajikistan,ALLAREA,72
+2009,Tajikistan,URBAN,89
+2010,Tajikistan,ALLAREA,72
+2010,Tajikistan,RURAL,67
+2010,Tajikistan,URBAN,89
+2011,Tajikistan,URBAN,88
+2011,Tajikistan,RURAL,67
+2011,Tajikistan,ALLAREA,72
+2012,Tajikistan,URBAN,88
+2012,Tajikistan,RURAL,67
+2012,Tajikistan,ALLAREA,72
+2013,Tajikistan,URBAN,88
+2013,Tajikistan,RURAL,67
+2013,Tajikistan,ALLAREA,72
+2014,Tajikistan,ALLAREA,73
+2014,Tajikistan,RURAL,67
+2014,Tajikistan,URBAN,88
+2015,Tajikistan,URBAN,88
+2015,Tajikistan,RURAL,67
+2015,Tajikistan,ALLAREA,73
+2016,Tajikistan,ALLAREA,73
+2016,Tajikistan,URBAN,87
+2016,Tajikistan,RURAL,67
+2017,Tajikistan,RURAL,67
+2017,Tajikistan,ALLAREA,73
+2017,Tajikistan,URBAN,87
+2018,Tajikistan,ALLAREA,73
+2018,Tajikistan,RURAL,67
+2018,Tajikistan,URBAN,87
+2019,Tajikistan,URBAN,87
+2019,Tajikistan,RURAL,68
+2019,Tajikistan,ALLAREA,73
+2020,Tajikistan,URBAN,87
+2020,Tajikistan,RURAL,68
+2020,Tajikistan,ALLAREA,73
+2011,Bosnia and Herzegovina,RURAL,96
+2011,Bosnia and Herzegovina,URBAN,99
+2012,Bosnia and Herzegovina,ALLAREA,97
+2012,Bosnia and Herzegovina,RURAL,96
+2012,Bosnia and Herzegovina,URBAN,99
+2013,Bosnia and Herzegovina,RURAL,96
+2013,Bosnia and Herzegovina,URBAN,99
+2013,Bosnia and Herzegovina,ALLAREA,97
+2014,Bosnia and Herzegovina,ALLAREA,97
+2014,Bosnia and Herzegovina,RURAL,96
+2000,Turkmenistan,URBAN,83
+2000,Turkmenistan,RURAL,61
+2000,Turkmenistan,ALLAREA,71
+2001,Turkmenistan,ALLAREA,73
+2001,Turkmenistan,URBAN,84
+2001,Turkmenistan,RURAL,63
+2002,Turkmenistan,URBAN,85
+2002,Turkmenistan,RURAL,65
+2002,Turkmenistan,ALLAREA,74
+2003,Turkmenistan,ALLAREA,76
+2003,Turkmenistan,URBAN,86
+2003,Turkmenistan,RURAL,68
+2004,Turkmenistan,URBAN,87
+2004,Turkmenistan,RURAL,70
+2004,Turkmenistan,ALLAREA,78
+2005,Turkmenistan,RURAL,73
+2005,Turkmenistan,URBAN,88
+2005,Turkmenistan,ALLAREA,80
+2006,Turkmenistan,URBAN,89
+2006,Turkmenistan,RURAL,75
+2006,Turkmenistan,ALLAREA,82
+2007,Turkmenistan,URBAN,90
+2007,Turkmenistan,RURAL,77
+2007,Turkmenistan,ALLAREA,83
+2008,Turkmenistan,URBAN,91
+2008,Turkmenistan,RURAL,80
+2008,Turkmenistan,ALLAREA,85
+2009,Turkmenistan,URBAN,92
+2009,Turkmenistan,RURAL,82
+2009,Turkmenistan,ALLAREA,87
+2010,Turkmenistan,URBAN,93
+2010,Turkmenistan,RURAL,85
+2010,Turkmenistan,ALLAREA,89
+2011,Turkmenistan,RURAL,87
+2011,Turkmenistan,ALLAREA,91
+2011,Turkmenistan,URBAN,94
+2012,Turkmenistan,URBAN,95
+2012,Turkmenistan,RURAL,89
+2012,Turkmenistan,ALLAREA,92
+2013,Turkmenistan,ALLAREA,94
+2014,Bosnia and Herzegovina,URBAN,99
+2015,Bosnia and Herzegovina,ALLAREA,97
+2015,Bosnia and Herzegovina,URBAN,99
+2015,Bosnia and Herzegovina,RURAL,96
+2016,Bosnia and Herzegovina,ALLAREA,97
+2016,Bosnia and Herzegovina,RURAL,96
+2016,Bosnia and Herzegovina,URBAN,99
+2014,Georgia,URBAN,95
+2014,Georgia,RURAL,87
+2014,Georgia,ALLAREA,92
+2013,Turkmenistan,RURAL,92
+2013,Turkmenistan,URBAN,96
+2014,Turkmenistan,URBAN,98
+2014,Turkmenistan,RURAL,94
+2014,Turkmenistan,ALLAREA,96
+2015,Turkmenistan,RURAL,97
+2015,Turkmenistan,URBAN,99
+2015,Turkmenistan,ALLAREA,98
+2016,Turkmenistan,URBAN,100
+2016,Turkmenistan,RURAL,99
+2015,Georgia,URBAN,95
+2015,Georgia,RURAL,87
+2015,Georgia,ALLAREA,92
+2016,Georgia,URBAN,95
+2016,Georgia,RURAL,87
+2016,Georgia,ALLAREA,92
+2017,Georgia,ALLAREA,92
+2017,Georgia,URBAN,95
+2017,Georgia,RURAL,87
+2018,Georgia,URBAN,95
+2016,Turkmenistan,ALLAREA,99
+2017,Turkmenistan,RURAL,100
+2017,Turkmenistan,ALLAREA,100
+2017,Turkmenistan,URBAN,100
+2018,Turkmenistan,RURAL,100
+2018,Turkmenistan,ALLAREA,100
+2018,Turkmenistan,URBAN,100
+2019,Turkmenistan,RURAL,100
+2019,Turkmenistan,ALLAREA,100
+2019,Turkmenistan,URBAN,100
+2020,Turkmenistan,URBAN,100
+2020,Turkmenistan,RURAL,100
+2020,Turkmenistan,ALLAREA,100
+2000,North Macedonia,URBAN,100
+2000,North Macedonia,RURAL,100
+2000,North Macedonia,ALLAREA,100
+2001,North Macedonia,RURAL,100
+2001,North Macedonia,ALLAREA,100
+2001,North Macedonia,URBAN,100
+2002,North Macedonia,RURAL,100
+2018,Georgia,RURAL,87
+2018,Georgia,ALLAREA,92
+2019,Georgia,URBAN,95
+2019,Georgia,RURAL,87
+2019,Georgia,ALLAREA,92
+2020,Georgia,URBAN,95
+2020,Georgia,RURAL,87
+2020,Georgia,ALLAREA,92
+2011,Kazakhstan,URBAN,99
+2011,Kazakhstan,RURAL,99
+2002,North Macedonia,URBAN,100
+2002,North Macedonia,ALLAREA,100
+2003,North Macedonia,URBAN,100
+2003,North Macedonia,RURAL,100
+2003,North Macedonia,ALLAREA,100
+2004,North Macedonia,ALLAREA,100
+2004,North Macedonia,URBAN,100
+2004,North Macedonia,RURAL,100
+2005,North Macedonia,ALLAREA,100
+2005,North Macedonia,URBAN,100
+2005,North Macedonia,RURAL,100
+2006,North Macedonia,ALLAREA,100
+2006,North Macedonia,URBAN,100
+2006,North Macedonia,RURAL,100
+2007,North Macedonia,URBAN,100
+2007,North Macedonia,RURAL,100
+2007,North Macedonia,ALLAREA,100
+2008,North Macedonia,URBAN,100
+2008,North Macedonia,RURAL,100
+2008,North Macedonia,ALLAREA,100
+2011,Kazakhstan,ALLAREA,99
+2012,Kazakhstan,URBAN,99
+2012,Kazakhstan,RURAL,99
+2012,Kazakhstan,ALLAREA,99
+2013,Kazakhstan,RURAL,99
+2013,Kazakhstan,ALLAREA,99
+2013,Kazakhstan,URBAN,99
+2014,Kazakhstan,ALLAREA,99
+2014,Kazakhstan,URBAN,99
+2014,Kazakhstan,RURAL,99
+2009,North Macedonia,ALLAREA,100
+2009,North Macedonia,URBAN,100
+2009,North Macedonia,RURAL,100
+2010,North Macedonia,ALLAREA,100
+2010,North Macedonia,URBAN,100
+2010,North Macedonia,RURAL,100
+2011,North Macedonia,URBAN,100
+2011,North Macedonia,RURAL,100
+2011,North Macedonia,ALLAREA,100
+2012,North Macedonia,URBAN,100
+2015,Kazakhstan,URBAN,99
+2015,Kazakhstan,RURAL,99
+2015,Kazakhstan,ALLAREA,99
+2016,Kazakhstan,URBAN,99
+2016,Kazakhstan,RURAL,99
+2016,Kazakhstan,ALLAREA,99
+2017,Kazakhstan,URBAN,99
+2017,Kazakhstan,RURAL,99
+2017,Kazakhstan,ALLAREA,99
+2018,Kazakhstan,ALLAREA,99
+2012,North Macedonia,RURAL,100
+2012,North Macedonia,ALLAREA,100
+2013,North Macedonia,URBAN,100
+2013,North Macedonia,RURAL,100
+2013,North Macedonia,ALLAREA,100
+2014,North Macedonia,URBAN,100
+2014,North Macedonia,RURAL,100
+2014,North Macedonia,ALLAREA,100
+2015,North Macedonia,ALLAREA,100
+2015,North Macedonia,URBAN,100
+2015,North Macedonia,RURAL,100
+2016,North Macedonia,ALLAREA,100
+2016,North Macedonia,RURAL,100
+2016,North Macedonia,URBAN,100
+2017,North Macedonia,URBAN,100
+2017,North Macedonia,RURAL,100
+2017,North Macedonia,ALLAREA,100
+2018,North Macedonia,URBAN,100
+2018,North Macedonia,ALLAREA,100
+2018,North Macedonia,RURAL,100
+2018,Kazakhstan,URBAN,99
+2018,Kazakhstan,RURAL,99
+2019,Kazakhstan,URBAN,99
+2019,Kazakhstan,RURAL,99
+2019,Kazakhstan,ALLAREA,99
+2006,Kyrgyzstan,URBAN,90
+2006,Kyrgyzstan,RURAL,80
+2006,Kyrgyzstan,ALLAREA,84
+2007,Kyrgyzstan,URBAN,90
+2007,Kyrgyzstan,RURAL,80
+2007,Kyrgyzstan,ALLAREA,84
+2008,Kyrgyzstan,URBAN,90
+2008,Kyrgyzstan,RURAL,80
+2008,Kyrgyzstan,ALLAREA,84
+2009,Kyrgyzstan,RURAL,80
+2009,Kyrgyzstan,ALLAREA,84
+2009,Kyrgyzstan,URBAN,90
+2010,Kyrgyzstan,URBAN,90
+2010,Kyrgyzstan,RURAL,80
+2010,Kyrgyzstan,ALLAREA,84
+2011,Kyrgyzstan,URBAN,91
+2011,Kyrgyzstan,RURAL,82
+2011,Kyrgyzstan,ALLAREA,85
+2012,Kyrgyzstan,URBAN,92
+2012,Kyrgyzstan,RURAL,84
+2012,Kyrgyzstan,ALLAREA,87
+2013,Kyrgyzstan,RURAL,86
+2013,Kyrgyzstan,ALLAREA,89
+2013,Kyrgyzstan,URBAN,93
+2014,Kyrgyzstan,URBAN,94
+2014,Kyrgyzstan,RURAL,88
+2014,Kyrgyzstan,ALLAREA,90
+2015,Kyrgyzstan,URBAN,95
+2015,Kyrgyzstan,RURAL,90
+2015,Kyrgyzstan,ALLAREA,92
+2016,Kyrgyzstan,URBAN,96
+2016,Kyrgyzstan,RURAL,92
+2016,Kyrgyzstan,ALLAREA,93
+2017,Kyrgyzstan,RURAL,94
+2017,Kyrgyzstan,ALLAREA,95
+2017,Kyrgyzstan,URBAN,97
+2018,Kyrgyzstan,URBAN,98
+2018,Kyrgyzstan,RURAL,96
+2018,Kyrgyzstan,ALLAREA,97
+2019,Kyrgyzstan,URBAN,99
+2019,Kyrgyzstan,RURAL,98
+2019,Kyrgyzstan,ALLAREA,98
+2020,Kyrgyzstan,URBAN,100
+2020,Kyrgyzstan,RURAL,100
+2020,Kyrgyzstan,ALLAREA,100
+2019,North Macedonia,URBAN,100
+2019,North Macedonia,RURAL,100
+2019,North Macedonia,ALLAREA,100
+2020,North Macedonia,URBAN,100
+2020,North Macedonia,RURAL,100
+2020,North Macedonia,ALLAREA,100
+2020,North Macedonia,ALLAREA,100

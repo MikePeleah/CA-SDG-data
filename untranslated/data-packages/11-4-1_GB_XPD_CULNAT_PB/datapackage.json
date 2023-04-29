@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Austria",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Czechia",
+                "Denmark",
+                "Finland",
+                "France",
+                "Georgia",
+                "Greece",
+                "Hungary",
+                "Kazakhstan",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Serbia",
+                "Slovakia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Türkiye",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level_of_government",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NAT",
+                "LOCAL",
+                "_T",
+                "REG",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-4-1_GB_XPD_CULNAT_PB",
+  "title": "global_indicators.11-4-1_GB_XPD_CULNAT_PB-title"
+}

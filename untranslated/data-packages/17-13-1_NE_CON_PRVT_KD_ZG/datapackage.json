@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Albania",
+                "Hungary",
+                "Serbia",
+                "Bulgaria",
+                "Slovakia",
+                "Azerbaijan",
+                "Iceland",
+                "Austria",
+                "Ireland",
+                "Belarus",
+                "Italy",
+                "Croatia",
+                "Slovenia",
+                "Kazakhstan",
+                "Cyprus",
+                "Kosovo",
+                "Kyrgyzstan",
+                "Czechia",
+                "Spain",
+                "Denmark",
+                "Latvia",
+                "Lithuania",
+                "Estonia",
+                "Luxembourg",
+                "Finland",
+                "Malta",
+                "France",
+                "Republic of Moldova",
+                "Montenegro",
+                "Sweden",
+                "Georgia",
+                "Netherlands",
+                "Germany",
+                "Norway",
+                "Greece",
+                "Switzerland",
+                "Poland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                "Portugal",
+                "Romania",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1_NE_CON_PRVT_KD_ZG",
+  "title": "global_indicators.17-13-1_NE_CON_PRVT_KD_ZG-title"
+}

@@ -1,0 +1,117 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenia",
+                "Albania",
+                "Estonia",
+                "Croatia",
+                "Belgium",
+                "Cyprus",
+                "Bosnia and Herzegovina",
+                "Azerbaijan",
+                "Denmark",
+                "Austria",
+                "Bulgaria",
+                "Hungary",
+                "Latvia",
+                "Belarus",
+                "Italy",
+                "Lithuania",
+                "Kazakhstan",
+                "Luxembourg",
+                "Republic of Moldova",
+                "Poland",
+                "Montenegro",
+                "Kyrgyzstan",
+                "Portugal",
+                "Romania",
+                "Finland",
+                "Serbia",
+                "Norway",
+                "France",
+                "Slovenia",
+                "Türkiye",
+                "Spain",
+                "Turkmenistan",
+                "Sweden",
+                "Switzerland",
+                "Ukraine",
+                "Tajikistan",
+                "North Macedonia",
+                "Georgia",
+                "Germany",
+                "Uzbekistan",
+                "Greece",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UPPSEC",
+                "PRIMAR",
+                "LOWSEC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Q2",
+                "_T",
+                "Q3",
+                "Q1",
+                "Q5",
+                "Q4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MALE",
+                "BOTHSEX",
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1_SE_ALP_CPLR",
+  "title": "global_indicators.4-5-1_SE_ALP_CPLR-title"
+}

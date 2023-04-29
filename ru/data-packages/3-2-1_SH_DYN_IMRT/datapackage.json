@@ -1,0 +1,112 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Albania",
+                "Czechia",
+                "Denmark",
+                "Kazakhstan",
+                "Azerbaijan",
+                "Bulgaria",
+                "Estonia",
+                "Belarus",
+                "Kosovo",
+                "Finland",
+                "Croatia",
+                "France",
+                "Kyrgyzstan",
+                "Cyprus",
+                "Georgia",
+                "Latvia",
+                "Lithuania",
+                "Germany",
+                "Netherlands",
+                "Austria",
+                "Luxembourg",
+                "Greece",
+                "Norway",
+                "Malta",
+                "Hungary",
+                "Armenia",
+                "Iceland",
+                "Republic of Moldova",
+                "Ireland",
+                "Poland",
+                "Montenegro",
+                "Italy",
+                "Slovakia",
+                "Portugal",
+                "Slovenia",
+                "Belgium",
+                "Spain",
+                "Romania",
+                "Sweden",
+                "Serbia",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<1Y",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-2-1_SH_DYN_IMRT",
+  "title": "global_indicators.3-2-1_SH_DYN_IMRT-title"
+}

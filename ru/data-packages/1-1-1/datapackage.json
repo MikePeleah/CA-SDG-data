@@ -12,42 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Год"
           },
           {
-            "name": "GeoCA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KAZ",
-                "KGZ",
-                "TJK",
-                "TKM",
-                "UZB",
-                ""
-              ]
-            },
-            "title": "GeoCA"
-          },
-          {
-            "name": "Gender",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "GeoCode",
-            "type": "number",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

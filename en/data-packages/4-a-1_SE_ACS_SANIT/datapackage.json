@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republic of Moldova",
+                "Albania",
+                "Netherlands",
+                "Azerbaijan",
+                "Norway",
+                "Belarus",
+                "Poland",
+                "Denmark",
+                "Portugal",
+                "Estonia",
+                "Finland",
+                "Slovakia",
+                "Slovenia",
+                "France",
+                "Spain",
+                "Georgia",
+                "Germany",
+                "Switzerland",
+                "Turkmenistan",
+                "Uzbekistan",
+                "Hungary",
+                "Italy",
+                "Latvia",
+                "Lithuania",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UPPSEC",
+                "LOWSEC",
+                "PRIMAR",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-a-1_SE_ACS_SANIT",
+  "title": "global_indicators.4-a-1_SE_ACS_SANIT-title"
+}

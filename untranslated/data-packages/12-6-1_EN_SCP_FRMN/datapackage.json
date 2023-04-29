@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belgium",
+                "Norway",
+                "Cyprus",
+                "Azerbaijan",
+                "Austria",
+                "Czechia",
+                "Poland",
+                "Denmark",
+                "Portugal",
+                "Finland",
+                "Romania",
+                "Slovenia",
+                "France",
+                "Spain",
+                "Georgia",
+                "Germany",
+                "Sweden",
+                "Greece",
+                "Switzerland",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Türkiye",
+                "Italy",
+                "Ukraine",
+                "Kazakhstan",
+                "Liechtenstein",
+                "Luxembourg",
+                "Malta",
+                "Netherlands",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_L",
+                "TOTAL",
+                "ISIC4_K",
+                "ISIC4_G",
+                "ISIC4_C",
+                "ISIC4_H",
+                "ISIC4_J",
+                "ISIC4_F",
+                "ISIC4_M",
+                "ISIC4_B",
+                "ISIC4_A",
+                "ISIC4_R",
+                "ISIC4_N",
+                "ISIC4_Q",
+                "ISIC4_I",
+                "ISIC4_S",
+                "ISIC4_P",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of requirement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-6-1_EN_SCP_FRMN",
+  "title": "global_indicators.12-6-1_EN_SCP_FRMN-title"
+}

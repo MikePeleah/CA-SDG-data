@@ -1,0 +1,21 @@
+Year,GeoAreaName,Age,Parliamentary committees,Sex,Value
+2021,Bosnia and Herzegovina,_U,HUM_RIGH,MALE,1
+2022,Bosnia and Herzegovina,_U,HUM_RIGH,MALE,1
+2023,Bosnia and Herzegovina,_U,HUM_RIGH,MALE,1
+2023,Bosnia and Herzegovina,_U,DEFENCE,MALE,1
+2021,Ireland,<=45Y,GEN_EQU,MALE,1
+2021,Ireland,46+,FAFF_DEF,MALE,1
+2021,Ireland,46+,FINANCE,MALE,1
+2022,Ireland,46+,FINANCE,MALE,1
+2022,Ireland,46+,FAFF_DEF,MALE,1
+2022,Ireland,<=45Y,GEN_EQU,FEMALE,1
+2023,Ireland,<=45Y,GEN_EQU,FEMALE,1
+2023,Ireland,46+,FINANCE,MALE,1
+2023,Ireland,46+,FAFF_DEF,MALE,1
+2021,Spain,46+,DEFENCE,MALE,1
+2022,Spain,46+,DEFENCE,MALE,1
+2023,Spain,46+,DEFENCE,MALE,1
+2021,Uzbekistan,46+,HUM_RIGH,MALE,1
+2022,Uzbekistan,46+,HUM_RIGH,MALE,1
+2023,Uzbekistan,46+,HUM_RIGH,MALE,1
+2023,Uzbekistan,46+,HUM_RIGH,MALE,1

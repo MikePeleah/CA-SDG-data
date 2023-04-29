@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estonia",
+                "Finland",
+                "Georgia",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Latvia",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Türkiye",
+                "Ukraine",
+                "Albania",
+                "Belgium",
+                "Bulgaria",
+                "Croatia",
+                "Cyprus",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-4-1_ER_H2O_FWTL",
+  "title": "global_indicators.14-4-1_ER_H2O_FWTL-title"
+}

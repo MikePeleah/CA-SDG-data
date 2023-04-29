@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Poland",
+                "Portugal",
+                "Belarus",
+                "Albania",
+                "Croatia",
+                "Romania",
+                "Cyprus",
+                "Azerbaijan",
+                "Serbia",
+                "Slovakia",
+                "Austria",
+                "Czechia",
+                "Slovenia",
+                "Armenia",
+                "Denmark",
+                "Spain",
+                "Belgium",
+                "Estonia",
+                "Sweden",
+                "Finland",
+                "Bosnia and Herzegovina",
+                "Switzerland",
+                "France",
+                "Tajikistan",
+                "Georgia",
+                "Türkiye",
+                "Germany",
+                "Turkmenistan",
+                "Ukraine",
+                "Greece",
+                "Hungary",
+                "North Macedonia",
+                "Iceland",
+                "Ireland",
+                "Uzbekistan",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-5-1_ER_GRF_ANIMKPT",
+  "title": "global_indicators.2-5-1_ER_GRF_ANIMKPT-title"
+}

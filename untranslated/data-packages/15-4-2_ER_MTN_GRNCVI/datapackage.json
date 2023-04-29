@@ -1,0 +1,115 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Austria",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Croatia",
+                "Cyprus",
+                "Finland",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Liechtenstein",
+                "Luxembourg",
+                "Republic of Moldova",
+                "Montenegro",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALPINE",
+                "TOTAL",
+                "MONTANE",
+                "REMAIN_MOUNT",
+                "NIVAL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Land cover",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TREE_COVERED",
+                "CROPLAND",
+                "MGCI",
+                "TERRESTRIAL_BARREN",
+                "GLACIERS",
+                "INLAND_WATER",
+                "GRASSLAND",
+                "HERB_AQUA_FLOOD",
+                "ARTIFICIAL",
+                "SPARSE_NAT_VEG",
+                "SHRUB_COVERED",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mountain Elevation",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-2_ER_MTN_GRNCVI",
+  "title": "global_indicators.15-4-2_ER_MTN_GRNCVI-title"
+}

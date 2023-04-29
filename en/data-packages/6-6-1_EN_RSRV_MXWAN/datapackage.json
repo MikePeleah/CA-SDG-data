@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Hungary",
+                "Iceland",
+                "Azerbaijan",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Austria",
+                "Ukraine",
+                "North Macedonia",
+                "Kyrgyzstan",
+                "Latvia",
+                "Uzbekistan",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Armenia",
+                "Malta",
+                "Republic of Moldova",
+                "Belgium",
+                "Montenegro",
+                "Norway",
+                "Bosnia and Herzegovina",
+                "Poland",
+                "Bulgaria",
+                "Portugal",
+                "Romania",
+                "Croatia",
+                "Cyprus",
+                "Serbia",
+                "Slovakia",
+                "Czechia",
+                "Slovenia",
+                "Denmark",
+                "Spain",
+                "Switzerland",
+                "Estonia",
+                "Tajikistan",
+                "Finland",
+                "Türkiye",
+                "Turkmenistan",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1_EN_RSRV_MXWAN",
+  "title": "global_indicators.6-6-1_EN_RSRV_MXWAN-title"
+}

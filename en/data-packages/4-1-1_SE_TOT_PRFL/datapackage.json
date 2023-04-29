@@ -1,0 +1,123 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Croatia",
+                "Lithuania",
+                "Cyprus",
+                "Albania",
+                "Switzerland",
+                "Luxembourg",
+                "Czechia",
+                "Azerbaijan",
+                "Malta",
+                "Austria",
+                "Republic of Moldova",
+                "Denmark",
+                "Armenia",
+                "Montenegro",
+                "Belgium",
+                "Türkiye",
+                "Netherlands",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Estonia",
+                "Norway",
+                "Finland",
+                "Belarus",
+                "France",
+                "Ukraine",
+                "Georgia",
+                "North Macedonia",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Germany",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PRIMAR",
+                "LOWSEC",
+                "GRAD23",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MALE",
+                "BOTHSEX",
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SKILL_READ",
+                "SKILL_MATH",
+                ""
+              ]
+            },
+            "title": "Type of skill"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-1_SE_TOT_PRFL",
+  "title": "global_indicators.4-1-1_SE_TOT_PRFL-title"
+}

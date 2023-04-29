@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                "Albania",
+                "Poland",
+                "Portugal",
+                "Azerbaijan",
+                "Romania",
+                "Austria",
+                "Serbia",
+                "Slovakia",
+                "Armenia",
+                "Slovenia",
+                "Belgium",
+                "Spain",
+                "Bosnia and Herzegovina",
+                "Sweden",
+                "Bulgaria",
+                "Switzerland",
+                "Tajikistan",
+                "Belarus",
+                "Türkiye",
+                "Croatia",
+                "Ukraine",
+                "Cyprus",
+                "North Macedonia",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-c-1_AG_FPA_CFPI",
+  "title": "global_indicators.2-c-1_AG_FPA_CFPI-title"
+}

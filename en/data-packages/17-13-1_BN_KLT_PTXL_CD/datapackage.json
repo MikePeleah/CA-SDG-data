@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Kosovo",
+                "Albania",
+                "Kyrgyzstan",
+                "Azerbaijan",
+                "Slovenia",
+                "Austria",
+                "Latvia",
+                "Spain",
+                "Armenia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Belgium",
+                "Sweden",
+                "Belarus",
+                "Republic of Moldova",
+                "Switzerland",
+                "Montenegro",
+                "Tajikistan",
+                "Netherlands",
+                "Türkiye",
+                "Norway",
+                "Ukraine",
+                "Croatia",
+                "Poland",
+                "North Macedonia",
+                "Portugal",
+                "Uzbekistan",
+                "Romania",
+                "Serbia",
+                "Cyprus",
+                "Slovakia",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1_BN_KLT_PTXL_CD",
+  "title": "global_indicators.17-13-1_BN_KLT_PTXL_CD-title"
+}

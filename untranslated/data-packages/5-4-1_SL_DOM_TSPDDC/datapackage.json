@@ -1,0 +1,121 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Austria",
+                "Portugal",
+                "Romania",
+                "Armenia",
+                "Belgium",
+                "Bulgaria",
+                "Belarus",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Serbia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Türkiye",
+                "North Macedonia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10+",
+                "65+",
+                "15+",
+                "15-24",
+                "25-44",
+                "45-54",
+                "55-64",
+                "45-64",
+                "12+",
+                "20-74",
+                "20-64",
+                "20+",
+                "20-24",
+                "15-64",
+                "3+",
+                "16+",
+                "10-14",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "URBAN",
+                "RURAL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-4-1_SL_DOM_TSPDDC",
+  "title": "global_indicators.5-4-1_SL_DOM_TSPDDC-title"
+}

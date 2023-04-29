@@ -1,0 +1,138 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenia",
+                "Bulgaria",
+                "Albania",
+                "Croatia",
+                "Cyprus",
+                "Belarus",
+                "Czechia",
+                "Belgium",
+                "Estonia",
+                "Denmark",
+                "Finland",
+                "Bosnia and Herzegovina",
+                "France",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Latvia",
+                "Malta",
+                "Austria",
+                "Republic of Moldova",
+                "Norway",
+                "Montenegro",
+                "Netherlands",
+                "Lithuania",
+                "Poland",
+                "Portugal",
+                "Serbia",
+                "Luxembourg",
+                "Spain",
+                "Romania",
+                "Türkiye",
+                "Slovakia",
+                "Uzbekistan",
+                "Slovenia",
+                "Ukraine",
+                "North Macedonia",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "MALE",
+                "BOTHSEX",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "isco08-9",
+                "isco08-6",
+                "isco08-5",
+                "isco08-2",
+                "_T",
+                "isco08-1",
+                "isco08-8",
+                "isco08-7",
+                "isco08-4",
+                "isco08-3",
+                "isco88-3",
+                "isco88-4",
+                "isco88-5",
+                "isco88-9",
+                "isco88-8",
+                "isco88-1",
+                "isco88-2",
+                "isco88-7",
+                "isco88-X",
+                "isco88-6",
+                "isco08-0",
+                "isco88-0",
+                "isco08-X",
+                ""
+              ]
+            },
+            "title": "Type of occupation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1_SL_EMP_EARN",
+  "title": "global_indicators.8-5-1_SL_EMP_EARN-title"
+}

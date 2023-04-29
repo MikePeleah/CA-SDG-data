@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Serbia",
+                "Czechia",
+                "Estonia",
+                "Tajikistan",
+                "Albania",
+                "Turkmenistan",
+                "Azerbaijan",
+                "Ukraine",
+                "North Macedonia",
+                "Georgia",
+                "Uzbekistan",
+                "Armenia",
+                "Germany",
+                "Greece",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Bulgaria",
+                "Belarus",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands",
+                "Poland",
+                "Portugal",
+                "Romania",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<5Y",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-1_SH_STA_STNTN",
+  "title": "global_indicators.2-2-1_SH_STA_STNTN-title"
+}
