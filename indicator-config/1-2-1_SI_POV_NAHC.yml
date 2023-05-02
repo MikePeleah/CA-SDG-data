@@ -35,13 +35,12 @@ indicator_name : global_indicators.1-2-1_SI_POV_NAHC-title
 page_content : ''
 permalink : '/1-2-1_SI_POV_NAHC/'
 precision : []
-reporting_status : notstarted
+reporting_status : reported
 sort : ''
 standalone : false
 tags : []
 indicator_number : 1-2-1_SI_POV_NAHC
-notstarted : reported
 tag : 
-  - custom.regional
+  - custom.global
 graph_target_lines : []
 national_geographical_coverage: custom.central_asia
