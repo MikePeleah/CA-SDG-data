@@ -1,934 +1,308 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-1-1,notstarted,International Labour Organization (ILO),True,,,,line
-#1-1-1_SI_POV_DAY1,notstarted,,,,custom.central_asia,,line
-#1-1-1_SI_POV_EMP1,notstarted,,,,custom.central_asia,,line
+#1-1-1-a,complete,,,,,,line
+#1-1-1_a,complete,,,,custom.central_asia,,line
 #1-2-1,notstarted,World Bank,True,,,,line
-#1-2-1_SI_POV_NAHC,notstarted,,,,custom.central_asia,,line
 #1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",True,,,,line
-#1-2-2_SD_MDP_CSMP,notstarted,,,,custom.central_asia,,line
-#1-2-2_SD_MDP_MUHC,notstarted,,,,custom.central_asia,,line
-#1-2-2_SD_MDP_MUHHC,notstarted,,,,custom.central_asia,,line
 #1-3-1,notstarted,International Labour Organization (ILO),True,,,,line
-#1-3-1_SI_COV_BENFTS,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_CHLD,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_DISAB,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_LMKT,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_MATNL,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_PENSN,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_POOR,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_SOCAST,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_SOCINS,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_UEMP,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_VULN,notstarted,,,,custom.central_asia,,line
-#1-3-1_SI_COV_WKINJRY,notstarted,,,,custom.central_asia,,line
 #1-4-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),True,,,,line
-#1-4-1_SP_ACS_BSRVH2O,notstarted,,,,custom.central_asia,,line
-#1-4-1_SP_ACS_BSRVSAN,notstarted,,,,custom.central_asia,,line
 #1-4-2,notstarted,UN-Habitat and World Bank,True,,,,line
-#1-4-2_SP_LGL_LNDDOC,notstarted,,,,custom.central_asia,,line
-#1-4-2_SP_LGL_LNDSEC,notstarted,,,,custom.central_asia,,line
-#1-4-2_SP_LGL_LNDSTR,notstarted,,,,custom.central_asia,,line
 #1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#1-5-1_VC_DSR_AFFCT,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_DAFF,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_IJILN,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_MISS,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_MMHN,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_MORT,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_MTMP,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_PDAN,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_PDLN,notstarted,,,,custom.central_asia,,line
-#1-5-1_VC_DSR_PDYN,notstarted,,,,custom.central_asia,,line
 #1-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#1-5-2_VC_DSR_AGLH,notstarted,,,,custom.central_asia,,line
-#1-5-2_VC_DSR_CHLN,notstarted,,,,custom.central_asia,,line
-#1-5-2_VC_DSR_CILN,notstarted,,,,custom.central_asia,,line
-#1-5-2_VC_DSR_DDPA,notstarted,,,,custom.central_asia,,line
-#1-5-2_VC_DSR_GDPLS,notstarted,,,,custom.central_asia,,line
-#1-5-2_VC_DSR_HOLH,notstarted,,,,custom.central_asia,,line
-#1-5-2_VC_DSR_LSGP,notstarted,,,,custom.central_asia,,line
 #1-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#1-5-3_SG_DSR_LGRGSR,notstarted,,,,custom.central_asia,,line
 #1-5-4,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#1-5-4_SG_DSR_SILN,notstarted,,,,custom.central_asia,,line
-#1-5-4_SG_DSR_SILS,notstarted,,,,custom.central_asia,,line
-#1-5-4_SG_GOV_LOGV,notstarted,,,,custom.central_asia,,line
 #1-a-1,notstarted,OECD,True,,,,line
-#1-a-1_DC_ODA_POVDLG,notstarted,,,,custom.central_asia,,line
-#1-a-1_DC_ODA_POVLG,notstarted,,,,custom.central_asia,,line
 #1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),True,,,,line
-#1-a-2_SD_XPD_ESED,notstarted,,,,custom.central_asia,,line
 #10-1-1,notstarted,World Bank (WB),True,,,,line
-#10-1-1_SI_HEI_TOTL,notstarted,,,,custom.central_asia,,line
 #10-2-1,notstarted,World Bank (WB),True,,,,line
-#10-2-1_SI_POV_50MI,notstarted,,,,custom.central_asia,,line
 #10-3-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),True,,,,line
-#10-3-1_VC_VOV_GDSD,notstarted,,,,custom.central_asia,,line
 #10-4-1,notstarted,International Labour Organization (ILO),True,,,,line
-#10-4-1_SL_EMP_GTOTL,notstarted,,,,custom.central_asia,,line
 #10-4-2,notstarted,"Institutional information: The World Bank Group is the official custodian for this indicator. This metadata documentation was developed and agreed by the three institutional data providers, CEQ Institute, OECD and The World Bank.",True,,,,line
-#10-4-2_SI_DST_FISP,notstarted,,,,custom.central_asia,,line
 #10-5-1,notstarted,International Monetary Fund,True,,,,line
-#10-5-1_FI_FSI_FSANL,notstarted,,,,custom.central_asia,,line
-#10-5-1_FI_FSI_FSERA,notstarted,,,,custom.central_asia,,line
-#10-5-1_FI_FSI_FSKA,notstarted,,,,custom.central_asia,,line
-#10-5-1_FI_FSI_FSKNL,notstarted,,,,custom.central_asia,,line
-#10-5-1_FI_FSI_FSKRTC,notstarted,,,,custom.central_asia,,line
-#10-5-1_FI_FSI_FSLS,notstarted,,,,custom.central_asia,,line
-#10-5-1_FI_FSI_FSSNO,notstarted,,,,custom.central_asia,,line
 #10-6-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
 ",True,,,,line
-#10-6-1_SG_INT_MBRDEV,notstarted,,,,custom.central_asia,,line
-#10-6-1_SG_INT_VRTDEV,notstarted,,,,custom.central_asia,,line
 #10-7-1,notstarted,International Labour Organization (ILO) and World Bank (WB),True,,,,line
 #10-7-2,notstarted,International Organization for Migration (IOM) and United Nations Department of Economic and Social Affairs (DESA) as custodian agencies,True,,,,line
-#10-7-2_SG_CPA_MIGRS,notstarted,,,,custom.central_asia,,line
 #10-7-3,notstarted,International Organization for Migration,True,,,,line
-#10-7-3_SM_DTH_MIGR,notstarted,,,,custom.central_asia,,line
 #10-7-4,notstarted,United Nations High Commissioner for Refugees (UNHCR),True,,,,line
-#10-7-4_SM_POP_REFG_OR,notstarted,,,,custom.central_asia,,line
 #10-a-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",True,,,,line
-#10-a-1_TM_TRF_ZERO,notstarted,,,,custom.central_asia,,line
 #10-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,,,line
-#10-b-1_DC_TRF_TOTDL,notstarted,,,,custom.central_asia,,line
-#10-b-1_DC_TRF_TOTL,notstarted,,,,custom.central_asia,,line
 #10-c-1,notstarted,World Bank,True,,,,line
-#10-c-1_SI_RMT_COST,notstarted,,,,custom.central_asia,,line
-#10-c-1_SI_RMT_COST_BC,notstarted,,,,custom.central_asia,,line
-#10-c-1_SI_RMT_COST_SC,notstarted,,,,custom.central_asia,,line
-#10-c-1_SI_RMT_COST_SND,notstarted,,,,custom.central_asia,,line
 #11-1-1,notstarted,United Nations Human Settlements Programme (UN-Habitat) ,True,,,,line
-#11-1-1_EN_LND_SLUM,notstarted,,,,custom.central_asia,,line
 #11-2-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),True,,,,line
-#11-2-1_SP_TRN_PUBL,notstarted,,,,custom.central_asia,,line
 #11-3-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),True,,,,line
 #11-3-2,notstarted,UN-Habitat,True,,,,line
 #11-4-1,notstarted,UNESCO Institute for Statistics (UIS),True,,,,line
-#11-4-1_GB_XPD_CULNAT_PB,notstarted,,,,custom.central_asia,,line
-#11-4-1_GB_XPD_CULNAT_PBPV,notstarted,,,,custom.central_asia,,line
-#11-4-1_GB_XPD_CULNAT_PV,notstarted,,,,custom.central_asia,,line
-#11-4-1_GB_XPD_CUL_PBPV,notstarted,,,,custom.central_asia,,line
-#11-4-1_GB_XPD_NAT_PBPV,notstarted,,,,custom.central_asia,,line
 #11-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#11-5-1_VC_DSR_AFFCT,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_DAFF,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_IJILN,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_MISS,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_MMHN,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_MORT,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_MTMP,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_PDAN,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_PDLN,notstarted,,,,custom.central_asia,,line
-#11-5-1_VC_DSR_PDYN,notstarted,,,,custom.central_asia,,line
 #11-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#11-5-2_VC_DSR_AGLH,notstarted,,,,custom.central_asia,,line
-#11-5-2_VC_DSR_CHLN,notstarted,,,,custom.central_asia,,line
-#11-5-2_VC_DSR_CILN,notstarted,,,,custom.central_asia,,line
-#11-5-2_VC_DSR_DDPA,notstarted,,,,custom.central_asia,,line
-#11-5-2_VC_DSR_GDPLS,notstarted,,,,custom.central_asia,,line
-#11-5-2_VC_DSR_HOLH,notstarted,,,,custom.central_asia,,line
-#11-5-2_VC_DSR_LSGP,notstarted,,,,custom.central_asia,,line
 #11-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#11-5-3_VC_DSR_BSDN,notstarted,,,,custom.central_asia,,line
-#11-5-3_VC_DSR_CDAN,notstarted,,,,custom.central_asia,,line
-#11-5-3_VC_DSR_CDYN,notstarted,,,,custom.central_asia,,line
-#11-5-3_VC_DSR_EFDN,notstarted,,,,custom.central_asia,,line
-#11-5-3_VC_DSR_ESDN,notstarted,,,,custom.central_asia,,line
-#11-5-3_VC_DSR_HFDN,notstarted,,,,custom.central_asia,,line
-#11-5-3_VC_DSR_HSDN,notstarted,,,,custom.central_asia,,line
-#11-5-3_VC_DSR_OBDN,notstarted,,,,custom.central_asia,,line
 #11-6-1,notstarted,"UN-Habitat, UNSD",True,,,,line
-#11-6-1_EN_REF_WASCOL,notstarted,,,,custom.central_asia,,line
 #11-6-2,notstarted,World Health Organization (WHO),True,,,,line
-#11-6-2_EN_ATM_PM25,notstarted,,,,custom.central_asia,,line
 #11-7-1,notstarted,UN-HABITAT,True,,,,line
-#11-7-1_EN_URB_OPENSP,notstarted,,,,custom.central_asia,,line
 #11-7-2,notstarted,Custodian Agency: United Nations on Drugs and Crime (UNODC),True,,,,line
-#11-7-2_VC_VOH_SXPH,notstarted,,,,custom.central_asia,,line
 #11-a-1,notstarted,"UN-Habitat
 UNFPA",True,,,,line
-#11-a-1_SD_CPA_UPRDP,notstarted,,,,custom.central_asia,,line
 #11-b-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#11-b-1_SG_DSR_LGRGSR,notstarted,,,,custom.central_asia,,line
 #11-b-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#11-b-2_SG_DSR_SILN,notstarted,,,,custom.central_asia,,line
-#11-b-2_SG_DSR_SILS,notstarted,,,,custom.central_asia,,line
-#11-b-2_SG_GOV_LOGV,notstarted,,,,custom.central_asia,,line
 #12-1-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#12-1-1_SG_SCP_CNTRY,notstarted,,,,custom.central_asia,,line
-#12-1-1_SG_SCP_POLINS,notstarted,,,,custom.central_asia,,line
-#12-1-1_SG_SCP_TOTLN,notstarted,,,,custom.central_asia,,line
 #12-2-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
 #12-2-2,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#12-2-2_EN_MAT_DOMCMPC,notstarted,,,,custom.central_asia,,line
-#12-2-2_EN_MAT_DOMCMPG,notstarted,,,,custom.central_asia,,line
-#12-2-2_EN_MAT_DOMCMPT,notstarted,,,,custom.central_asia,,line
 #12-3-1,notstarted,United Nations Environment Programme (UNEP) ,True,,,,line
-#12-3-1_AG_FOOD_WST,notstarted,,,,custom.central_asia,,line
-#12-3-1_AG_FOOD_WST_PC,notstarted,,,,custom.central_asia,,line
 #12-4-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#12-4-1_SG_HAZ_CMRBASEL,notstarted,,,,custom.central_asia,,line
-#12-4-1_SG_HAZ_CMRMNMT,notstarted,,,,custom.central_asia,,line
-#12-4-1_SG_HAZ_CMRMNTRL,notstarted,,,,custom.central_asia,,line
-#12-4-1_SG_HAZ_CMRROTDAM,notstarted,,,,custom.central_asia,,line
-#12-4-1_SG_HAZ_CMRSTHOLM,notstarted,,,,custom.central_asia,,line
 #12-4-2,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",True,,,,line
-#12-4-2_EN_EWT_COLLPCAP,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_EWT_COLLR,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_EWT_COLLV,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_EWT_GENPCAP,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_EWT_GENV,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_HAZ_EXP,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_HAZ_GENGDP,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_HAZ_GENV,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_HAZ_IMP,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_HAZ_PCAP,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_HAZ_TREATV,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_HAZ_TRTDISR,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_HAZ_TRTDISV,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_MWT_COLLV,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_MWT_EXP,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_MWT_GENV,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_MWT_IMP,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_MWT_TREATR,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_MWT_TREATV,notstarted,,,,custom.central_asia,,line
-#12-4-2_EN_TWT_GENV,notstarted,,,,custom.central_asia,,line
 #12-5-1,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",True,,,,line
-#12-5-1_EN_EWT_RCYPCAP,notstarted,,,,custom.central_asia,,line
-#12-5-1_EN_EWT_RCYR,notstarted,,,,custom.central_asia,,line
-#12-5-1_EN_EWT_RCYV,notstarted,,,,custom.central_asia,,line
-#12-5-1_EN_MWT_RCYR,notstarted,,,,custom.central_asia,,line
-#12-5-1_EN_MWT_RCYV,notstarted,,,,custom.central_asia,,line
 #12-6-1,notstarted,"United Nations Conference on Trade and Development (UNCTAD)
 United Nations Environment Programme (UNEP)",True,,,,line
-#12-6-1_EN_SCP_FRMN,notstarted,,,,custom.central_asia,,line
 #12-7-1,notstarted,UNEP United Nations Environment Programme,True,,,,line
-#12-7-1_SG_SCP_PROCN,notstarted,,,,custom.central_asia,,line
-#12-7-1_SG_SCP_PROCN_HS,notstarted,,,,custom.central_asia,,line
-#12-7-1_SG_SCP_PROCN_LS,notstarted,,,,custom.central_asia,,line
 #12-8-1,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)",True,,,,line
-#12-8-1_SE_GCEDESD_CUR,notstarted,,,,custom.central_asia,,line
-#12-8-1_SE_GCEDESD_NEP,notstarted,,,,custom.central_asia,,line
-#12-8-1_SE_GCEDESD_SAS,notstarted,,,,custom.central_asia,,line
-#12-8-1_SE_GCEDESD_TED,notstarted,,,,custom.central_asia,,line
 #12-a-1,notstarted,International Renewable Energy Agency (IRENA),True,,,,line
-#12-a-1_EG_EGY_RNEW,notstarted,,,,custom.central_asia,,line
 #12-b-1,notstarted,World Tourism Organization (UNWTO),True,,,,line
-#12-b-1_ST_EEV_ACCSEEA,notstarted,,,,custom.central_asia,,line
-#12-b-1_ST_EEV_ACCTSA,notstarted,,,,custom.central_asia,,line
-#12-b-1_ST_EEV_STDACCT,notstarted,,,,custom.central_asia,,line
 #12-c-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#12-c-1_ER_FFS_CMPT_CD,notstarted,,,,custom.central_asia,,line
-#12-c-1_ER_FFS_CMPT_GDP,notstarted,,,,custom.central_asia,,line
-#12-c-1_ER_FFS_CMPT_PC_CD,notstarted,,,,custom.central_asia,,line
 #13-1-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#13-1-1_VC_DSR_AFFCT,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_DAFF,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_IJILN,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_MISS,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_MMHN,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_MORT,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_MTMP,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_PDAN,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_PDLN,notstarted,,,,custom.central_asia,,line
-#13-1-1_VC_DSR_PDYN,notstarted,,,,custom.central_asia,,line
 #13-1-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#13-1-2_SG_DSR_LGRGSR,notstarted,,,,custom.central_asia,,line
 #13-1-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#13-1-3_SG_DSR_SILN,notstarted,,,,custom.central_asia,,line
-#13-1-3_SG_DSR_SILS,notstarted,,,,custom.central_asia,,line
-#13-1-3_SG_GOV_LOGV,notstarted,,,,custom.central_asia,,line
 #13-2-1,notstarted,UN Climate Change (UNFCCC Secretariat),True,,,,line
 #13-2-2,notstarted,UN Climate Change (UNFCCC Secretariat),True,,,,line
-#13-2-2_EN_ATM_GHGT_AIP,notstarted,,,,custom.central_asia,,line
-#13-2-2_EN_ATM_GHGT_NAIP,notstarted,,,,custom.central_asia,,line
 #13-3-1,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)",True,,,,line
-#13-3-1_SE_GCEDESD_CUR,notstarted,,,,custom.central_asia,,line
-#13-3-1_SE_GCEDESD_NEP,notstarted,,,,custom.central_asia,,line
-#13-3-1_SE_GCEDESD_SAS,notstarted,,,,custom.central_asia,,line
-#13-3-1_SE_GCEDESD_TED,notstarted,,,,custom.central_asia,,line
 #13-a-1,notstarted,UN Climate Change (UNFCCC Secretariat),True,,,,line
 #13-b-1,notstarted,UN Climate Change (UNFCCC Secretariat),True,,,,line
 #14-1-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#14-1-1_EN_MAR_BEALITSQ,notstarted,,,,custom.central_asia,,line
-#14-1-1_EN_MAR_BEALIT_BP,notstarted,,,,custom.central_asia,,line
-#14-1-1_EN_MAR_BEALIT_BV,notstarted,,,,custom.central_asia,,line
-#14-1-1_EN_MAR_BEALIT_EXP,notstarted,,,,custom.central_asia,,line
-#14-1-1_EN_MAR_BEALIT_OP,notstarted,,,,custom.central_asia,,line
-#14-1-1_EN_MAR_BEALIT_OV,notstarted,,,,custom.central_asia,,line
-#14-1-1_EN_MAR_CHLANM,notstarted,,,,custom.central_asia,,line
-#14-1-1_EN_MAR_CHLDEV,notstarted,,,,custom.central_asia,,line
 #14-2-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#14-2-1_EN_SCP_ECSYBA,notstarted,,,,custom.central_asia,,line
 #14-3-1,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,True,,,,line
-#14-3-1_ER_OAW_MNACD,notstarted,,,,custom.central_asia,,line
 #14-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#14-4-1_ER_H2O_FWTL,notstarted,,,,custom.central_asia,,line
 #14-5-1,notstarted,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
 UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
 UN Environment",True,,,,line
 #14-6-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
 #14-7-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#14-7-1_EN_SCP_FSHGDP,notstarted,,,,custom.central_asia,,line
 #14-a-1,notstarted,Intergovernmental Oceanographic Commission of UNESCO,True,,,,line
-#14-a-1_ER_RDE_OSEX,notstarted,,,,custom.central_asia,,line
 #14-b-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
 #14-c-1,notstarted,"Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat",True,,,,line
-#14-c-1_ER_UNCLOS_IMPLE,notstarted,,,,custom.central_asia,,line
-#14-c-1_ER_UNCLOS_RATACC,notstarted,,,,custom.central_asia,,line
 #15-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#15-1-1_AG_LND_FRST,notstarted,,,,custom.central_asia,,line
-#15-1-1_AG_LND_FRSTN,notstarted,,,,custom.central_asia,,line
-#15-1-1_AG_LND_TOTL,notstarted,,,,custom.central_asia,,line
 #15-1-2,notstarted,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
 UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
 UN Environment",True,,,,line
-#15-1-2_ER_PTD_TERR,notstarted,,,,custom.central_asia,,line
 #15-2-1,notstarted,Food and Agriculture Organization of the United Nations (FAO) ,True,,,,line
-#15-2-1_AG_LND_FRSTBIOPHA,notstarted,,,,custom.central_asia,,line
-#15-2-1_AG_LND_FRSTCERT,notstarted,,,,custom.central_asia,,line
-#15-2-1_AG_LND_FRSTCHG,notstarted,,,,custom.central_asia,,line
-#15-2-1_AG_LND_FRSTMGT,notstarted,,,,custom.central_asia,,line
-#15-2-1_AG_LND_FRSTPRCT,notstarted,,,,custom.central_asia,,line
 #15-3-1,notstarted,"United Nations Convention to Combat Desertification (UNCCD) and partners, including: Conservation International (CI), European Space Agency (ESA), Food and Agriculture Organization of the United Nations (FAO), Group on Earth Observation Land Degradation Neutrality Initiative (GEO-LDN), International Soil Reference and Information Centre (ISRIC), International Union for Conservation of Nature (IUCN), Joint Research Centre of the European Commission (JRC), United Nations Statistics Division (UNSD), United Nations Development Programme (UNDP), United Nations Environment (UNEP), World Resources Institute (WRI), United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Biological Diversity (CBD).",True,,,,line
-#15-3-1_AG_LND_DGRD,notstarted,,,,custom.central_asia,,line
 #15-4-1,notstarted,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
 UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
 UN Environment",True,,,,line
 #15-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#15-4-2_ER_MTN_DGRDA,notstarted,,,,custom.central_asia,,line
-#15-4-2_ER_MTN_DGRDP,notstarted,,,,custom.central_asia,,line
-#15-4-2_ER_MTN_GRNCOV,notstarted,,,,custom.central_asia,,line
-#15-4-2_ER_MTN_GRNCVI,notstarted,,,,custom.central_asia,,line
-#15-4-2_ER_MTN_TOTL,notstarted,,,,custom.central_asia,,line
 #15-5-1,notstarted,International Union for Conservation of Nature (IUCN),True,,,,line
-#15-5-1_ER_RSK_LST,notstarted,,,,custom.central_asia,,line
 #15-6-1,notstarted,Secretariat of the Convention on Biological Diversity (CBD),True,,,,line
-#15-6-1_ER_CBD_ABSCLRHS,notstarted,,,,custom.central_asia,,line
-#15-6-1_ER_CBD_NAGOYA,notstarted,,,,custom.central_asia,,line
-#15-6-1_ER_CBD_ORSPGRFA,notstarted,,,,custom.central_asia,,line
-#15-6-1_ER_CBD_PTYPGRFA,notstarted,,,,custom.central_asia,,line
-#15-6-1_ER_CBD_SMTA,notstarted,,,,custom.central_asia,,line
 #15-7-1,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,,,line
 #15-8-1,notstarted,International Union for Conservation of Nature (IUCN),True,,,,line
-#15-8-1_ER_IAS_GLOFUN,notstarted,,,,custom.central_asia,,line
-#15-8-1_ER_IAS_LEGIS,notstarted,,,,custom.central_asia,,line
-#15-8-1_ER_IAS_NATBUD,notstarted,,,,custom.central_asia,,line
-#15-8-1_ER_IAS_NBSAP,notstarted,,,,custom.central_asia,,line
 #15-9-1,notstarted,"United Nations Environment Programme (UNEP), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) ",True,,,,line
-#15-9-1_ER_BDY_ABT2NP,notstarted,,,,custom.central_asia,,line
-#15-9-1_ER_BDY_SEEA,notstarted,,,,custom.central_asia,,line
 #15-a-1,notstarted,Organisation for Economic Cooperation and Development (OECD),True,,,,line
-#15-a-1_DC_ODA_BDVDL,notstarted,,,,custom.central_asia,,line
-#15-a-1_DC_ODA_BDVL,notstarted,,,,custom.central_asia,,line
 #15-b-1,notstarted,Organisation for Economic Cooperation and Development (OECD),True,,,,line
-#15-b-1_DC_ODA_BDVDL,notstarted,,,,custom.central_asia,,line
-#15-b-1_DC_ODA_BDVL,notstarted,,,,custom.central_asia,,line
 #15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,,,line
 #16-1-1,notstarted,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",True,,,,line
-#16-1-1_VC_IHR_PSRC,notstarted,,,,custom.central_asia,,line
-#16-1-1_VC_IHR_PSRCN,notstarted,,,,custom.central_asia,,line
 #16-1-2,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),True,,,,line
 #16-1-3,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,,,line
-#16-1-3_VC_VOV_PHYL,notstarted,,,,custom.central_asia,,line
-#16-1-3_VC_VOV_ROBB,notstarted,,,,custom.central_asia,,line
-#16-1-3_VC_VOV_SEXL,notstarted,,,,custom.central_asia,,line
 #16-1-4,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,,,line
-#16-1-4_VC_SNS_WALN_DRK,notstarted,,,,custom.central_asia,,line
 #16-10-1,notstarted,"Office of the United Nations High Commissioner for Human Rights (OHCHR) United Nations Educational, Scientific and Cultural Organization (UNESCO) International Labour Organization (ILO)",True,,,,line
 #16-10-2,notstarted,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",True,,,,line
-#16-10-2_SG_INF_ACCSS,notstarted,,,,custom.central_asia,,line
 #16-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,,,line
-#16-2-1_VC_VAW_PHYPYV,notstarted,,,,custom.central_asia,,line
 #16-2-2,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,,,line
-#16-2-2_VC_HTF_DETV,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVFL,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVFLR,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVOG,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVOGR,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVOP,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVOPR,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVR,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVSX,notstarted,,,,custom.central_asia,,line
-#16-2-2_VC_HTF_DETVSXR,notstarted,,,,custom.central_asia,,line
 #16-2-3,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,,,line
-#16-2-3_VC_VAW_SXVLN,notstarted,,,,custom.central_asia,,line
 #16-3-1,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,,,line
-#16-3-1_VC_PRR_PHYV,notstarted,,,,custom.central_asia,,line
-#16-3-1_VC_PRR_ROBB,notstarted,,,,custom.central_asia,,line
-#16-3-1_VC_PRR_SEXV,notstarted,,,,custom.central_asia,,line
 #16-3-2,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,,,line
-#16-3-2_VC_PRS_UNSNT,notstarted,,,,custom.central_asia,,line
 #16-3-3,notstarted,"United Nations Development Programme (UNDP), United Nations Office on Drugs and Crime (UNODC) and Organization for Economic Cooperation and Development (OECD)",True,,,,line
 #16-4-1,notstarted,United Nations Office on Drugs and Crime (UNODC) and United Nations Conference on Trade and Development (UNCTAD),True,,,,line
 #16-4-2,notstarted,UNODC and UNODA,True,,,,line
-#16-4-2_VC_ARM_SZTRACE,notstarted,,,,custom.central_asia,,line
 #16-5-1,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,,,line
-#16-5-1_IU_COR_BRIB,notstarted,,,,custom.central_asia,,line
 #16-5-2,notstarted,World Bank (WB),True,,,,line
-#16-5-2_IC_FRM_BRIB,notstarted,,,,custom.central_asia,,line
 #16-6-1,notstarted,World Bank (WB),True,,,,line
-#16-6-1_GF_XPD_GBPC,notstarted,,,,custom.central_asia,,line
 #16-6-2,notstarted,United Nations Development Programme (UNDP) ,True,,,,line
-#16-6-2_SP_PSR_OSATIS_GOV,notstarted,,,,custom.central_asia,,line
-#16-6-2_SP_PSR_OSATIS_HLTH,notstarted,,,,custom.central_asia,,line
-#16-6-2_SP_PSR_OSATIS_PRM,notstarted,,,,custom.central_asia,,line
-#16-6-2_SP_PSR_OSATIS_SEC,notstarted,,,,custom.central_asia,,line
-#16-6-2_SP_PSR_SATIS_GOV,notstarted,,,,custom.central_asia,,line
-#16-6-2_SP_PSR_SATIS_HLTH,notstarted,,,,custom.central_asia,,line
-#16-6-2_SP_PSR_SATIS_PRM,notstarted,,,,custom.central_asia,,line
-#16-6-2_SP_PSR_SATIS_SEC,notstarted,,,,custom.central_asia,,line
 #16-7-1,notstarted,Inter-Parliamentary Union (IPU),True,,,,line
-#16-7-1_SG_DMK_JDC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_JDC_CNS,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_JDC_HGR,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_JDC_LWR,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLCC_JC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLCC_LC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLCC_UC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLMP_LC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLMP_UC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLSP_LC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLSP_UC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLYN_LC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLYN_UC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLYP_LC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLYP_UC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLYR_LC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PARLYR_UC,notstarted,,,,custom.central_asia,,line
-#16-7-1_SG_DMK_PSRVC,notstarted,,,,custom.central_asia,,line
 #16-7-2,notstarted,UNDP Oslo Governance Centre,True,,,,line
 #16-8-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
 ",True,,,,line
-#16-8-1_SG_INT_MBRDEV,notstarted,,,,custom.central_asia,,line
-#16-8-1_SG_INT_VRTDEV,notstarted,,,,custom.central_asia,,line
 #16-9-1,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,,,line
-#16-9-1_SG_REG_BRTH,notstarted,,,,custom.central_asia,,line
 #16-a-1,notstarted,United Nations Office of the High Commissioner for Human Rights,True,,,,line
-#16-a-1_SG_NHR_IMPLN,notstarted,,,,custom.central_asia,,line
-#16-a-1_SG_NHR_INTEXSTN,notstarted,,,,custom.central_asia,,line
-#16-a-1_SG_NHR_NOAPPLN,notstarted,,,,custom.central_asia,,line
-#16-a-1_SG_NHR_NOSTUSN,notstarted,,,,custom.central_asia,,line
 #16-b-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),True,,,,line
-#16-b-1_VC_VOV_GDSD,notstarted,,,,custom.central_asia,,line
 #17-1-1,notstarted,International Monetary Fund (IMF) Statistics Department (Government Finance Division),True,,,,line
-#17-1-1_GR_G14_GDP,notstarted,,,,custom.central_asia,,line
-#17-1-1_GR_G14_XDC,notstarted,,,,custom.central_asia,,line
 #17-1-2,notstarted,International Monetary Fund (IMF) Statistics Department (Government Finance Division),True,,,,line
-#17-1-2_GC_GOB_TAXD,notstarted,,,,custom.central_asia,,line
 #17-10-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",True,,,,line
-#17-10-1_TM_TAX_WMFN,notstarted,,,,custom.central_asia,,line
-#17-10-1_TM_TAX_WMPS,notstarted,,,,custom.central_asia,,line
 #17-11-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",True,,,,line
-#17-11-1_TX_EXP_GBMRCH,notstarted,,,,custom.central_asia,,line
-#17-11-1_TX_EXP_GBSVR,notstarted,,,,custom.central_asia,,line
-#17-11-1_TX_IMP_GBMRCH,notstarted,,,,custom.central_asia,,line
-#17-11-1_TX_IMP_GBSVR,notstarted,,,,custom.central_asia,,line
 #17-12-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",True,,,,line
-#17-12-1_TM_TAX_DMFN,notstarted,,,,custom.central_asia,,line
-#17-12-1_TM_TAX_DPRF,notstarted,,,,custom.central_asia,,line
 #17-13-1,notstarted,World Bank,True,,,,line
-#17-13-1_BN_CAB_XOKA_GD_ZS,notstarted,,,,custom.central_asia,,line
-#17-13-1_BN_KLT_PTXL_CD,notstarted,,,,custom.central_asia,,line
-#17-13-1_BX_KLT_DINV_WD_GD_ZS,notstarted,,,,custom.central_asia,,line
-#17-13-1_DP_DOD_DLD2_CR_CG_Z1,notstarted,,,,custom.central_asia,,line
-#17-13-1_DT_DOD_DECT_GN_ZS,notstarted,,,,custom.central_asia,,line
-#17-13-1_FB_BNK_CAPA_ZS,notstarted,,,,custom.central_asia,,line
-#17-13-1_FI_RES_TOTL_MO,notstarted,,,,custom.central_asia,,line
-#17-13-1_FM_LBL_BMNY_IR_ZS,notstarted,,,,custom.central_asia,,line
-#17-13-1_FM_LBL_BMNY_ZG,notstarted,,,,custom.central_asia,,line
-#17-13-1_FP_CPI_TOTL_ZG,notstarted,,,,custom.central_asia,,line
-#17-13-1_GC_BAL_CASH_GD_ZS,notstarted,,,,custom.central_asia,,line
-#17-13-1_GC_TAX_TOTL_GD_ZS,notstarted,,,,custom.central_asia,,line
-#17-13-1_NE_CON_GOVT_KD_ZG,notstarted,,,,custom.central_asia,,line
-#17-13-1_NE_CON_PRVT_KD_ZG,notstarted,,,,custom.central_asia,,line
-#17-13-1_NE_EXP_GNFS_KD_ZG,notstarted,,,,custom.central_asia,,line
-#17-13-1_NE_GDI_TOTL_KD_ZG,notstarted,,,,custom.central_asia,,line
-#17-13-1_NE_IMP_GNFS_KD_ZG,notstarted,,,,custom.central_asia,,line
-#17-13-1_NY_GDP_MKTP_KD_ZG,notstarted,,,,custom.central_asia,,line
-#17-13-1_PA_NUS_ATLS,notstarted,,,,custom.central_asia,,line
-#17-13-1_TG_VAL_TOTL_GD_ZS,notstarted,,,,custom.central_asia,,line
 #17-14-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#17-14-1_SG_CPA_SDEVP,notstarted,,,,custom.central_asia,,line
 #17-15-1,notstarted,"Organisation for Economic Co-operation and Development (OECD)
 United Nations Development Programme (UNDP)",True,,,,line
-#17-15-1_SG_PLN_PRPOLRES,notstarted,,,,custom.central_asia,,line
-#17-15-1_SG_PLN_PRVNDI,notstarted,,,,custom.central_asia,,line
-#17-15-1_SG_PLN_PRVRICTRY,notstarted,,,,custom.central_asia,,line
-#17-15-1_SG_PLN_PRVRIMON,notstarted,,,,custom.central_asia,,line
-#17-15-1_SG_PLN_RECNDI,notstarted,,,,custom.central_asia,,line
-#17-15-1_SG_PLN_RECRICTRY,notstarted,,,,custom.central_asia,,line
-#17-15-1_SG_PLN_RECRIMON,notstarted,,,,custom.central_asia,,line
-#17-15-1_SG_PLN_REPOLRES,notstarted,,,,custom.central_asia,,line
 #17-16-1,notstarted,"Organisation for Economic Co-operation and Development (OECD)
 United Nations Development Programme (UNDP)",True,,,,line
-#17-16-1_SG_PLN_MSTKSDG_P,notstarted,,,,custom.central_asia,,line
-#17-16-1_SG_PLN_MSTKSDG_R,notstarted,,,,custom.central_asia,,line
 #17-17-1,notstarted,World Bank,True,,,,line
-#17-17-1_GF_COM_PPPI,notstarted,,,,custom.central_asia,,line
-#17-17-1_GF_COM_PPPI_KD,notstarted,,,,custom.central_asia,,line
 #17-18-2,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),True,,,,line
-#17-18-2_SG_STT_FPOS,notstarted,,,,custom.central_asia,,line
 #17-18-3,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),True,,,,line
-#17-18-3_SG_STT_NSDSFDDNR,notstarted,,,,custom.central_asia,,line
-#17-18-3_SG_STT_NSDSFDGVT,notstarted,,,,custom.central_asia,,line
-#17-18-3_SG_STT_NSDSFDOTHR,notstarted,,,,custom.central_asia,,line
-#17-18-3_SG_STT_NSDSFND,notstarted,,,,custom.central_asia,,line
-#17-18-3_SG_STT_NSDSIMPL,notstarted,,,,custom.central_asia,,line
 #17-19-1,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),True,,,,line
-#17-19-1_SG_STT_CAPTY,notstarted,,,,custom.central_asia,,line
 #17-19-2,notstarted,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",True,,,,line
-#17-19-2_SG_REG_BRTH90N,notstarted,,,,custom.central_asia,,line
-#17-19-2_SG_REG_CENSUSN,notstarted,,,,custom.central_asia,,line
-#17-19-2_SG_REG_DETH75N,notstarted,,,,custom.central_asia,,line
 #17-2-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,,,line
-#17-2-1_DC_ODA_LDCG,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_LDCS,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_LLDC,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_LLDCG,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_SIDS,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_SIDSG,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_TOTG,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_TOTGGE,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_TOTL,notstarted,,,,custom.central_asia,,line
-#17-2-1_DC_ODA_TOTLGE,notstarted,,,,custom.central_asia,,line
 #17-3-1,notstarted,OECD and UNCTAD,True,,,,line
-#17-3-1_GF_FRN_FDI,notstarted,,,,custom.central_asia,,line
 #17-3-2,notstarted,World Bank (WB),True,,,,line
-#17-3-2_BX_TRF_PWKR,notstarted,,,,custom.central_asia,,line
 #17-4-1,notstarted,World Bank (WB),True,,,,line
-#17-4-1_DT_TDS_DECT,notstarted,,,,custom.central_asia,,line
 #17-5-1,notstarted,United Nations Conference on Trade and Development (UNCTAD),True,,,,line
 #17-6-1,notstarted,International Telecommunication Union (ITU),True,,,,line
-#17-6-1_IT_NET_BBND,notstarted,,,,custom.central_asia,,line
-#17-6-1_IT_NET_BBNDN,notstarted,,,,custom.central_asia,,line
 #17-7-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#17-7-1_DC_ENVTECH_EXP,notstarted,,,,custom.central_asia,,line
-#17-7-1_DC_ENVTECH_IMP,notstarted,,,,custom.central_asia,,line
-#17-7-1_DC_ENVTECH_INV,notstarted,,,,custom.central_asia,,line
-#17-7-1_DC_ENVTECH_REXP,notstarted,,,,custom.central_asia,,line
-#17-7-1_DC_ENVTECH_RIMP,notstarted,,,,custom.central_asia,,line
-#17-7-1_DC_ENVTECH_TT,notstarted,,,,custom.central_asia,,line
 #17-8-1,notstarted,International Telecommunication Union (ITU),True,,,,line
-#17-8-1_IT_USE_ii99,notstarted,,,,custom.central_asia,,line
 #17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,,,line
-#17-9-1_DC_FTA_TOTAL,notstarted,,,,custom.central_asia,,line
 #2-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
 #2-1-2,notstarted,Food and Agriculture Organisation of the United Nations (FAO),True,,,,line
-#2-1-2_AG_PRD_FIESMS,notstarted,,,,custom.central_asia,,line
 #2-2-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
 World Bank (WB)",True,,,,line
-#2-2-1_SH_STA_STNT,notstarted,,,,custom.central_asia,,line
-#2-2-1_SH_STA_STNTN,notstarted,,,,custom.central_asia,,line
 #2-2-2,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
 World Bank (WB)",True,,,,line
-#2-2-2_SH_STA_WAST,notstarted,,,,custom.central_asia,,line
-#2-2-2_SH_STA_WASTN,notstarted,,,,custom.central_asia,,line
-#2-2-2_SN_STA_OVWGT,notstarted,,,,custom.central_asia,,line
-#2-2-2_SN_STA_OVWGTN,notstarted,,,,custom.central_asia,,line
 #2-2-3,notstarted,World Health Organization (WHO),True,,,,line
-#2-2-3_SH_STA_ANEM,notstarted,,,,custom.central_asia,,line
-#2-2-3_SH_STA_ANEM_NPRG,notstarted,,,,custom.central_asia,,line
-#2-2-3_SH_STA_ANEM_PREG,notstarted,,,,custom.central_asia,,line
 #2-3-1,notstarted,Food and Agriculture Organization (FAO),True,,,,line
-#2-3-1_PD_AGR_LSFP,notstarted,,,,custom.central_asia,,line
-#2-3-1_PD_AGR_SSFP,notstarted,,,,custom.central_asia,,line
 #2-3-2,notstarted,Food and Agriculture Organization (FAO),True,,,,line
-#2-3-2_SI_AGR_LSFP,notstarted,,,,custom.central_asia,,line
-#2-3-2_SI_AGR_SSFP,notstarted,,,,custom.central_asia,,line
 #2-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#2-4-1_AG_LND_AGRBIO,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_AGRWAG,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_FERTMG,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_FIES,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_FOVH,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_H2OAVAIL,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_LNDSTR,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_NFI,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_PSTCDSMG,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_RMM,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_SDGRD,notstarted,,,,custom.central_asia,,line
-#2-4-1_AG_LND_SUST,notstarted,,,,custom.central_asia,,line
 #2-5-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#2-5-1_ER_GRF_ANIMKPT,notstarted,,,,custom.central_asia,,line
-#2-5-1_ER_GRF_ANIMRCNTN,notstarted,,,,custom.central_asia,,line
-#2-5-1_ER_GRF_ANIMRCNTN_TRB,notstarted,,,,custom.central_asia,,line
-#2-5-1_ER_GRF_PLNTSTOR,notstarted,,,,custom.central_asia,,line
 #2-5-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#2-5-2_ER_NOEX_LBREDN,notstarted,,,,custom.central_asia,,line
-#2-5-2_ER_RSK_LBREDS,notstarted,,,,custom.central_asia,,line
-#2-5-2_ER_UNK_LBREDN,notstarted,,,,custom.central_asia,,line
 #2-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#2-a-1_AG_PRD_AGVAS,notstarted,,,,custom.central_asia,,line
-#2-a-1_AG_PRD_ORTIND,notstarted,,,,custom.central_asia,,line
-#2-a-1_AG_XPD_AGSGB,notstarted,,,,custom.central_asia,,line
 #2-a-2,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,,,line
-#2-a-2_DC_TOF_AGRL,notstarted,,,,custom.central_asia,,line
 #2-b-1,notstarted,The World Trade Organization (WTO),True,,,,line
-#2-b-1_AG_PRD_XSUBDY,notstarted,,,,custom.central_asia,,line
 #2-c-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#2-c-1_AG_FPA_CFPI,notstarted,,,,custom.central_asia,,line
-#2-c-1_AG_FPA_COMM,notstarted,,,,custom.central_asia,,line
 #3-1-1,notstarted,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,True,,,,line
-#3-1-1_SH_STA_MORT,notstarted,,,,custom.central_asia,,line
 #3-1-2,notstarted,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),True,,,,line
-#3-1-2_SH_STA_BRTC,notstarted,,,,custom.central_asia,,line
 #3-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,,,line
-#3-2-1_SH_DYN_IMRT,notstarted,,,,custom.central_asia,,line
-#3-2-1_SH_DYN_IMRTN,notstarted,,,,custom.central_asia,,line
-#3-2-1_SH_DYN_MORT,notstarted,,,,custom.central_asia,,line
-#3-2-1_SH_DYN_MORTN,notstarted,,,,custom.central_asia,,line
 #3-2-2,notstarted,United Nations Children&apos;s Fund (UNICEF) ,True,,,,line
-#3-2-2_SH_DYN_NMRT,notstarted,,,,custom.central_asia,,line
-#3-2-2_SH_DYN_NMRTN,notstarted,,,,custom.central_asia,,line
 #3-3-1,notstarted,The Joint United Nations Programme on HIV/AIDS (UNAIDS),True,,,,line
-#3-3-1_SH_HIV_INCD,notstarted,,,,custom.central_asia,,line
 #3-3-2,notstarted,World Health Organization (WHO),True,,,,line
-#3-3-2_SH_TBS_INCD,notstarted,,,,custom.central_asia,,line
 #3-3-3,notstarted,Global Malaria Programme at World Health Organization(WHO),True,,,,line
-#3-3-3_SH_STA_MALR,notstarted,,,,custom.central_asia,,line
 #3-3-4,notstarted,World Health Organization ,True,,,,line
-#3-3-4_SH_HAP_HBSAG,notstarted,,,,custom.central_asia,,line
 #3-3-5,notstarted,World Health Organization (WHO),True,,,,line
-#3-3-5_SH_TRP_INTVN,notstarted,,,,custom.central_asia,,line
 #3-4-1,notstarted,World Health Organization (WHO) ,True,,,,line
-#3-4-1_SH_DTH_NCD,notstarted,,,,custom.central_asia,,line
-#3-4-1_SH_DTH_NCOM,notstarted,,,,custom.central_asia,,line
 #3-4-2,notstarted,World Health Organization (WHO) ,True,,,,line
-#3-4-2_SH_STA_SCIDE,notstarted,,,,custom.central_asia,,line
-#3-4-2_SH_STA_SCIDEN,notstarted,,,,custom.central_asia,,line
 #3-5-1,notstarted,"World Health Organization (WHO) 
 United Nations Office on Drugs and Crime (UNODC) ",True,,,,line
-#3-5-1_SH_SUD_ALCOL,notstarted,,,,custom.central_asia,,line
-#3-5-1_SH_SUD_TREAT,notstarted,,,,custom.central_asia,,line
 #3-5-2,notstarted,World Health Organization (WHO) ,True,,,,line
-#3-5-2_SH_ALC_CONSPT,notstarted,,,,custom.central_asia,,line
 #3-6-1,notstarted,World Health Organization (WHO) ,True,,,,line
-#3-6-1_SH_STA_TRAF,notstarted,,,,custom.central_asia,,line
 #3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA)
 United Nations Population Fund (UNFPA)",True,,,,line
-#3-7-1_SH_FPL_MTMM,notstarted,,,,custom.central_asia,,line
 #3-7-2,notstarted,"Population Division, Department of Economic and Social Affairs (DESA) 
 United Nations Population Fund (UNFPA)",True,,,,line
-#3-7-2_SP_DYN_ADKL,notstarted,,,,custom.central_asia,,line
 #3-8-1,notstarted,World Health Organization (WHO) ,True,,,,line
-#3-8-1_SH_ACS_UNHC,notstarted,,,,custom.central_asia,,line
 #3-8-2,notstarted,World Health Organization (WHO) and the World Bank,True,,,,line
-#3-8-2_SH_XPD_EARN10,notstarted,,,,custom.central_asia,,line
-#3-8-2_SH_XPD_EARN25,notstarted,,,,custom.central_asia,,line
 #3-9-1,notstarted,World Health Organization (WHO),True,,,,line
-#3-9-1_SH_AAP_ASMORT,notstarted,,,,custom.central_asia,,line
-#3-9-1_SH_HAP_ASMORT,notstarted,,,,custom.central_asia,,line
-#3-9-1_SH_STA_ASAIRP,notstarted,,,,custom.central_asia,,line
 #3-9-2,notstarted,World Health Organization (WHO),True,,,,line
-#3-9-2_SH_STA_WASHARI,notstarted,,,,custom.central_asia,,line
 #3-9-3,notstarted,"World Health Organization (WHO)
  ",True,,,,line
-#3-9-3_SH_STA_POISN,notstarted,,,,custom.central_asia,,line
 #3-a-1,notstarted,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,True,,,,line
-#3-a-1_SH_PRV_SMOK,notstarted,,,,custom.central_asia,,line
 #3-b-1,notstarted,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",True,,,,line
-#3-b-1_SH_ACS_DTP3,notstarted,,,,custom.central_asia,,line
 #3-b-2,notstarted,Organisation for Economic Co-operation and Development (OECD) ,True,,,,line
-#3-b-2_DC_TOF_HLTHL,notstarted,,,,custom.central_asia,,line
-#3-b-2_DC_TOF_HLTHNT,notstarted,,,,custom.central_asia,,line
 #3-b-3,notstarted,World Health Organization (WHO),True,,,,line
-#3-b-3_SH_HLF_EMED,notstarted,,,,custom.central_asia,,line
 #3-c-1,notstarted,"Health Workforce Department, World Health Organization (WHO)",True,,,,line
-#3-c-1_SH_MED_DEN,notstarted,,,,custom.central_asia,,line
-#3-c-1_SH_MED_HWRKDIS,notstarted,,,,custom.central_asia,,line
 #3-d-1,notstarted,World Health Organization (WHO),True,,,,line
-#3-d-1_SH_IHR_CAPS,notstarted,,,,custom.central_asia,,line
 #3-d-2,notstarted,World Health Organization (WHO) ,True,,,,line
-#3-d-2_SH_BLD_ECOLI,notstarted,,,,custom.central_asia,,line
-#3-d-2_SH_BLD_MRSA,notstarted,,,,custom.central_asia,,line
 #4-1-1,notstarted,UNESCO Institute of Statistics (UIS),True,,,,line
-#4-1-1_SE_TOT_PRFL,notstarted,,,,custom.central_asia,,line
 #4-1-2,notstarted,UNESCO Institute for Statistics (UIS),True,,,,line
-#4-1-2_SE_TOT_CPLR,notstarted,,,,custom.central_asia,,line
 #4-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,,,line
-#4-2-1_SE_DEV_ONTRK,notstarted,,,,custom.central_asia,,line
 #4-2-2,notstarted,UNESCO Institute for Statistics (UIS),True,,,,line
-#4-2-2_SE_PRE_PARTN,notstarted,,,,custom.central_asia,,line
 #4-3-1,notstarted,UNESCO Institute for Statistics (UIS),True,,,,line
-#4-3-1_SE_ADT_EDUCTRN,notstarted,,,,custom.central_asia,,line
 #4-4-1,notstarted,International Telecommunication Union (ITU),True,,,,line
-#4-4-1_SE_ADT_ACTS,notstarted,,,,custom.central_asia,,line
 #4-5-1,notstarted,UNESCO Institute for Statistics (UIS),True,,,,line
-#4-5-1_SE_AGP_CPRA,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_ALP_CPLR,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_AWP_CPRA,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_GPI_ICTS,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_GPI_PART,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_GPI_PTNPRE,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_GPI_TCAQ,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_IMP_FPOF,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_LGP_ACHI,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_NAP_ACHI,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_TOT_GPI,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_TOT_GPI_FS,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_TOT_RUPI,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_TOT_SESPI,notstarted,,,,custom.central_asia,,line
-#4-5-1_SE_TOT_SESPI_FS,notstarted,,,,custom.central_asia,,line
 #4-6-1,notstarted,UNESCO Institute for Statistics (UIS),True,,,,line
-#4-6-1_SE_ADT_FUNS,notstarted,,,,custom.central_asia,,line
 #4-7-1,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)",True,,,,line
-#4-7-1_SE_GCEDESD_CUR,notstarted,,,,custom.central_asia,,line
-#4-7-1_SE_GCEDESD_NEP,notstarted,,,,custom.central_asia,,line
-#4-7-1_SE_GCEDESD_SAS,notstarted,,,,custom.central_asia,,line
-#4-7-1_SE_GCEDESD_TED,notstarted,,,,custom.central_asia,,line
 #4-a-1,notstarted,UNESCO Institute for Statistics (UIS),True,,,,line
-#4-a-1_SE_ACC_HNDWSH,notstarted,,,,custom.central_asia,,line
-#4-a-1_SE_ACS_CMPTR,notstarted,,,,custom.central_asia,,line
-#4-a-1_SE_ACS_ELECT,notstarted,,,,custom.central_asia,,line
-#4-a-1_SE_ACS_H2O,notstarted,,,,custom.central_asia,,line
-#4-a-1_SE_ACS_INTNT,notstarted,,,,custom.central_asia,,line
-#4-a-1_SE_ACS_SANIT,notstarted,,,,custom.central_asia,,line
-#4-a-1_SE_INF_DSBL,notstarted,,,,custom.central_asia,,line
 #4-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,,,line
-#4-b-1_DC_TOF_SCHIPSL,notstarted,,,,custom.central_asia,,line
 #4-c-1,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),True,,,,line
-#4-c-1_SE_TRA_GRDL,notstarted,,,,custom.central_asia,,line
 #5-1-1,notstarted,"UN Women, World Bank Group, OECD Development Centre",True,,,,line
-#5-1-1_SG_LGL_GENEQEMP,notstarted,,,,custom.central_asia,,line
-#5-1-1_SG_LGL_GENEQLFP,notstarted,,,,custom.central_asia,,line
-#5-1-1_SG_LGL_GENEQMAR,notstarted,,,,custom.central_asia,,line
-#5-1-1_SG_LGL_GENEQVAW,notstarted,,,,custom.central_asia,,line
 #5-2-1,notstarted,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)
 United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
 United Nations Office on Drugs and Crime (UNODC)
 United Nations Population Fund (UNFPA)
 United Nations Statistics Division (UNSD)",True,,,,line
-#5-2-1_VC_VAW_MARR,notstarted,,,,custom.central_asia,,line
 #5-2-2,notstarted,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
 United Nations Children&apos;s Fund (UNICEF)
 United Nations Statistics Division (UNSD)
 World Health Organization (WHO)
 United Nations Population Fund (UNFPA)",True,,,,line
 #5-3-1,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,,,line
-#5-3-1_SP_DYN_MRBF15,notstarted,,,,custom.central_asia,,line
-#5-3-1_SP_DYN_MRBF18,notstarted,,,,custom.central_asia,,line
 #5-3-2,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,,,line
 #5-4-1,notstarted,UN Statistics Division (UNSD) and UN WOMEN,True,,,,line
-#5-4-1_SL_DOM_TSPD,notstarted,,,,custom.central_asia,,line
-#5-4-1_SL_DOM_TSPDCW,notstarted,,,,custom.central_asia,,line
-#5-4-1_SL_DOM_TSPDDC,notstarted,,,,custom.central_asia,,line
 #5-5-1,notstarted,UN-Women,True,,,,line
-#5-5-1_SG_GEN_LOCGELS,notstarted,,,,custom.central_asia,,line
-#5-5-1_SG_GEN_PARL,notstarted,,,,custom.central_asia,,line
-#5-5-1_SG_GEN_PARLN,notstarted,,,,custom.central_asia,,line
-#5-5-1_SG_GEN_PARLNT,notstarted,,,,custom.central_asia,,line
 #5-5-2,notstarted,International Labour Organization (ILO),True,,,,line
-#5-5-2_IC_GEN_MGTL,notstarted,,,,custom.central_asia,,line
-#5-5-2_IC_GEN_MGTL_19ICLS,notstarted,,,,custom.central_asia,,line
-#5-5-2_IC_GEN_MGTN,notstarted,,,,custom.central_asia,,line
-#5-5-2_IC_GEN_MGTN_19ICLS,notstarted,,,,custom.central_asia,,line
 #5-6-1,notstarted,United Nations Population Fund (UNFPA),True,,,,line
-#5-6-1_SH_FPL_INFM,notstarted,,,,custom.central_asia,,line
-#5-6-1_SH_FPL_INFMCU,notstarted,,,,custom.central_asia,,line
-#5-6-1_SH_FPL_INFMRH,notstarted,,,,custom.central_asia,,line
-#5-6-1_SH_FPL_INFMSR,notstarted,,,,custom.central_asia,,line
 #5-6-2,notstarted,United Nations Population Fund (UNFPA),True,,,,line
-#5-6-2_SH_LGR_ACSRHE,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC1,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC10,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC11,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC12,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC13,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC2,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC3,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC4,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC5,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC6,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC7,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC8,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHEC9,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHES1,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHES2,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHES3,notstarted,,,,custom.central_asia,,line
-#5-6-2_SH_LGR_ACSRHES4,notstarted,,,,custom.central_asia,,line
 #5-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#5-a-1_SP_GNP_WNOWNS,notstarted,,,,custom.central_asia,,line
-#5-a-1_SP_LGL_LNDAGSEC,notstarted,,,,custom.central_asia,,line
 #5-a-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#5-a-2_SG_LGL_LNDFEMOD,notstarted,,,,custom.central_asia,,line
 #5-b-1,notstarted,International Telecommunication Union (ITU),True,,,,line
-#5-b-1_IT_MOB_OWN,notstarted,,,,custom.central_asia,,line
 #5-c-1,notstarted,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),True,,,,line
-#5-c-1_SG_GEN_EQPWN,notstarted,,,,custom.central_asia,,line
 #6-1-1,notstarted,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",True,,,,line
-#6-1-1_SH_H2O_SAFE,notstarted,,,,custom.central_asia,,line
 #6-2-1,notstarted,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",True,,,,line
-#6-2-1_SH_SAN_DEFECT,notstarted,,,,custom.central_asia,,line
-#6-2-1_SH_SAN_HNDWSH,notstarted,,,,custom.central_asia,,line
-#6-2-1_SH_SAN_SAFE,notstarted,,,,custom.central_asia,,line
 #6-3-1,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
 World Health Organization (WHO)
 United Nations Statistics Division (UNSD)",True,,,,line
-#6-3-1_EN_WWT_GEN,notstarted,,,,custom.central_asia,,line
-#6-3-1_EN_WWT_TREAT,notstarted,,,,custom.central_asia,,line
-#6-3-1_EN_WWT_TREATR,notstarted,,,,custom.central_asia,,line
-#6-3-1_EN_WWT_WWDS,notstarted,,,,custom.central_asia,,line
 #6-3-2,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#6-3-2_EN_H2O_GRAMBQ,notstarted,,,,custom.central_asia,,line
-#6-3-2_EN_H2O_OPAMBQ,notstarted,,,,custom.central_asia,,line
-#6-3-2_EN_H2O_RVAMBQ,notstarted,,,,custom.central_asia,,line
-#6-3-2_EN_H2O_WBAMBQ,notstarted,,,,custom.central_asia,,line
 #6-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#6-4-1_ER_H2O_WUEYST,notstarted,,,,custom.central_asia,,line
 #6-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#6-4-2_ER_H2O_STRESS,notstarted,,,,custom.central_asia,,line
 #6-5-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#6-5-1_ER_H2O_IWRMD,notstarted,,,,custom.central_asia,,line
-#6-5-1_ER_H2O_IWRMD_EE,notstarted,,,,custom.central_asia,,line
-#6-5-1_ER_H2O_IWRMD_FI,notstarted,,,,custom.central_asia,,line
-#6-5-1_ER_H2O_IWRMD_IP,notstarted,,,,custom.central_asia,,line
-#6-5-1_ER_H2O_IWRMD_MI,notstarted,,,,custom.central_asia,,line
 #6-5-2,notstarted,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
 United Nations Economic Commission for Europe (UNECE)",True,,,,line
 #6-6-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#6-6-1_EN_LKRV_PWAC,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_LKRV_PWAN,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_LKRV_PWAP,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_LKRV_SWAC,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_LKRV_SWAN,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_LKRV_SWAP,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_LKW_QLTRB,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_LKW_QLTRST,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_RSRV_MNWAN,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_RSRV_MNWAP,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_RSRV_MXWAN,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_RSRV_MXWAP,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_WBE_HMWTL,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_WBE_INWTL,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_WBE_NDQTGRW,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_WBE_NDQTRVR,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_WBE_WTLN,notstarted,,,,custom.central_asia,,line
-#6-6-1_EN_WBE_WTLP,notstarted,,,,custom.central_asia,,line
 #6-a-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",True,,,,line
-#6-a-1_DC_TOF_WASHL,notstarted,,,,custom.central_asia,,line
 #6-b-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",True,,,,line
-#6-b-1_ER_H2O_PRDU,notstarted,,,,custom.central_asia,,line
-#6-b-1_ER_H2O_RURP,notstarted,,,,custom.central_asia,,line
-#6-b-1_ER_WAT_PART,notstarted,,,,custom.central_asia,,line
-#6-b-1_ER_WAT_PRDU,notstarted,,,,custom.central_asia,,line
 #7-1-1,notstarted,World Bank Group,True,,,,line
-#7-1-1_EG_ACS_ELEC,notstarted,,,,custom.central_asia,,line
 #7-1-2,notstarted,World Health Organization (WHO),True,,,,line
 #7-2-1,notstarted,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD) 
 International Renewable Energy Agency (IRENA)",True,,,,line
-#7-2-1_EG_FEC_RNEW,notstarted,,,,custom.central_asia,,line
 #7-3-1,notstarted,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD)",True,,,,line
-#7-3-1_EG_EGY_PRIM,notstarted,,,,custom.central_asia,,line
 #7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),True,,,,line
-#7-a-1_EG_IFF_RANDN,notstarted,,,,custom.central_asia,,line
 #7-b-1,notstarted,International Renewable Energy Agency (IRENA),True,,,,line
-#7-b-1_EG_EGY_RNEW,notstarted,,,,custom.central_asia,,line
 #8-1-1,notstarted,United Nations Statistics Division (UNSD),True,,,,line
-#8-1-1_NY_GDP_PCAP,notstarted,,,,custom.central_asia,,line
 #8-10-1,notstarted,International Monetary Fund (STAFI - Financial Access Survey Team) ,True,,,,line
-#8-10-1_FB_ATM_TOTL,notstarted,,,,custom.central_asia,,line
-#8-10-1_FB_CBK_BRCH,notstarted,,,,custom.central_asia,,line
 #8-10-2,notstarted,World Bank ,True,,,,line
-#8-10-2_FB_BNK_ACCSS,notstarted,,,,custom.central_asia,,line
-#8-10-2_FB_BNK_ACCSS_ILF,notstarted,,,,custom.central_asia,,line
-#8-10-2_FB_BNK_ACCSS_OLF,notstarted,,,,custom.central_asia,,line
 #8-2-1,notstarted,International Labour Organization (ILO) ,True,,,,line
-#8-2-1_SL_EMP_PCAP,notstarted,,,,custom.central_asia,,line
 #8-3-1,notstarted,International Labour Organization (ILO),True,,,,line
-#8-3-1_SL_ISV_IFEM,notstarted,,,,custom.central_asia,,line
-#8-3-1_SL_ISV_IFEM_19ICLS,notstarted,,,,custom.central_asia,,line
 #8-4-1,notstarted,United Nations Environment Programme (UNEP),True,,,,line
 #8-4-2,notstarted,United Nations Environment Programme (UNEP),True,,,,line
-#8-4-2_EN_MAT_DOMCMPC,notstarted,,,,custom.central_asia,,line
-#8-4-2_EN_MAT_DOMCMPG,notstarted,,,,custom.central_asia,,line
-#8-4-2_EN_MAT_DOMCMPT,notstarted,,,,custom.central_asia,,line
 #8-5-1,notstarted,International Labour Organization (ILO),True,,,,line
-#8-5-1_SL_EMP_EARN,notstarted,,,,custom.central_asia,,line
 #8-5-2,notstarted,International Labour Organization (ILO) ,True,,,,line
-#8-5-2_SL_TLF_UEM,notstarted,,,,custom.central_asia,,line
-#8-5-2_SL_TLF_UEMDIS,notstarted,,,,custom.central_asia,,line
-#8-5-2_SL_TLF_UEMDIS_19ICLS,notstarted,,,,custom.central_asia,,line
-#8-5-2_SL_TLF_UEM_19ICLS,notstarted,,,,custom.central_asia,,line
 #8-6-1,notstarted,International Labour Organization (ILO),True,,,,line
-#8-6-1_SL_TLF_NEET,notstarted,,,,custom.central_asia,,line
-#8-6-1_SL_TLF_NEET_19ICLS,notstarted,,,,custom.central_asia,,line
 #8-7-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 International Labour Organization (ILO)",True,,,,line
-#8-7-1_SL_TLF_CHLDEA,notstarted,,,,custom.central_asia,,line
-#8-7-1_SL_TLF_CHLDEC,notstarted,,,,custom.central_asia,,line
 #8-8-1,notstarted,International Labour Organisation (ILO),True,,,,line
-#8-8-1_SL_EMP_FTLINJUR,notstarted,,,,custom.central_asia,,line
-#8-8-1_SL_EMP_INJUR,notstarted,,,,custom.central_asia,,line
 #8-8-2,notstarted,International Labour Organization (ILO),True,,,,line
-#8-8-2_SL_LBR_NTLCPL,notstarted,,,,custom.central_asia,,line
 #8-9-1,notstarted,World Tourism Organization (UNWTO) ,True,,,,line
-#8-9-1_ST_GDP_ZS,notstarted,,,,custom.central_asia,,line
 #8-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) ,True,,,,line
-#8-a-1_DC_TOF_TRDCMDL,notstarted,,,,custom.central_asia,,line
-#8-a-1_DC_TOF_TRDCML,notstarted,,,,custom.central_asia,,line
-#8-a-1_DC_TOF_TRDDBMDL,notstarted,,,,custom.central_asia,,line
-#8-a-1_DC_TOF_TRDDBML,notstarted,,,,custom.central_asia,,line
 #8-b-1,notstarted,International Labour Organization (ILO) ,True,,,,line
-#8-b-1_SL_CPA_YEMP,notstarted,,,,custom.central_asia,,line
 #9-1-1,notstarted,World Bank,True,,,,line
-#9-1-1_SP_ROD_R2KM,notstarted,,,,custom.central_asia,,line
 #9-1-2,notstarted,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Economic Commission for Europe (UNECE); United Nations Conference on Trade and Development (UNCTAD).,True,,,,line
-#9-1-2_IS_RDP_FRGVOL,notstarted,,,,custom.central_asia,,line
-#9-1-2_IS_RDP_PFVOL,notstarted,,,,custom.central_asia,,line
-#9-1-2_IS_RDP_PORFVOL,notstarted,,,,custom.central_asia,,line
 #9-2-1,notstarted,United Nations Industrial Development Organization (UNIDO),True,,,,line
-#9-2-1_NV_IND_MANF,notstarted,,,,custom.central_asia,,line
-#9-2-1_NV_IND_MANFPC,notstarted,,,,custom.central_asia,,line
-#9-2-1_NV_IND_MANF_CD,notstarted,,,,custom.central_asia,,line
 #9-2-2,notstarted,"United Nations Industrial Development Organization (UNIDO)
 (with the collaboration of the International Labour Organization &#x2013; ILO)",True,,,,line
-#9-2-2_SL_TLF_MANF,notstarted,,,,custom.central_asia,,line
-#9-2-2_SL_TLF_MANF_19ICLS,notstarted,,,,custom.central_asia,,line
 #9-3-1,notstarted,United Nations Industrial Development Organization (UNIDO),True,,,,line
-#9-3-1_NV_IND_SSIS,notstarted,,,,custom.central_asia,,line
 #9-3-2,notstarted,"United Nations Industrial Development Organization (UNIDO)
 World Bank",True,,,,line
-#9-3-2_FC_ACC_SSID,notstarted,,,,custom.central_asia,,line
 #9-4-1,notstarted,"International Energy Agency (IEA)
 United Nations Industrial Development Organization (UNIDO)",True,,,,line
-#9-4-1_EN_ATM_CO2,notstarted,,,,custom.central_asia,,line
-#9-4-1_EN_ATM_CO2GDP,notstarted,,,,custom.central_asia,,line
-#9-4-1_EN_ATM_CO2MVA,notstarted,,,,custom.central_asia,,line
 #9-5-1,notstarted,UNESCO Institute for Statistics (UIS),True,,,,line
-#9-5-1_GB_XPD_RSDV,notstarted,,,,custom.central_asia,,line
 #9-5-2,notstarted,UNESCO Institute for Statistics (UIS) ,True,,,,line
-#9-5-2_GB_POP_SCIERD,notstarted,,,,custom.central_asia,,line
 #9-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,,,line
-#9-a-1_DC_TOF_INFRAL,notstarted,,,,custom.central_asia,,line
 #9-b-1,notstarted,United Nations Industrial Development Organization (UNIDO),True,,,,line
-#9-b-1_NV_IND_TECH,notstarted,,,,custom.central_asia,,line
 #9-c-1,notstarted,International Telecommunication Union (ITU),True,,,,line
-#9-c-1_IT_MOB_2GNTWK,notstarted,,,,custom.central_asia,,line
-#9-c-1_IT_MOB_3GNTWK,notstarted,,,,custom.central_asia,,line
-#9-c-1_IT_MOB_4GNTWK,notstarted,,,,custom.central_asia,,line
