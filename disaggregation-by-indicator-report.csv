@@ -1,3 +1,9 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"GeoAreaName, Age, Location, Sex",4
-#1-1-1-a,"GeoAreaName, Age, Location, Sex",4
+#1-1-1-a,"GeoAreaName, Poverty Line",2
+#16-10-1-a,"Metric, GeoAreaName",2
+#16-10-2-a,"Metric, GeoAreaName",2
+#16-3-2-a,"Metric, GeoAreaName",2
+#16-5-2-a,"Metric, GeoAreaName",2
+#16-6-2-a,"Metric, GeoAreaName",2
+#16-6-2-b,"Metric, GeoAreaName",2
